@@ -7,28 +7,19 @@ if(!isset($argv[1])){
 	die('missing arg');
 }
 $link = $argv[1];
-echo "processing ".$link."\n";
 if(empty($link )){ echo "missing arg"; exit(0); }
 
 fetch($link,$base);
-
 function fetch($link,$base){
 	$link = $base.$link;
-	try 
-	{
-	    $m = new Mongo(); // connect
-	    $db = $m->selectDB("alexa");
-	}
-	catch ( MongoConnectionException $e ) 
-	{
-	    echo 'db error';
-	    exit();
-	}
 	$html = file_get_dom($link);
 	if(!empty($html)){
 		$country_data = $html('a[href^="/topsites/countries/"]',0);
-		print_r($country_data->getPlainText());
-		//$elements = $html('table a');
-		//$db->poems->insert(array('link'=>$sublink));
+		$score = "";
+		$score_data = $html('strong[class^="metricsUrl"]',0);
+		if($country_data) {
+			$score =!empty($score_data) ? str_replace(",","",$score_data->getPlainText()):NULL;
+			echo $score."--".$country_data->getPlainText();
+		 }
 	}
 }
