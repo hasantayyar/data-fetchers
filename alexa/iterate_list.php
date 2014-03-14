@@ -1,10 +1,10 @@
 <?php
-$list_str = file_get_contents("top-1m.csv");
+$list_str = file_get_contents("top.tmp.csv");
 $array_list = str_getcsv($list_str,"\n");
 
 foreach($array_list as $site){
-	echo  "getting ".$site." ";
-	 try
+	echo  "getting ".$site."\n ";
+	try
         {
             $m = new Mongo(); // connect
             $db = $m->selectDB("alexa");
