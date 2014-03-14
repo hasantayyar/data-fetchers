@@ -20453,3 +20453,1445 @@
 { "_id" : { "$oid" : "5322ca43cf93a1fa1a8b53f5" }, "site" : "allmovie.com", "country" : "United States", "score" : "19530" }
 { "_id" : { "$oid" : "5322ca45cf93a1fa1a8b53f6" }, "site" : "cirquedusoleil.com", "country" : "United States", "score" : "18809" }
 { "_id" : { "$oid" : "5322ca47cf93a1fa1a8b53f7" }, "site" : "livra.com", "country" : "Mexico", "score" : "14418" }
+{ "_id" : { "$oid" : "5322ca49cf93a1fa1a8b53f8" }, "site" : "samba.com", "country" : "Saudi Arabia", "score" : "19520" }
+{ "_id" : { "$oid" : "5322ca4acf93a1fa1a8b53f9" }, "site" : "tdk.gov.tr", "country" : "Turkey", "score" : "20015" }
+{ "_id" : { "$oid" : "5322ca4ccf93a1fa1a8b53fa" }, "site" : "dailyherald.com", "country" : "United States", "score" : "21024" }
+{ "_id" : { "$oid" : "5322ca4ecf93a1fa1a8b53fb" }, "site" : "factswt.com", "country" : "India", "score" : "16851" }
+{ "_id" : { "$oid" : "5322ca4fcf93a1fa1a8b53fc" }, "site" : "pixer.mobi", "country" : "United States", "score" : "18001" }
+{ "_id" : { "$oid" : "5322ca51cf93a1fa1a8b53fd" }, "site" : "crooksandliars.com", "country" : "United States", "score" : "20738" }
+{ "_id" : { "$oid" : "5322ca53cf93a1fa1a8b53fe" }, "site" : "build.com", "country" : "United States", "score" : "22192" }
+{ "_id" : { "$oid" : "5322ca55cf93a1fa1a8b53ff" }, "site" : "download.am", "country" : "Spain", "score" : "16560" }
+{ "_id" : { "$oid" : "5322ca57cf93a1fa1a8b5400" }, "site" : "webhostlist.de", "country" : "Germany", "score" : "21320" }
+{ "_id" : { "$oid" : "5322ca58cf93a1fa1a8b5401" }, "site" : "rajtamil.com", "country" : "India", "score" : "16990" }
+{ "_id" : { "$oid" : "5322ca5acf93a1fa1a8b5402" }, "site" : "homedecorators.com", "country" : "United States", "score" : "17863" }
+{ "_id" : { "$oid" : "5322ca5ccf93a1fa1a8b5403" }, "site" : "camstudio.org", "country" : "United States", "score" : "19150" }
+{ "_id" : { "$oid" : "5322ca5ecf93a1fa1a8b5404" }, "site" : "myflixhd.com", "country" : "United States", "score" : "22328" }
+{ "_id" : { "$oid" : "5322ca5fcf93a1fa1a8b5405" }, "site" : "coastal.com", "country" : "United States", "score" : "22287" }
+{ "_id" : { "$oid" : "5322ca61cf93a1fa1a8b5406" }, "site" : "freemovies.tv", "country" : "United States", "score" : "21031" }
+{ "_id" : { "$oid" : "5322ca63cf93a1fa1a8b5407" }, "site" : "7olm.org", "country" : "Egypt", "score" : "20267" }
+{ "_id" : { "$oid" : "5322ca65cf93a1fa1a8b5408" }, "site" : "casamundo.de", "country" : "Germany", "score" : "22576" }
+{ "_id" : { "$oid" : "5322ca66cf93a1fa1a8b5409" }, "site" : "jasjoo.com", "country" : "Iran", "score" : "19666" }
+{ "_id" : { "$oid" : "5322ca68cf93a1fa1a8b540a" }, "site" : "dotandbo.com", "country" : "United States", "score" : "21161" }
+{ "_id" : { "$oid" : "5322ca6acf93a1fa1a8b540b" }, "site" : "channelstv.com", "country" : "Nigeria", "score" : "20063" }
+{ "_id" : { "$oid" : "5322ca6ccf93a1fa1a8b540c" }, "site" : "myorganogold.com", "country" : "United States", "score" : "17852" }
+{ "_id" : { "$oid" : "5322ca6ecf93a1fa1a8b540d" }, "site" : "securesuite.net", "country" : "United States", "score" : "20501" }
+{ "_id" : { "$oid" : "5322ca70cf93a1fa1a8b540e" }, "site" : "post.at", "country" : "Austria", "score" : "17067" }
+{ "_id" : { "$oid" : "5322ca72cf93a1fa1a8b540f" }, "site" : "zamalek.tv", "country" : "Egypt", "score" : "17683" }
+{ "_id" : { "$oid" : "5322ca73cf93a1fa1a8b5410" }, "site" : "priceza.com", "country" : "Thailand", "score" : "21549" }
+{ "_id" : { "$oid" : "5322ca75cf93a1fa1a8b5411" }, "site" : "archinect.com", "country" : "United States", "score" : "20183" }
+{ "_id" : { "$oid" : "5322ca77cf93a1fa1a8b5412" }, "site" : "game-game.com.ua", "country" : "Russia", "score" : "17720" }
+{ "_id" : { "$oid" : "5322ca79cf93a1fa1a8b5413" }, "site" : "prabhatkhabar.com", "country" : "India", "score" : "21577" }
+{ "_id" : { "$oid" : "5322ca7bcf93a1fa1a8b5414" }, "site" : "abarclick.ir", "country" : "Iran", "score" : "12070" }
+{ "_id" : { "$oid" : "5322ca7dcf93a1fa1a8b5415" }, "site" : "myvouchercodes.co.uk", "country" : "United Kingdom", "score" : "18952" }
+{ "_id" : { "$oid" : "5322ca7ecf93a1fa1a8b5416" }, "site" : "vogue.com.au", "country" : "Australia", "score" : "20034" }
+{ "_id" : { "$oid" : "5322ca80cf93a1fa1a8b5417" }, "site" : "autobild.es", "country" : "Spain", "score" : "23006" }
+{ "_id" : { "$oid" : "5322ca82cf93a1fa1a8b5418" }, "site" : "firstround.com", "country" : "United States", "score" : "22820" }
+{ "_id" : { "$oid" : "5322ca83cf93a1fa1a8b5419" }, "site" : "gamesforgirlz.net", "country" : "United States", "score" : "20031" }
+{ "_id" : { "$oid" : "5322ca85cf93a1fa1a8b541a" }, "site" : "dispatch.com", "country" : "United States", "score" : "19799" }
+{ "_id" : { "$oid" : "5322ca87cf93a1fa1a8b541b" }, "site" : "alplist.com", "country" : "India", "score" : "23369" }
+{ "_id" : { "$oid" : "5322ca89cf93a1fa1a8b541c" }, "site" : "soumu.go.jp", "country" : "Japan", "score" : "21560" }
+{ "_id" : { "$oid" : "5322ca8bcf93a1fa1a8b541d" }, "site" : "directoryfire.com", "country" : "India", "score" : "18429" }
+{ "_id" : { "$oid" : "5322ca8ccf93a1fa1a8b541e" }, "site" : "netshoes.com.ar", "country" : "Argentina", "score" : "24564" }
+{ "_id" : { "$oid" : "5322ca8ecf93a1fa1a8b541f" }, "site" : "jifang360.com", "country" : "China", "score" : "21019" }
+{ "_id" : { "$oid" : "5322ca90cf93a1fa1a8b5420" }, "site" : "islam.az", "country" : "Azerbaijan", "score" : "21213" }
+{ "_id" : { "$oid" : "5322ca92cf93a1fa1a8b5421" }, "site" : "wego.com", "country" : "Saudi Arabia", "score" : "21420" }
+{ "_id" : { "$oid" : "5322ca93cf93a1fa1a8b5422" }, "site" : "aspdotnet-suresh.com", "country" : "India", "score" : "21005" }
+{ "_id" : { "$oid" : "5322ca95cf93a1fa1a8b5423" }, "site" : "nationsonline.org", "country" : "United States", "score" : "21404" }
+{ "_id" : { "$oid" : "5322ca97cf93a1fa1a8b5424" }, "site" : "q1media.com", "country" : "United States", "score" : "21929" }
+{ "_id" : { "$oid" : "5322ca99cf93a1fa1a8b5425" }, "site" : "onehourtranslation.com", "country" : "South Korea", "score" : "22030" }
+{ "_id" : { "$oid" : "5322ca9acf93a1fa1a8b5426" }, "site" : "raterhub.com", "country" : "United States", "score" : "18945" }
+{ "_id" : { "$oid" : "5322ca9ccf93a1fa1a8b5427" }, "site" : "freee.co.jp", "country" : "Japan", "score" : "27890" }
+{ "_id" : { "$oid" : "5322ca9ecf93a1fa1a8b5428" }, "site" : "betabeat.com", "country" : "United States", "score" : "20117" }
+{ "_id" : { "$oid" : "5322caa0cf93a1fa1a8b5429" }, "site" : "tableless.com.br", "country" : "Brazil", "score" : "22446" }
+{ "_id" : { "$oid" : "5322caa2cf93a1fa1a8b542a" }, "site" : "ladypk.com", "country" : "China", "score" : "24141" }
+{ "_id" : { "$oid" : "5322caa4cf93a1fa1a8b542b" }, "site" : "beanstalkapp.com", "country" : "United States", "score" : "22495" }
+{ "_id" : { "$oid" : "5322caa6cf93a1fa1a8b542c" }, "site" : "hao123.co.th", "country" : "Thailand", "score" : "22383" }
+{ "_id" : { "$oid" : "5322caa8cf93a1fa1a8b542d" }, "site" : "shqiptarja.com", "country" : "Albania", "score" : "20859" }
+{ "_id" : { "$oid" : "5322caa9cf93a1fa1a8b542e" }, "site" : "bkn.go.id", "country" : "Indonesia", "score" : "27885" }
+{ "_id" : { "$oid" : "5322caabcf93a1fa1a8b542f" }, "site" : "bioskop25.blogspot.com", "country" : "Indonesia", "score" : "22464" }
+{ "_id" : { "$oid" : "5322caadcf93a1fa1a8b5430" }, "site" : "lazymlm.com", "country" : "United States", "score" : "18164" }
+{ "_id" : { "$oid" : "5322caaecf93a1fa1a8b5431" }, "site" : "dasauge.de", "country" : "Germany", "score" : "21440" }
+{ "_id" : { "$oid" : "5322cab0cf93a1fa1a8b5432" }, "site" : "themarysue.com", "country" : "United States", "score" : "21181" }
+{ "_id" : { "$oid" : "5322cab2cf93a1fa1a8b5433" }, "site" : "etymonline.com", "country" : "United States", "score" : "21137" }
+{ "_id" : { "$oid" : "5322cab4cf93a1fa1a8b5434" }, "site" : "les-horaires.fr", "country" : "France", "score" : "16503" }
+{ "_id" : { "$oid" : "5322cab5cf93a1fa1a8b5435" }, "site" : "homeschoolcrew.com", "country" : "United States", "score" : "19678" }
+{ "_id" : { "$oid" : "5322cab7cf93a1fa1a8b5436" }, "site" : "phim14.net", "country" : "Vietnam", "score" : "23245" }
+{ "_id" : { "$oid" : "5322cab9cf93a1fa1a8b5437" }, "site" : "clickerup.com", "country" : "India", "score" : "18529" }
+{ "_id" : { "$oid" : "5322cabbcf93a1fa1a8b5438" }, "site" : "calls.net", "country" : "United States", "score" : "21853" }
+{ "_id" : { "$oid" : "5322cabccf93a1fa1a8b5439" }, "site" : "koocash.com", "country" : "France", "score" : "19351" }
+{ "_id" : { "$oid" : "5322cabfcf93a1fa1a8b543a" }, "site" : "uxpin.com", "country" : "United States", "score" : "27461" }
+{ "_id" : { "$oid" : "5322cac1cf93a1fa1a8b543b" }, "site" : "nypl.org", "country" : "United States", "score" : "19278" }
+{ "_id" : { "$oid" : "5322cac3cf93a1fa1a8b543c" }, "site" : "socialmediabar.com", "country" : "United States", "score" : "19743" }
+{ "_id" : { "$oid" : "5322cac4cf93a1fa1a8b543d" }, "site" : "freerangestock.com", "country" : "United States", "score" : "22394" }
+{ "_id" : { "$oid" : "5322cac6cf93a1fa1a8b543e" }, "site" : "canadacomputers.com", "country" : "Canada", "score" : "16308" }
+{ "_id" : { "$oid" : "5322cac8cf93a1fa1a8b543f" }, "site" : "nsportal.ru", "country" : "Russia", "score" : "20154" }
+{ "_id" : { "$oid" : "5322cacacf93a1fa1a8b5440" }, "site" : "webhosting.info", "country" : "India", "score" : "21079" }
+{ "_id" : { "$oid" : "5322cacccf93a1fa1a8b5441" }, "site" : "alrincon.com", "country" : "Spain", "score" : "19931" }
+{ "_id" : { "$oid" : "5322cacdcf93a1fa1a8b5442" }, "site" : "delivery.com", "country" : "United States", "score" : "22863" }
+{ "_id" : { "$oid" : "5322cacfcf93a1fa1a8b5443" }, "site" : "turbotv.in", "country" : "India", "score" : "20664" }
+{ "_id" : { "$oid" : "5322cad1cf93a1fa1a8b5444" }, "site" : "pdfforge.org", "country" : "Germany", "score" : "18086" }
+{ "_id" : { "$oid" : "5322cad2cf93a1fa1a8b5445" }, "site" : "czfdc.com.cn", "country" : "China", "score" : "23708" }
+{ "_id" : { "$oid" : "5322cad4cf93a1fa1a8b5446" }, "site" : "tillys.com", "country" : "United States", "score" : "20359" }
+{ "_id" : { "$oid" : "5322cad6cf93a1fa1a8b5447" }, "site" : "teknokulis.com", "country" : "Turkey", "score" : "20783" }
+{ "_id" : { "$oid" : "5322cad7cf93a1fa1a8b5448" }, "site" : "notinerd.com", "country" : "Mexico", "score" : "25484" }
+{ "_id" : { "$oid" : "5322cad9cf93a1fa1a8b5449" }, "site" : "dating.ru", "country" : "Russia", "score" : "18033" }
+{ "_id" : { "$oid" : "5322cadbcf93a1fa1a8b544a" }, "site" : "miaminewtimes.com", "country" : "United States", "score" : "17739" }
+{ "_id" : { "$oid" : "5322caddcf93a1fa1a8b544b" }, "site" : "codal.ir", "country" : "Iran", "score" : "20592" }
+{ "_id" : { "$oid" : "5322cadecf93a1fa1a8b544c" }, "site" : "searchmarketingexpo.com", "country" : "United States", "score" : "19035" }
+{ "_id" : { "$oid" : "5322cae0cf93a1fa1a8b544d" }, "site" : "articledashboard.com", "country" : "India", "score" : "21715" }
+{ "_id" : { "$oid" : "5322cae2cf93a1fa1a8b544e" }, "site" : "stockwatch.com", "country" : "Canada", "score" : "23868" }
+{ "_id" : { "$oid" : "5322cae4cf93a1fa1a8b544f" }, "site" : "interpress.az", "country" : "Azerbaijan", "score" : "27836" }
+{ "_id" : { "$oid" : "5322cae5cf93a1fa1a8b5450" }, "site" : "joe.ie", "country" : "Ireland", "score" : "18989" }
+{ "_id" : { "$oid" : "5322cae7cf93a1fa1a8b5451" }, "site" : "essen-und-trinken.de", "country" : "Germany", "score" : "17288" }
+{ "_id" : { "$oid" : "5322caeacf93a1fa1a8b5452" }, "site" : "esteri.it", "country" : "Italy", "score" : "18587" }
+{ "_id" : { "$oid" : "5322caeccf93a1fa1a8b5453" }, "site" : "okgo.tw", "country" : "Taiwan", "score" : "24097" }
+{ "_id" : { "$oid" : "5322caeecf93a1fa1a8b5454" }, "site" : "fznew.com", "country" : "India", "score" : "28353" }
+{ "_id" : { "$oid" : "5322caefcf93a1fa1a8b5455" }, "site" : "bazarekar.ir", "country" : "Iran", "score" : "19420" }
+{ "_id" : { "$oid" : "5322caf2cf93a1fa1a8b5456" }, "site" : "seenjoy.com", "country" : "South Korea", "score" : "11828" }
+{ "_id" : { "$oid" : "5322caf4cf93a1fa1a8b5457" }, "site" : "accountservergroup.com", "country" : "United States", "score" : "19401" }
+{ "_id" : { "$oid" : "5322caf5cf93a1fa1a8b5458" }, "site" : "trendencias.com", "country" : "Spain", "score" : "21635" }
+{ "_id" : { "$oid" : "5322caf7cf93a1fa1a8b5459" }, "site" : "sabanet.ir", "country" : "Iran", "score" : "20633" }
+{ "_id" : { "$oid" : "5322caf9cf93a1fa1a8b545a" }, "site" : "bobrdobr.ru", "country" : "Russia", "score" : "18350" }
+{ "_id" : { "$oid" : "5322cafacf93a1fa1a8b545b" }, "site" : "2344.com", "country" : "China", "score" : "21543" }
+{ "_id" : { "$oid" : "5322cafccf93a1fa1a8b545c" }, "site" : "free2try.com", "country" : "India", "score" : "22360" }
+{ "_id" : { "$oid" : "5322cafecf93a1fa1a8b545d" }, "site" : "fibre2fashion.com", "country" : "India", "score" : "19022" }
+{ "_id" : { "$oid" : "5322caffcf93a1fa1a8b545e" }, "site" : "diariodosertao.com.br", "country" : "Brazil", "score" : "19578" }
+{ "_id" : { "$oid" : "5322cb01cf93a1fa1a8b545f" }, "site" : "businessmarketingreview.com", "country" : "United States", "score" : "19469" }
+{ "_id" : { "$oid" : "5322cb03cf93a1fa1a8b5460" }, "site" : "hoerzu.de", "country" : "Germany", "score" : "18760" }
+{ "_id" : { "$oid" : "5322cb05cf93a1fa1a8b5461" }, "site" : "topafiliado.com.br", "country" : "Brazil", "score" : "34699" }
+{ "_id" : { "$oid" : "5322cb07cf93a1fa1a8b5462" }, "site" : "dorothyperkins.com", "country" : "United Kingdom", "score" : "18874" }
+{ "_id" : { "$oid" : "5322cb08cf93a1fa1a8b5463" }, "site" : "shophq.com", "country" : "United States", "score" : "18655" }
+{ "_id" : { "$oid" : "5322cb0acf93a1fa1a8b5464" }, "site" : "faceporn.com", "country" : "United States", "score" : "50547" }
+{ "_id" : { "$oid" : "5322cb0dcf93a1fa1a8b5465" }, "site" : "gazeteler.com", "country" : "Turkey", "score" : "19386" }
+{ "_id" : { "$oid" : "5322cb0fcf93a1fa1a8b5466" }, "site" : "forumsee.com", "country" : "United States", "score" : "18947" }
+{ "_id" : { "$oid" : "5322cb10cf93a1fa1a8b5467" }, "site" : "gamefa.com", "country" : "Iran", "score" : "18804" }
+{ "_id" : { "$oid" : "5322cb12cf93a1fa1a8b5468" }, "site" : "ru114.cn", "country" : "China", "score" : "20207" }
+{ "_id" : { "$oid" : "5322cb14cf93a1fa1a8b5469" }, "site" : "cmb.fr", "country" : "France", "score" : "20417" }
+{ "_id" : { "$oid" : "5322cb18cf93a1fa1a8b546a" }, "site" : "jooble.ru", "country" : "Russia", "score" : "20546" }
+{ "_id" : { "$oid" : "5322cb1acf93a1fa1a8b546b" }, "site" : "internationalliving.com", "country" : "United States", "score" : "18365" }
+{ "_id" : { "$oid" : "5322cb1ccf93a1fa1a8b546c" }, "site" : "aldaniti.net", "country" : "Spain", "score" : "19921" }
+{ "_id" : { "$oid" : "5322cb1dcf93a1fa1a8b546d" }, "site" : "himarin.net", "country" : "Japan", "score" : "16563" }
+{ "_id" : { "$oid" : "5322cb1fcf93a1fa1a8b546e" }, "site" : "vtv.gob.ve", "country" : "Venezuela", "score" : "25599" }
+{ "_id" : { "$oid" : "5322cb21cf93a1fa1a8b546f" }, "site" : "dhl-geschaeftskundenportal.de", "country" : "Germany", "score" : "19993" }
+{ "_id" : { "$oid" : "5322cb23cf93a1fa1a8b5470" }, "site" : "frendz4m.com", "country" : "India", "score" : "20773" }
+{ "_id" : { "$oid" : "5322cb24cf93a1fa1a8b5471" }, "site" : "myonlinebusinessempire.com", "country" : "United States", "score" : "16237" }
+{ "_id" : { "$oid" : "5322cb26cf93a1fa1a8b5472" }, "site" : "ninfetasgratis.net", "country" : "Brazil", "score" : "19812" }
+{ "_id" : { "$oid" : "5322cb28cf93a1fa1a8b5473" }, "site" : "upickem.net", "country" : "United States", "score" : "18145" }
+{ "_id" : { "$oid" : "5322cb29cf93a1fa1a8b5474" }, "site" : "massholemommy.com", "country" : "United States", "score" : "24989" }
+{ "_id" : { "$oid" : "5322cb2bcf93a1fa1a8b5475" }, "site" : "pewinternet.org", "country" : "United States", "score" : "23215" }
+{ "_id" : { "$oid" : "5322cb2dcf93a1fa1a8b5476" }, "site" : "golos-ameriki.ru", "country" : "Russia", "score" : "29016" }
+{ "_id" : { "$oid" : "5322cb2fcf93a1fa1a8b5477" }, "site" : "nation.com.pk", "country" : "Pakistan", "score" : "16795" }
+{ "_id" : { "$oid" : "5322cb31cf93a1fa1a8b5478" }, "site" : "capstrom.com", "country" : "United States", "score" : "20959" }
+{ "_id" : { "$oid" : "5322cb32cf93a1fa1a8b5479" }, "site" : "pluginsforyou.com", "country" : "United States", "score" : "36311" }
+{ "_id" : { "$oid" : "5322cb34cf93a1fa1a8b547a" }, "site" : "boards.net", "country" : "United States", "score" : "20617" }
+{ "_id" : { "$oid" : "5322cb36cf93a1fa1a8b547b" }, "site" : "cafis-paynet.jp", "country" : "Japan", "score" : "23155" }
+{ "_id" : { "$oid" : "5322cb37cf93a1fa1a8b547c" }, "site" : "weziwezi.com", "country" : "Jordan", "score" : "15178" }
+{ "_id" : { "$oid" : "5322cb39cf93a1fa1a8b547d" }, "site" : "megagames.com", "country" : "United States", "score" : "19500" }
+{ "_id" : { "$oid" : "5322cb3bcf93a1fa1a8b547e" }, "site" : "trivago.es", "country" : "Spain", "score" : "23910" }
+{ "_id" : { "$oid" : "5322cb3dcf93a1fa1a8b547f" }, "site" : "01hr.com", "country" : "China", "score" : "33343" }
+{ "_id" : { "$oid" : "5322cb3fcf93a1fa1a8b5480" }, "site" : "getitfree.us", "country" : "United States", "score" : "19536" }
+{ "_id" : { "$oid" : "5322cb41cf93a1fa1a8b5481" }, "site" : "mensjournal.com", "country" : "United States", "score" : "20289" }
+{ "_id" : { "$oid" : "5322cb43cf93a1fa1a8b5482" }, "site" : "ui.ac.id", "country" : "Indonesia", "score" : "21655" }
+{ "_id" : { "$oid" : "5322cb45cf93a1fa1a8b5483" }, "site" : "adoos.in", "country" : "India", "score" : "20023" }
+{ "_id" : { "$oid" : "5322cb47cf93a1fa1a8b5484" }, "site" : "thejigsawpuzzles.com", "country" : "United States", "score" : "17901" }
+{ "_id" : { "$oid" : "5322cb49cf93a1fa1a8b5485" }, "site" : "donetskie.com", "country" : "Ukraine", "score" : "33901" }
+{ "_id" : { "$oid" : "5322cb4bcf93a1fa1a8b5486" }, "site" : "zalando.ch", "country" : "Switzerland", "score" : "19656" }
+{ "_id" : { "$oid" : "5322cb4ccf93a1fa1a8b5487" }, "site" : "agito.pl", "country" : "Poland", "score" : "17562" }
+{ "_id" : { "$oid" : "5322cb4ecf93a1fa1a8b5488" }, "site" : "aspm.jp", "country" : "Japan", "score" : "21089" }
+{ "_id" : { "$oid" : "5322cb4fcf93a1fa1a8b5489" }, "site" : "dramalink.net", "country" : "United States", "score" : "22899" }
+{ "_id" : { "$oid" : "5322cb51cf93a1fa1a8b548a" }, "site" : "shortlist.com", "country" : "United States", "score" : "20850" }
+{ "_id" : { "$oid" : "5322cb53cf93a1fa1a8b548b" }, "site" : "photo-ac.com", "country" : "Japan", "score" : "20135" }
+{ "_id" : { "$oid" : "5322cb54cf93a1fa1a8b548c" }, "site" : "pink-gossip.net", "country" : "United States", "score" : "50080" }
+{ "_id" : { "$oid" : "5322cb56cf93a1fa1a8b548d" }, "site" : "zalmos.com", "country" : "Pakistan", "score" : "29720" }
+{ "_id" : { "$oid" : "5322cb58cf93a1fa1a8b548e" }, "site" : "jcyl.es", "country" : "Spain", "score" : "22772" }
+{ "_id" : { "$oid" : "5322cb59cf93a1fa1a8b548f" }, "site" : "phpclub.ru", "country" : "Russia", "score" : "19997" }
+{ "_id" : { "$oid" : "5322cb5bcf93a1fa1a8b5490" }, "site" : "midianews.com.br", "country" : "Brazil", "score" : "21270" }
+{ "_id" : { "$oid" : "5322cb5dcf93a1fa1a8b5491" }, "site" : "saynoto0870.com", "country" : "United Kingdom", "score" : "20816" }
+{ "_id" : { "$oid" : "5322cb5fcf93a1fa1a8b5492" }, "site" : "vrutal.com", "country" : "Spain", "score" : "40649" }
+{ "_id" : { "$oid" : "5322cb60cf93a1fa1a8b5493" }, "site" : "aciprensa.com", "country" : "Mexico", "score" : "19880" }
+{ "_id" : { "$oid" : "5322cb62cf93a1fa1a8b5494" }, "site" : "aichi.jp", "country" : "Japan", "score" : "19894" }
+{ "_id" : { "$oid" : "5322cb64cf93a1fa1a8b5495" }, "site" : "teennick.com", "country" : "United States", "score" : "20585" }
+{ "_id" : { "$oid" : "5322cb66cf93a1fa1a8b5496" }, "site" : "onebigphoto.com", "country" : "United States", "score" : "20880" }
+{ "_id" : { "$oid" : "5322cb67cf93a1fa1a8b5497" }, "site" : "subs4free.com", "country" : "Greece", "score" : "19336" }
+{ "_id" : { "$oid" : "5322cb69cf93a1fa1a8b5498" }, "site" : "yintai.com", "country" : "China", "score" : "15766" }
+{ "_id" : { "$oid" : "5322cb6bcf93a1fa1a8b5499" }, "site" : "artmy.com", "country" : "China", "score" : "49449" }
+{ "_id" : { "$oid" : "5322cb6dcf93a1fa1a8b549a" }, "site" : "gettyimages.es", "country" : "Spain", "score" : "23745" }
+{ "_id" : { "$oid" : "5322cb6ecf93a1fa1a8b549b" }, "site" : "basicblogtips.com", "country" : "India", "score" : "15818" }
+{ "_id" : { "$oid" : "5322cb70cf93a1fa1a8b549c" }, "site" : "themalaymailonline.com", "country" : "Malaysia", "score" : "19205" }
+{ "_id" : { "$oid" : "5322cb72cf93a1fa1a8b549d" }, "site" : "zapmeta.de", "country" : "Germany", "score" : "18877" }
+{ "_id" : { "$oid" : "5322cb74cf93a1fa1a8b549e" }, "site" : "top-10-casino.ru", "country" : "Russia", "score" : "20201" }
+{ "_id" : { "$oid" : "5322cb75cf93a1fa1a8b549f" }, "site" : "transfermarkt.com", "country" : "United States", "score" : "17611" }
+{ "_id" : { "$oid" : "5322cb77cf93a1fa1a8b54a0" }, "site" : "infobox.ru", "country" : "Russia", "score" : "22853" }
+{ "_id" : { "$oid" : "5322cb79cf93a1fa1a8b54a1" }, "site" : "anu.edu.au", "country" : "Australia", "score" : "21171" }
+{ "_id" : { "$oid" : "5322cb7bcf93a1fa1a8b54a2" }, "site" : "hotcopper.com.au", "country" : "Australia", "score" : "22322" }
+{ "_id" : { "$oid" : "5322cb7dcf93a1fa1a8b54a3" }, "site" : "sfsu.edu", "country" : "United States", "score" : "19349" }
+{ "_id" : { "$oid" : "5322cb7ecf93a1fa1a8b54a4" }, "site" : "lauritz.com", "country" : "Denmark", "score" : "20826" }
+{ "_id" : { "$oid" : "5322cb80cf93a1fa1a8b54a5" }, "site" : "computrabajo.com", "country" : "Colombia", "score" : "17971" }
+{ "_id" : { "$oid" : "5322cb82cf93a1fa1a8b54a6" }, "site" : "iplay.com", "country" : "United States", "score" : "20475" }
+{ "_id" : { "$oid" : "5322cb84cf93a1fa1a8b54a7" }, "site" : "51gxqm.com", "country" : "China", "score" : "18806" }
+{ "_id" : { "$oid" : "5322cb85cf93a1fa1a8b54a8" }, "site" : "adzpot.org", "country" : "India", "score" : "21091" }
+{ "_id" : { "$oid" : "5322cb87cf93a1fa1a8b54a9" }, "site" : "dreammoods.com", "country" : "United States", "score" : "18253" }
+{ "_id" : { "$oid" : "5322cb89cf93a1fa1a8b54aa" }, "site" : "forbes.pl", "country" : "Poland", "score" : "22208" }
+{ "_id" : { "$oid" : "5322cb8acf93a1fa1a8b54ab" }, "site" : "moneydj.com", "country" : "Taiwan", "score" : "22845" }
+{ "_id" : { "$oid" : "5322cb8ccf93a1fa1a8b54ac" }, "site" : "counterpunch.org", "country" : "United States", "score" : "23342" }
+{ "_id" : { "$oid" : "5322cb8ecf93a1fa1a8b54ad" }, "site" : "innatia.com", "country" : "Mexico", "score" : "21592" }
+{ "_id" : { "$oid" : "5322cb90cf93a1fa1a8b54ae" }, "site" : "theundercoverrecruiter.com", "country" : "United States", "score" : "22889" }
+{ "_id" : { "$oid" : "5322cb91cf93a1fa1a8b54af" }, "site" : "beenverified.com", "country" : "United States", "score" : "22897" }
+{ "_id" : { "$oid" : "5322cb93cf93a1fa1a8b54b0" }, "site" : "kienyke.com", "country" : "Colombia", "score" : "21104" }
+{ "_id" : { "$oid" : "5322cb95cf93a1fa1a8b54b1" }, "site" : "tmdhosting.com", "country" : "India", "score" : "21647" }
+{ "_id" : { "$oid" : "5322cb97cf93a1fa1a8b54b2" }, "site" : "narutom.com", "country" : "China", "score" : "20735" }
+{ "_id" : { "$oid" : "5322cb98cf93a1fa1a8b54b3" }, "site" : "castorama-group.com", "country" : "France", "score" : "18970" }
+{ "_id" : { "$oid" : "5322cb9acf93a1fa1a8b54b4" }, "site" : "littlebyte.net", "country" : "India", "score" : "20241" }
+{ "_id" : { "$oid" : "5322cb9ccf93a1fa1a8b54b5" }, "site" : "autoscout24.nl", "country" : "Netherlands", "score" : "18152" }
+{ "_id" : { "$oid" : "5322cb9ecf93a1fa1a8b54b6" }, "site" : "9sites.net", "country" : "India", "score" : "18705" }
+{ "_id" : { "$oid" : "5322cb9fcf93a1fa1a8b54b7" }, "site" : "fitnea.com", "country" : "United States", "score" : "38117" }
+{ "_id" : { "$oid" : "5322cba1cf93a1fa1a8b54b8" }, "site" : "dailyfailcenter.com", "country" : "United States", "score" : "12232" }
+{ "_id" : { "$oid" : "5322cba4cf93a1fa1a8b54b9" }, "site" : "freepornofreeporn.com", "country" : "United States", "score" : "18597" }
+{ "_id" : { "$oid" : "5322cba6cf93a1fa1a8b54ba" }, "site" : "goodbarber.com", "country" : "United States", "score" : "28134" }
+{ "_id" : { "$oid" : "5322cba7cf93a1fa1a8b54bb" }, "site" : "khaberni.com", "country" : "Jordan", "score" : "17119" }
+{ "_id" : { "$oid" : "5322cba9cf93a1fa1a8b54bc" }, "site" : "gogoblog.tw", "country" : "Taiwan", "score" : "22319" }
+{ "_id" : { "$oid" : "5322cbabcf93a1fa1a8b54bd" }, "site" : "geeksroom.com", "country" : "Spain", "score" : "20981" }
+{ "_id" : { "$oid" : "5322cbadcf93a1fa1a8b54be" }, "site" : "momondo.com", "country" : "United States", "score" : "24047" }
+{ "_id" : { "$oid" : "5322cbaecf93a1fa1a8b54bf" }, "site" : "navahang.com", "country" : "Finland", "score" : "20615" }
+{ "_id" : { "$oid" : "5322cbb0cf93a1fa1a8b54c0" }, "site" : "online-behavior.com", "country" : "United States", "score" : "26636" }
+{ "_id" : { "$oid" : "5322cbb2cf93a1fa1a8b54c1" }, "site" : "bpmbanking.it", "country" : "Italy", "score" : "19404" }
+{ "_id" : { "$oid" : "5322cbb3cf93a1fa1a8b54c2" }, "site" : "hackpad.com", "country" : "United States", "score" : "23837" }
+{ "_id" : { "$oid" : "5322cbb5cf93a1fa1a8b54c3" }, "site" : "rozhlas.cz", "country" : "Czech Republic", "score" : "23810" }
+{ "_id" : { "$oid" : "5322cbb7cf93a1fa1a8b54c4" }, "site" : "joerogan.net", "country" : "United States", "score" : "20396" }
+{ "_id" : { "$oid" : "5322cbb9cf93a1fa1a8b54c5" }, "site" : "frontgate.com", "country" : "United States", "score" : "19740" }
+{ "_id" : { "$oid" : "5322cbbbcf93a1fa1a8b54c6" }, "site" : "simplysouthernmom.com", "country" : "United States", "score" : "34154" }
+{ "_id" : { "$oid" : "5322cbbccf93a1fa1a8b54c7" }, "site" : "iwowwe.com", "country" : "Russia", "score" : "16470" }
+{ "_id" : { "$oid" : "5322cbbecf93a1fa1a8b54c8" }, "site" : "redsys.es", "country" : "Spain", "score" : "21980" }
+{ "_id" : { "$oid" : "5322cbc0cf93a1fa1a8b54c9" }, "site" : "danviet.vn", "country" : "Vietnam", "score" : "20426" }
+{ "_id" : { "$oid" : "5322cbc1cf93a1fa1a8b54ca" }, "site" : "sportni.bg", "country" : "Bulgaria", "score" : "20717" }
+{ "_id" : { "$oid" : "5322cbc3cf93a1fa1a8b54cb" }, "site" : "muccashop.com.br", "country" : "Brazil", "score" : "21107" }
+{ "_id" : { "$oid" : "5322cbc4cf93a1fa1a8b54cc" }, "site" : "dzieci.pl", "country" : "Poland", "score" : "25840" }
+{ "_id" : { "$oid" : "5322cbc6cf93a1fa1a8b54cd" }, "site" : "anaj.ir", "country" : "Iran", "score" : "19228" }
+{ "_id" : { "$oid" : "5322cbc8cf93a1fa1a8b54ce" }, "site" : "unito.it", "country" : "Italy", "score" : "20639" }
+{ "_id" : { "$oid" : "5322cbcacf93a1fa1a8b54cf" }, "site" : "peliculasflv.co", "country" : "Mexico", "score" : "31514" }
+{ "_id" : { "$oid" : "5322cbcbcf93a1fa1a8b54d0" }, "site" : "earnforex.com", "country" : "United Kingdom", "score" : "21670" }
+{ "_id" : { "$oid" : "5322cbcdcf93a1fa1a8b54d1" }, "site" : "220-volt.ru", "country" : "Russia", "score" : "19424" }
+{ "_id" : { "$oid" : "5322cbcfcf93a1fa1a8b54d2" }, "site" : "sl.se", "country" : "Sweden", "score" : "18395" }
+{ "_id" : { "$oid" : "5322cbd1cf93a1fa1a8b54d3" }, "site" : "dramasvid.com", "country" : "Pakistan", "score" : "20562" }
+{ "_id" : { "$oid" : "5322cbd3cf93a1fa1a8b54d4" }, "site" : "quia.com", "country" : "United States", "score" : "22799" }
+{ "_id" : { "$oid" : "5322cbd4cf93a1fa1a8b54d5" }, "site" : "globaltechexpert.com", "country" : "United States", "score" : "22743" }
+{ "_id" : { "$oid" : "5322cbd6cf93a1fa1a8b54d6" }, "site" : "earnstar.de", "country" : "Germany", "score" : "19613" }
+{ "_id" : { "$oid" : "5322cbd8cf93a1fa1a8b54d7" }, "site" : "hupso.com", "country" : "India", "score" : "19081" }
+{ "_id" : { "$oid" : "5322cbdacf93a1fa1a8b54d8" }, "site" : "fighterdata.com", "country" : "India", "score" : "39720" }
+{ "_id" : { "$oid" : "5322cbdecf93a1fa1a8b54d9" }, "site" : "ozgrid.com", "country" : "United States", "score" : "19225" }
+{ "_id" : { "$oid" : "5322cbdfcf93a1fa1a8b54da" }, "site" : "heraldcorp.com", "country" : "South Korea", "score" : "24974" }
+{ "_id" : { "$oid" : "5322cbe1cf93a1fa1a8b54db" }, "site" : "vine.tc", "country" : "Turkey", "score" : "46974" }
+{ "_id" : { "$oid" : "5322cbe3cf93a1fa1a8b54dc" }, "site" : "bshare.cn", "country" : "China", "score" : "22988" }
+{ "_id" : { "$oid" : "5322cbe5cf93a1fa1a8b54dd" }, "site" : "encyclopediadramatica.es", "country" : "United States", "score" : "17586" }
+{ "_id" : { "$oid" : "5322cbe6cf93a1fa1a8b54de" }, "site" : "iras.gov.sg", "country" : "Singapore", "score" : "25422" }
+{ "_id" : { "$oid" : "5322cbe8cf93a1fa1a8b54df" }, "site" : "hollandandbarrett.com", "country" : "United Kingdom", "score" : "19353" }
+{ "_id" : { "$oid" : "5322cbebcf93a1fa1a8b54e0" }, "site" : "zone.mn", "country" : "South Korea", "score" : "24998" }
+{ "_id" : { "$oid" : "5322cbedcf93a1fa1a8b54e1" }, "site" : "youtube.com/user/latenight", "country" : "United States", "score" : "37065" }
+{ "_id" : { "$oid" : "5322cbeecf93a1fa1a8b54e2" }, "site" : "bhanvad.com", "country" : "India", "score" : "21244" }
+{ "_id" : { "$oid" : "5322cbf0cf93a1fa1a8b54e3" }, "site" : "bumeran.com.mx", "country" : "Mexico", "score" : "19169" }
+{ "_id" : { "$oid" : "5322cbf3cf93a1fa1a8b54e4" }, "site" : "learnersdictionary.com", "country" : "United States", "score" : "22872" }
+{ "_id" : { "$oid" : "5322cbf5cf93a1fa1a8b54e5" }, "site" : "videomaker.com", "country" : "United States", "score" : "18774" }
+{ "_id" : { "$oid" : "5322cbf6cf93a1fa1a8b54e6" }, "site" : "emspost.ru", "country" : "Russia", "score" : "18266" }
+{ "_id" : { "$oid" : "5322cbf8cf93a1fa1a8b54e7" }, "site" : "nirbhayam.com", "country" : "India", "score" : "24126" }
+{ "_id" : { "$oid" : "5322cbfacf93a1fa1a8b54e8" }, "site" : "jxcn.cn", "country" : "China", "score" : "24762" }
+{ "_id" : { "$oid" : "5322cbfbcf93a1fa1a8b54e9" }, "site" : "tonarinoyj.jp", "country" : "Japan", "score" : "19161" }
+{ "_id" : { "$oid" : "5322cbfdcf93a1fa1a8b54ea" }, "site" : "popularscreensavers.com", "country" : "United States", "score" : "24916" }
+{ "_id" : { "$oid" : "5322cbffcf93a1fa1a8b54eb" }, "site" : "donanza.com", "country" : "United States", "score" : "19272" }
+{ "_id" : { "$oid" : "5322cc01cf93a1fa1a8b54ec" }, "site" : "epoznan.pl", "country" : "Poland", "score" : "23060" }
+{ "_id" : { "$oid" : "5322cc02cf93a1fa1a8b54ed" }, "site" : "webchoc.com", "country" : "France", "score" : "19315" }
+{ "_id" : { "$oid" : "5322cc04cf93a1fa1a8b54ee" }, "site" : "ndl.go.jp", "country" : "Japan", "score" : "22069" }
+{ "_id" : { "$oid" : "5322cc06cf93a1fa1a8b54ef" }, "site" : "xclusiveszone.net", "country" : "United States", "score" : "20393" }
+{ "_id" : { "$oid" : "5322cc07cf93a1fa1a8b54f0" }, "site" : "routerlogin.net", "country" : "United States", "score" : "19688" }
+{ "_id" : { "$oid" : "5322cc09cf93a1fa1a8b54f1" }, "site" : "dgmatix.com", "country" : "India", "score" : "53132" }
+{ "_id" : { "$oid" : "5322cc0bcf93a1fa1a8b54f2" }, "site" : "bloombergview.com", "country" : "United States", "score" : "49300" }
+{ "_id" : { "$oid" : "5322cc0ccf93a1fa1a8b54f3" }, "site" : "maharashtra.gov.in", "country" : "India", "score" : "23080" }
+{ "_id" : { "$oid" : "5322cc0ecf93a1fa1a8b54f4" }, "site" : "backlinksindexer.com", "country" : "United States", "score" : "18720" }
+{ "_id" : { "$oid" : "5322cc10cf93a1fa1a8b54f5" }, "site" : "payback.pl", "country" : "Poland", "score" : "23348" }
+{ "_id" : { "$oid" : "5322cc12cf93a1fa1a8b54f6" }, "site" : "imei.info", "country" : "India", "score" : "21368" }
+{ "_id" : { "$oid" : "5322cc14cf93a1fa1a8b54f7" }, "site" : "dvhn.nl", "country" : "Netherlands", "score" : "20322" }
+{ "_id" : { "$oid" : "5322cc15cf93a1fa1a8b54f8" }, "site" : "cindymovies.com", "country" : "United States", "score" : "19295" }
+{ "_id" : { "$oid" : "5322cc18cf93a1fa1a8b54f9" }, "site" : "c-span.org", "country" : "United States", "score" : "31585" }
+{ "_id" : { "$oid" : "5322cc1acf93a1fa1a8b54fa" }, "site" : "newspress.co.uk", "country" : "United Kingdom", "score" : "26823" }
+{ "_id" : { "$oid" : "5322cc1ccf93a1fa1a8b54fb" }, "site" : "wevideo.com", "country" : "South Korea", "score" : "21558" }
+{ "_id" : { "$oid" : "5322cc1ecf93a1fa1a8b54fc" }, "site" : "seatgeek.com", "country" : "United States", "score" : "19300" }
+{ "_id" : { "$oid" : "5322cc20cf93a1fa1a8b54fd" }, "site" : "pornsticky.com", "country" : "United States", "score" : "20817" }
+{ "_id" : { "$oid" : "5322cc21cf93a1fa1a8b54fe" }, "site" : "3w3w3.net", "country" : "China", "score" : "23569" }
+{ "_id" : { "$oid" : "5322cc23cf93a1fa1a8b54ff" }, "site" : "fishpond.com.au", "country" : "Australia", "score" : "18034" }
+{ "_id" : { "$oid" : "5322cc25cf93a1fa1a8b5500" }, "site" : "khmer-news.org", "country" : "Cambodia", "score" : "18466" }
+{ "_id" : { "$oid" : "5322cc27cf93a1fa1a8b5501" }, "site" : "pwn.pl", "country" : "Poland", "score" : "19493" }
+{ "_id" : { "$oid" : "5322cc28cf93a1fa1a8b5502" }, "site" : "trouver.fr", "country" : "France", "score" : "21252" }
+{ "_id" : { "$oid" : "5322cc2acf93a1fa1a8b5503" }, "site" : "shiningrocksoftware.com", "country" : "United States", "score" : "45164" }
+{ "_id" : { "$oid" : "5322cc2ccf93a1fa1a8b5504" }, "site" : "tvanouvelles.ca", "country" : "Canada", "score" : "22061" }
+{ "_id" : { "$oid" : "5322cc2dcf93a1fa1a8b5505" }, "site" : "dailyworth.com", "country" : "United States", "score" : "21203" }
+{ "_id" : { "$oid" : "5322cc2fcf93a1fa1a8b5506" }, "site" : "businessofcinema.com", "country" : "India", "score" : "9901" }
+{ "_id" : { "$oid" : "5322cc31cf93a1fa1a8b5507" }, "site" : "ehandel.se", "country" : "Sweden", "score" : "23963" }
+{ "_id" : { "$oid" : "5322cc33cf93a1fa1a8b5508" }, "site" : "xingzuowu.com", "country" : "China", "score" : "22882" }
+{ "_id" : { "$oid" : "5322cc35cf93a1fa1a8b5509" }, "site" : "epson-europe.com", "country" : "United Kingdom", "score" : "20731" }
+{ "_id" : { "$oid" : "5322cc36cf93a1fa1a8b550a" }, "site" : "tdscpc.gov.in", "country" : "India", "score" : "21999" }
+{ "_id" : { "$oid" : "5322cc38cf93a1fa1a8b550b" }, "site" : "mysurveymysurveriezs.com", "country" : "Taiwan", "score" : "26778" }
+{ "_id" : { "$oid" : "5322cc39cf93a1fa1a8b550c" }, "site" : "moneypak.com", "country" : "United States", "score" : "21095" }
+{ "_id" : { "$oid" : "5322cc3bcf93a1fa1a8b550d" }, "site" : "linkreferral.com", "country" : "India", "score" : "19684" }
+{ "_id" : { "$oid" : "5322cc3dcf93a1fa1a8b550e" }, "site" : "buffalonews.com", "country" : "United States", "score" : "21170" }
+{ "_id" : { "$oid" : "5322cc3fcf93a1fa1a8b550f" }, "site" : "sms.at", "country" : "United States", "score" : "19644" }
+{ "_id" : { "$oid" : "5322cc41cf93a1fa1a8b5510" }, "site" : "gifmaker.me", "country" : "United States", "score" : "20464" }
+{ "_id" : { "$oid" : "5322cc42cf93a1fa1a8b5511" }, "site" : "xii.jp", "country" : "Japan", "score" : "25649" }
+{ "_id" : { "$oid" : "5322cc44cf93a1fa1a8b5512" }, "site" : "virtualdj.com", "country" : "United States", "score" : "19256" }
+{ "_id" : { "$oid" : "5322cc46cf93a1fa1a8b5513" }, "site" : "racurs.ua", "country" : "Ukraine", "score" : "32907" }
+{ "_id" : { "$oid" : "5322cc48cf93a1fa1a8b5514" }, "site" : "z-z.jp", "country" : "Japan", "score" : "18650" }
+{ "_id" : { "$oid" : "5322cc4acf93a1fa1a8b5515" }, "site" : "coralixthemes.com", "country" : "India", "score" : "29378" }
+{ "_id" : { "$oid" : "5322cc4bcf93a1fa1a8b5516" }, "site" : "epost.ca", "country" : "Canada", "score" : "22165" }
+{ "_id" : { "$oid" : "5322cc4dcf93a1fa1a8b5517" }, "site" : "koreanair.com", "country" : "South Korea", "score" : "24086" }
+{ "_id" : { "$oid" : "5322cc4fcf93a1fa1a8b5518" }, "site" : "convertfiles.com", "country" : "India", "score" : "22068" }
+{ "_id" : { "$oid" : "5322cc51cf93a1fa1a8b5519" }, "site" : "fullhdfilmsaati.net", "country" : "Turkey", "score" : "23341" }
+{ "_id" : { "$oid" : "5322cc52cf93a1fa1a8b551a" }, "site" : "spynews.ro", "country" : "Romania", "score" : "16310" }
+{ "_id" : { "$oid" : "5322cc54cf93a1fa1a8b551b" }, "site" : "fox.com.tr", "country" : "Turkey", "score" : "19759" }
+{ "_id" : { "$oid" : "5322cc56cf93a1fa1a8b551c" }, "site" : "car.de", "country" : "Germany", "score" : "19834" }
+{ "_id" : { "$oid" : "5322cc58cf93a1fa1a8b551d" }, "site" : "gostats.com", "country" : "United States", "score" : "20402" }
+{ "_id" : { "$oid" : "5322cc59cf93a1fa1a8b551e" }, "site" : "dragoart.com", "country" : "United States", "score" : "20744" }
+{ "_id" : { "$oid" : "5322cc5bcf93a1fa1a8b551f" }, "site" : "rationalwiki.org", "country" : "United States", "score" : "21267" }
+{ "_id" : { "$oid" : "5322cc5dcf93a1fa1a8b5520" }, "site" : "buildabazaar.com", "country" : "India", "score" : "22257" }
+{ "_id" : { "$oid" : "5322cc5fcf93a1fa1a8b5521" }, "site" : "tributes.com", "country" : "United States", "score" : "21386" }
+{ "_id" : { "$oid" : "5322cc61cf93a1fa1a8b5522" }, "site" : "keep.com", "country" : "United States", "score" : "20778" }
+{ "_id" : { "$oid" : "5322cc62cf93a1fa1a8b5523" }, "site" : "iran-banner.com", "country" : "Iran", "score" : "23833" }
+{ "_id" : { "$oid" : "5322cc64cf93a1fa1a8b5524" }, "site" : "newsweekdaily.com", "country" : "China", "score" : "22412" }
+{ "_id" : { "$oid" : "5322cc65cf93a1fa1a8b5525" }, "site" : "css3gen.com", "country" : "India", "score" : "22021" }
+{ "_id" : { "$oid" : "5322cc67cf93a1fa1a8b5526" }, "site" : "parship.de", "country" : "Germany", "score" : "16978" }
+{ "_id" : { "$oid" : "5322cc69cf93a1fa1a8b5527" }, "site" : "stencyl.com", "country" : "United States", "score" : "27823" }
+{ "_id" : { "$oid" : "5322cc6bcf93a1fa1a8b5528" }, "site" : "escalatenetwork.com", "country" : "United States", "score" : "20041" }
+{ "_id" : { "$oid" : "5322cc6dcf93a1fa1a8b5529" }, "site" : "besuccess.com", "country" : "South Korea", "score" : "32089" }
+{ "_id" : { "$oid" : "5322cc6ecf93a1fa1a8b552a" }, "site" : "wst.cn", "country" : "China", "score" : "22207" }
+{ "_id" : { "$oid" : "5322cc70cf93a1fa1a8b552b" }, "site" : "dogechain.info", "country" : "United States", "score" : "18526" }
+{ "_id" : { "$oid" : "5322cc72cf93a1fa1a8b552c" }, "site" : "nomadicsamuel.com", "country" : "United States", "score" : "21187" }
+{ "_id" : { "$oid" : "5322cc75cf93a1fa1a8b552d" }, "site" : "jhanju.com", "country" : "China", "score" : "22117" }
+{ "_id" : { "$oid" : "5322cc76cf93a1fa1a8b552e" }, "site" : "venmo.com", "country" : "United States", "score" : "22302" }
+{ "_id" : { "$oid" : "5322cc78cf93a1fa1a8b552f" }, "site" : "webupd8.org", "country" : "United States", "score" : "20324" }
+{ "_id" : { "$oid" : "5322cc7acf93a1fa1a8b5530" }, "site" : "dosya.tc", "country" : "Turkey", "score" : "21067" }
+{ "_id" : { "$oid" : "5322cc7ccf93a1fa1a8b5531" }, "site" : "natgeotv.com", "country" : "United States", "score" : "20230" }
+{ "_id" : { "$oid" : "5322cc7ecf93a1fa1a8b5532" }, "site" : "behindmlm.com", "country" : "United States", "score" : "22271" }
+{ "_id" : { "$oid" : "5322cc80cf93a1fa1a8b5533" }, "site" : "123recht.net", "country" : "Germany", "score" : "20925" }
+{ "_id" : { "$oid" : "5322cc82cf93a1fa1a8b5534" }, "site" : "amiami.jp", "country" : "Japan", "score" : "15197" }
+{ "_id" : { "$oid" : "5322cc84cf93a1fa1a8b5535" }, "site" : "vertex42.com", "country" : "United States", "score" : "19006" }
+{ "_id" : { "$oid" : "5322cc86cf93a1fa1a8b5536" }, "site" : "uisdc.com", "country" : "China", "score" : "25335" }
+{ "_id" : { "$oid" : "5322cc87cf93a1fa1a8b5537" }, "site" : "getyourguide.com", "country" : "United States", "score" : "20870" }
+{ "_id" : { "$oid" : "5322cc89cf93a1fa1a8b5538" }, "site" : "otakomu.jp", "country" : "Japan", "score" : "25908" }
+{ "_id" : { "$oid" : "5322cc8bcf93a1fa1a8b5539" }, "site" : "seetickets.com", "country" : "United Kingdom", "score" : "21582" }
+{ "_id" : { "$oid" : "5322cc8ccf93a1fa1a8b553a" }, "site" : "laurenconrad.com", "country" : "United States", "score" : "21311" }
+{ "_id" : { "$oid" : "5322cc8ecf93a1fa1a8b553b" }, "site" : "ashorooq.net", "country" : "United Arab Emirates", "score" : "21451" }
+{ "_id" : { "$oid" : "5322cc8fcf93a1fa1a8b553c" }, "site" : "inside-games.jp", "country" : "Japan", "score" : "20491" }
+{ "_id" : { "$oid" : "5322cc91cf93a1fa1a8b553d" }, "site" : "180graus.com", "country" : "Brazil", "score" : "20578" }
+{ "_id" : { "$oid" : "5322cc93cf93a1fa1a8b553e" }, "site" : "weblinkr.com", "country" : "India", "score" : "21907" }
+{ "_id" : { "$oid" : "5322cc95cf93a1fa1a8b553f" }, "site" : "0day.kiev.ua", "country" : "Ukraine", "score" : "20792" }
+{ "_id" : { "$oid" : "5322cc97cf93a1fa1a8b5540" }, "site" : "sys-con.com", "country" : "United States", "score" : "24717" }
+{ "_id" : { "$oid" : "5322cc99cf93a1fa1a8b5541" }, "site" : "pinsex.com", "country" : "United States", "score" : "17025" }
+{ "_id" : { "$oid" : "5322cc9bcf93a1fa1a8b5542" }, "site" : "westword.com", "country" : "United States", "score" : "18438" }
+{ "_id" : { "$oid" : "5322cc9ccf93a1fa1a8b5543" }, "site" : "getsignals.com", "country" : "United States", "score" : "28021" }
+{ "_id" : { "$oid" : "5322cc9ecf93a1fa1a8b5544" }, "site" : "harakahdaily.net", "country" : "Malaysia", "score" : "18620" }
+{ "_id" : { "$oid" : "5322cca0cf93a1fa1a8b5545" }, "site" : "contemporist.com", "country" : "United States", "score" : "21088" }
+{ "_id" : { "$oid" : "5322cca1cf93a1fa1a8b5546" }, "site" : "5thvillage.com", "country" : "Japan", "score" : "22501" }
+{ "_id" : { "$oid" : "5322cca3cf93a1fa1a8b5547" }, "site" : "lettercount.com", "country" : "India", "score" : "21888" }
+{ "_id" : { "$oid" : "5322cca5cf93a1fa1a8b5548" }, "site" : "bookmax.net", "country" : "India", "score" : "21359" }
+{ "_id" : { "$oid" : "5322cca7cf93a1fa1a8b5549" }, "site" : "player.uz", "country" : "Uzbekistan", "score" : "22476" }
+{ "_id" : { "$oid" : "5322cca9cf93a1fa1a8b554a" }, "site" : "reportlinker.com", "country" : "United States", "score" : "23398" }
+{ "_id" : { "$oid" : "5322ccabcf93a1fa1a8b554b" }, "site" : "site2sms.com", "country" : "India", "score" : "19572" }
+{ "_id" : { "$oid" : "5322ccaccf93a1fa1a8b554c" }, "site" : "fundorado.de", "country" : "Germany", "score" : "28151" }
+{ "_id" : { "$oid" : "5322ccafcf93a1fa1a8b554d" }, "site" : "aport.ru", "country" : "Russia", "score" : "18882" }
+{ "_id" : { "$oid" : "5322ccb0cf93a1fa1a8b554e" }, "site" : "noroeste.com.mx", "country" : "Mexico", "score" : "25182" }
+{ "_id" : { "$oid" : "5322ccb2cf93a1fa1a8b554f" }, "site" : "lesjeuxpourenfants.com", "country" : "Iran", "score" : "19693" }
+{ "_id" : { "$oid" : "5322ccb4cf93a1fa1a8b5550" }, "site" : "pcfilehelp.com", "country" : "United States", "score" : "49463" }
+{ "_id" : { "$oid" : "5322ccb6cf93a1fa1a8b5551" }, "site" : "experteer.com", "country" : "United States", "score" : "22690" }
+{ "_id" : { "$oid" : "5322ccb8cf93a1fa1a8b5552" }, "site" : "eduu.com", "country" : "China", "score" : "26288" }
+{ "_id" : { "$oid" : "5322ccb9cf93a1fa1a8b5553" }, "site" : "dramacafe.tv", "country" : "Saudi Arabia", "score" : "16206" }
+{ "_id" : { "$oid" : "5322ccbbcf93a1fa1a8b5554" }, "site" : "tenmanga.com", "country" : "United States", "score" : "19569" }
+{ "_id" : { "$oid" : "5322ccbdcf93a1fa1a8b5555" }, "site" : "credicard.com.br", "country" : "Brazil", "score" : "20427" }
+{ "_id" : { "$oid" : "5322ccbecf93a1fa1a8b5556" }, "site" : "ideabank.pl", "country" : "Poland", "score" : "21992" }
+{ "_id" : { "$oid" : "5322ccc0cf93a1fa1a8b5557" }, "site" : "thanksfordownloading.com", "country" : "United States", "score" : "26521" }
+{ "_id" : { "$oid" : "5322ccc1cf93a1fa1a8b5558" }, "site" : "freeconferencecall.com", "country" : "United States", "score" : "24593" }
+{ "_id" : { "$oid" : "5322ccc3cf93a1fa1a8b5559" }, "site" : "directory-free.com", "country" : "India", "score" : "19973" }
+{ "_id" : { "$oid" : "5322ccc5cf93a1fa1a8b555a" }, "site" : "desura.com", "country" : "United States", "score" : "16897" }
+{ "_id" : { "$oid" : "5322ccc7cf93a1fa1a8b555b" }, "site" : "easel.ly", "country" : "India", "score" : "20914" }
+{ "_id" : { "$oid" : "5322ccc8cf93a1fa1a8b555c" }, "site" : "ados.fr", "country" : "France", "score" : "18993" }
+{ "_id" : { "$oid" : "5322cccacf93a1fa1a8b555d" }, "site" : "bank24.ru", "country" : "Russia", "score" : "25513" }
+{ "_id" : { "$oid" : "5322cccccf93a1fa1a8b555e" }, "site" : "wildaboutmovies.com", "country" : "United States", "score" : "21609" }
+{ "_id" : { "$oid" : "5322cccecf93a1fa1a8b555f" }, "site" : "promosimple.com", "country" : "United States", "score" : "19289" }
+{ "_id" : { "$oid" : "5322ccd1cf93a1fa1a8b5560" }, "site" : "geteverything.org", "country" : "India", "score" : "19562" }
+{ "_id" : { "$oid" : "5322ccd3cf93a1fa1a8b5561" }, "site" : "stayz.com.au", "country" : "Australia", "score" : "19373" }
+{ "_id" : { "$oid" : "5322ccd6cf93a1fa1a8b5562" }, "site" : "evidus.com", "country" : "Japan", "score" : "22664" }
+{ "_id" : { "$oid" : "5322ccd7cf93a1fa1a8b5563" }, "site" : "meditel.ma", "country" : "Morocco", "score" : "21780" }
+{ "_id" : { "$oid" : "5322ccd9cf93a1fa1a8b5564" }, "site" : "afkinsider.com", "country" : "Nigeria", "score" : "24149" }
+{ "_id" : { "$oid" : "5322ccdbcf93a1fa1a8b5565" }, "site" : "infusioncampaign.com", "country" : "United States", "score" : "21574" }
+{ "_id" : { "$oid" : "5322ccddcf93a1fa1a8b5566" }, "site" : "whatreallyhappened.com", "country" : "United States", "score" : "20899" }
+{ "_id" : { "$oid" : "5322ccdfcf93a1fa1a8b5567" }, "site" : "formget.com", "country" : "India", "score" : "18682" }
+{ "_id" : { "$oid" : "5322cce1cf93a1fa1a8b5568" }, "site" : "wifeo.com", "country" : "France", "score" : "19851" }
+{ "_id" : { "$oid" : "5322cce3cf93a1fa1a8b5569" }, "site" : "kentucky.gov", "country" : "United States", "score" : "20557" }
+{ "_id" : { "$oid" : "5322cce5cf93a1fa1a8b556a" }, "site" : "star-buy.de", "country" : "Germany", "score" : "34565" }
+{ "_id" : { "$oid" : "5322cce6cf93a1fa1a8b556b" }, "site" : "surfermag.com", "country" : "United States", "score" : "23871" }
+{ "_id" : { "$oid" : "5322cce8cf93a1fa1a8b556c" }, "site" : "zenfs.com", "country" : "United States", "score" : "20575" }
+{ "_id" : { "$oid" : "5322cceacf93a1fa1a8b556d" }, "site" : "yeppudaa.com", "country" : "Turkey", "score" : "17084" }
+{ "_id" : { "$oid" : "5322ccebcf93a1fa1a8b556e" }, "site" : "freecsstemplates.org", "country" : "India", "score" : "21396" }
+{ "_id" : { "$oid" : "5322ccedcf93a1fa1a8b556f" }, "site" : "boardofwisdom.com", "country" : "India", "score" : "21247" }
+{ "_id" : { "$oid" : "5322ccefcf93a1fa1a8b5570" }, "site" : "londontown.com", "country" : "United Kingdom", "score" : "21819" }
+{ "_id" : { "$oid" : "5322ccf0cf93a1fa1a8b5571" }, "site" : "streaming-series.org", "country" : "France", "score" : "19706" }
+{ "_id" : { "$oid" : "5322ccf2cf93a1fa1a8b5572" }, "site" : "electrictoolbox.com", "country" : "United States", "score" : "16790" }
+{ "_id" : { "$oid" : "5322ccf4cf93a1fa1a8b5573" }, "site" : "uam.mx", "country" : "Mexico", "score" : "24229" }
+{ "_id" : { "$oid" : "5322ccf6cf93a1fa1a8b5574" }, "site" : "jr-central.co.jp", "country" : "Japan", "score" : "23579" }
+{ "_id" : { "$oid" : "5322ccf8cf93a1fa1a8b5575" }, "site" : "purplemath.com", "country" : "United States", "score" : "22570" }
+{ "_id" : { "$oid" : "5322ccf9cf93a1fa1a8b5576" }, "site" : "cashkaro.com", "country" : "India", "score" : "19654" }
+{ "_id" : { "$oid" : "5322ccfbcf93a1fa1a8b5577" }, "site" : "oyunuoyna.com", "country" : "Turkey", "score" : "19384" }
+{ "_id" : { "$oid" : "5322ccfdcf93a1fa1a8b5578" }, "site" : "vicckiraly.com", "country" : "Hungary", "score" : "26781" }
+{ "_id" : { "$oid" : "5322ccffcf93a1fa1a8b5579" }, "site" : "bebe.com", "country" : "United States", "score" : "20511" }
+{ "_id" : { "$oid" : "5322cd01cf93a1fa1a8b557a" }, "site" : "indymedia.org", "country" : "Greece", "score" : "18649" }
+{ "_id" : { "$oid" : "5322cd02cf93a1fa1a8b557b" }, "site" : "blogpaws.com", "country" : "United States", "score" : "21443" }
+{ "_id" : { "$oid" : "5322cd04cf93a1fa1a8b557c" }, "site" : "voa-islam.com", "country" : "Indonesia", "score" : "18563" }
+{ "_id" : { "$oid" : "5322cd06cf93a1fa1a8b557d" }, "site" : "kinoprosmotr.net", "country" : "Russia", "score" : "19478" }
+{ "_id" : { "$oid" : "5322cd07cf93a1fa1a8b557e" }, "site" : "mofa.go.jp", "country" : "Japan", "score" : "20050" }
+{ "_id" : { "$oid" : "5322cd09cf93a1fa1a8b557f" }, "site" : "cvonline.lt", "country" : "Lithuania", "score" : "24122" }
+{ "_id" : { "$oid" : "5322cd0bcf93a1fa1a8b5580" }, "site" : "thedesigninspiration.com", "country" : "United States", "score" : "22848" }
+{ "_id" : { "$oid" : "5322cd0ecf93a1fa1a8b5581" }, "site" : "manager.com.br", "country" : "Brazil", "score" : "15286" }
+{ "_id" : { "$oid" : "5322cd0fcf93a1fa1a8b5582" }, "site" : "draftstreet.com", "country" : "United States", "score" : "17741" }
+{ "_id" : { "$oid" : "5322cd11cf93a1fa1a8b5583" }, "site" : "wretch.cc", "country" : "Taiwan", "score" : "5572" }
+{ "_id" : { "$oid" : "5322cd12cf93a1fa1a8b5584" }, "site" : "ubotstudio.com", "country" : "United States", "score" : "19292" }
+{ "_id" : { "$oid" : "5322cd14cf93a1fa1a8b5585" }, "site" : "dailynews.co.th", "country" : "Thailand", "score" : "15428" }
+{ "_id" : { "$oid" : "5322cd16cf93a1fa1a8b5586" }, "site" : "citysquares.com", "country" : "India", "score" : "18476" }
+{ "_id" : { "$oid" : "5322cd18cf93a1fa1a8b5587" }, "site" : "condor.com", "country" : "Germany", "score" : "18866" }
+{ "_id" : { "$oid" : "5322cd1acf93a1fa1a8b5588" }, "site" : "gamebiz.jp", "country" : "Japan", "score" : "18004" }
+{ "_id" : { "$oid" : "5322cd1bcf93a1fa1a8b5589" }, "site" : "sabadellcam.com", "country" : "Spain", "score" : "19522" }
+{ "_id" : { "$oid" : "5322cd1dcf93a1fa1a8b558a" }, "site" : "paleohacks.com", "country" : "United States", "score" : "20398" }
+{ "_id" : { "$oid" : "5322cd1fcf93a1fa1a8b558b" }, "site" : "rivira.lk", "country" : "Sri Lanka", "score" : "20158" }
+{ "_id" : { "$oid" : "5322cd21cf93a1fa1a8b558c" }, "site" : "mtvkatsomo.fi", "country" : "Finland", "score" : "22136" }
+{ "_id" : { "$oid" : "5322cd22cf93a1fa1a8b558d" }, "site" : "coursesmart.com", "country" : "United States", "score" : "21941" }
+{ "_id" : { "$oid" : "5322cd24cf93a1fa1a8b558e" }, "site" : "joesdata.com", "country" : "United States", "score" : "22485" }
+{ "_id" : { "$oid" : "5322cd26cf93a1fa1a8b558f" }, "site" : "shiftplanning.com", "country" : "United States", "score" : "21208" }
+{ "_id" : { "$oid" : "5322cd27cf93a1fa1a8b5590" }, "site" : "niebezpiecznik.pl", "country" : "Poland", "score" : "19017" }
+{ "_id" : { "$oid" : "5322cd29cf93a1fa1a8b5591" }, "site" : "gp.se", "country" : "Sweden", "score" : "19499" }
+{ "_id" : { "$oid" : "5322cd2bcf93a1fa1a8b5592" }, "site" : "woodbrass.com", "country" : "France", "score" : "17305" }
+{ "_id" : { "$oid" : "5322cd2dcf93a1fa1a8b5593" }, "site" : "myjob.com.cn", "country" : "China", "score" : "32765" }
+{ "_id" : { "$oid" : "5322cd2ecf93a1fa1a8b5594" }, "site" : "efacil.com.br", "country" : "Brazil", "score" : "18899" }
+{ "_id" : { "$oid" : "5322cd30cf93a1fa1a8b5595" }, "site" : "freepressindex.com", "country" : "India", "score" : "18905" }
+{ "_id" : { "$oid" : "5322cd32cf93a1fa1a8b5596" }, "site" : "thehut.com", "country" : "United Kingdom", "score" : "18178" }
+{ "_id" : { "$oid" : "5322cd34cf93a1fa1a8b5597" }, "site" : "gamerankings.com", "country" : "United States", "score" : "19557" }
+{ "_id" : { "$oid" : "5322cd35cf93a1fa1a8b5598" }, "site" : "algebra.com", "country" : "United States", "score" : "22541" }
+{ "_id" : { "$oid" : "5322cd37cf93a1fa1a8b5599" }, "site" : "mycbseguide.com", "country" : "India", "score" : "27432" }
+{ "_id" : { "$oid" : "5322cd39cf93a1fa1a8b559a" }, "site" : "shopbot.ca", "country" : "Canada", "score" : "18776" }
+{ "_id" : { "$oid" : "5322cd3acf93a1fa1a8b559b" }, "site" : "xwh.cn", "country" : "China", "score" : "17888" }
+{ "_id" : { "$oid" : "5322cd3ccf93a1fa1a8b559c" }, "site" : "singaporepools.com.sg", "country" : "Singapore", "score" : "20399" }
+{ "_id" : { "$oid" : "5322cd3fcf93a1fa1a8b559d" }, "site" : "fashionid.de", "country" : "Germany", "score" : "20257" }
+{ "_id" : { "$oid" : "5322cd40cf93a1fa1a8b559e" }, "site" : "mywedding.com", "country" : "United States", "score" : "18214" }
+{ "_id" : { "$oid" : "5322cd42cf93a1fa1a8b559f" }, "site" : "6alabat.com", "country" : "Kuwait", "score" : "18120" }
+{ "_id" : { "$oid" : "5322cd44cf93a1fa1a8b55a0" }, "site" : "kanjukumania.com", "country" : "Japan", "score" : "22467" }
+{ "_id" : { "$oid" : "5322cd46cf93a1fa1a8b55a1" }, "site" : "yellowpages.co.za", "country" : "South Africa", "score" : "23159" }
+{ "_id" : { "$oid" : "5322cd48cf93a1fa1a8b55a2" }, "site" : "ruscams.com", "country" : "Russia", "score" : "18293" }
+{ "_id" : { "$oid" : "5322cd4acf93a1fa1a8b55a3" }, "site" : "amyporterfield.com", "country" : "United States", "score" : "18348" }
+{ "_id" : { "$oid" : "5322cd4ccf93a1fa1a8b55a4" }, "site" : "booklooker.de", "country" : "Germany", "score" : "18138" }
+{ "_id" : { "$oid" : "5322cd4dcf93a1fa1a8b55a5" }, "site" : "connected2.me", "country" : "Turkey", "score" : "18603" }
+{ "_id" : { "$oid" : "5322cd50cf93a1fa1a8b55a6" }, "site" : "topsante.com", "country" : "France", "score" : "20022" }
+{ "_id" : { "$oid" : "5322cd51cf93a1fa1a8b55a7" }, "site" : "abab.com", "country" : "China", "score" : "22721" }
+{ "_id" : { "$oid" : "5322cd53cf93a1fa1a8b55a8" }, "site" : "moapi.net", "country" : "Japan", "score" : "22104" }
+{ "_id" : { "$oid" : "5322cd55cf93a1fa1a8b55a9" }, "site" : "jarirbookstore.com", "country" : "Saudi Arabia", "score" : "20714" }
+{ "_id" : { "$oid" : "5322cd57cf93a1fa1a8b55aa" }, "site" : "lomography.com", "country" : "India", "score" : "20353" }
+{ "_id" : { "$oid" : "5322cd59cf93a1fa1a8b55ab" }, "site" : "flappybird.com", "country" : "Indonesia", "score" : "58469" }
+{ "_id" : { "$oid" : "5322cd5bcf93a1fa1a8b55ac" }, "site" : "stranamam.ru", "country" : "Russia", "score" : "20280" }
+{ "_id" : { "$oid" : "5322cd5dcf93a1fa1a8b55ad" }, "site" : "one2car.com", "country" : "Thailand", "score" : "20985" }
+{ "_id" : { "$oid" : "5322cd5fcf93a1fa1a8b55ae" }, "site" : "nwanime.com", "country" : "United States", "score" : "17815" }
+{ "_id" : { "$oid" : "5322cd61cf93a1fa1a8b55af" }, "site" : "anglaisfacile.com", "country" : "France", "score" : "21679" }
+{ "_id" : { "$oid" : "5322cd63cf93a1fa1a8b55b0" }, "site" : "dnjournal.com", "country" : "United States", "score" : "20420" }
+{ "_id" : { "$oid" : "5322cd65cf93a1fa1a8b55b1" }, "site" : "squawka.com", "country" : "United Kingdom", "score" : "19255" }
+{ "_id" : { "$oid" : "5322cd66cf93a1fa1a8b55b2" }, "site" : "airfasttickets.com", "country" : "United States", "score" : "29358" }
+{ "_id" : { "$oid" : "5322cd68cf93a1fa1a8b55b3" }, "site" : "israelvideonetwork.com", "country" : "United States", "score" : "32115" }
+{ "_id" : { "$oid" : "5322cd6acf93a1fa1a8b55b4" }, "site" : "formel1.de", "country" : "Germany", "score" : "20336" }
+{ "_id" : { "$oid" : "5322cd6ccf93a1fa1a8b55b5" }, "site" : "dfw.com", "country" : "United States", "score" : "19686" }
+{ "_id" : { "$oid" : "5322cd6ecf93a1fa1a8b55b6" }, "site" : "hostinger.com.br", "country" : "Brazil", "score" : "21576" }
+{ "_id" : { "$oid" : "5322cd70cf93a1fa1a8b55b7" }, "site" : "sri.gob.ec", "country" : "Ecuador", "score" : "23426" }
+{ "_id" : { "$oid" : "5322cd71cf93a1fa1a8b55b8" }, "site" : "33cc.net", "country" : "China", "score" : "20993" }
+{ "_id" : { "$oid" : "5322cd73cf93a1fa1a8b55b9" }, "site" : "ducktoursoftampabay.com", "country" : "United States", "score" : "19546" }
+{ "_id" : { "$oid" : "5322cd75cf93a1fa1a8b55ba" }, "site" : "secretcv.com", "country" : "Turkey", "score" : "11503" }
+{ "_id" : { "$oid" : "5322cd77cf93a1fa1a8b55bb" }, "site" : "paymo.biz", "country" : "United States", "score" : "19627" }
+{ "_id" : { "$oid" : "5322cd79cf93a1fa1a8b55bc" }, "site" : "qmango.com", "country" : "China", "score" : "23732" }
+{ "_id" : { "$oid" : "5322cd7acf93a1fa1a8b55bd" }, "site" : "automobile.it", "country" : "Italy", "score" : "21994" }
+{ "_id" : { "$oid" : "5322cd7ecf93a1fa1a8b55be" }, "site" : "maizhixiu.com", "country" : "China", "score" : "25266" }
+{ "_id" : { "$oid" : "5322cd7fcf93a1fa1a8b55bf" }, "site" : "sgx.com", "country" : "Singapore", "score" : "21432" }
+{ "_id" : { "$oid" : "5322cd81cf93a1fa1a8b55c0" }, "site" : "ipla.tv", "country" : "Poland", "score" : "17414" }
+{ "_id" : { "$oid" : "5322cd83cf93a1fa1a8b55c1" }, "site" : "sennheiser.com", "country" : "United States", "score" : "19911" }
+{ "_id" : { "$oid" : "5322cd85cf93a1fa1a8b55c2" }, "site" : "bpergroup.net", "country" : "Italy", "score" : "21119" }
+{ "_id" : { "$oid" : "5322cd86cf93a1fa1a8b55c3" }, "site" : "highrankings.com", "country" : "India", "score" : "21640" }
+{ "_id" : { "$oid" : "5322cd88cf93a1fa1a8b55c4" }, "site" : "slingbox.com", "country" : "United States", "score" : "21886" }
+{ "_id" : { "$oid" : "5322cd8acf93a1fa1a8b55c5" }, "site" : "dfb.de", "country" : "Germany", "score" : "27716" }
+{ "_id" : { "$oid" : "5322cd8ccf93a1fa1a8b55c6" }, "site" : "vicky.in", "country" : "India", "score" : "21917" }
+{ "_id" : { "$oid" : "5322cd8dcf93a1fa1a8b55c7" }, "site" : "metafizzy.co", "country" : "United States", "score" : "25206" }
+{ "_id" : { "$oid" : "5322cd8fcf93a1fa1a8b55c8" }, "site" : "hayhaytv.vn", "country" : "Vietnam", "score" : "16218" }
+{ "_id" : { "$oid" : "5322cd91cf93a1fa1a8b55c9" }, "site" : "24.ae", "country" : "United Arab Emirates", "score" : "21332" }
+{ "_id" : { "$oid" : "5322cd92cf93a1fa1a8b55ca" }, "site" : "lo4d.com", "country" : "United States", "score" : "20519" }
+{ "_id" : { "$oid" : "5322cd94cf93a1fa1a8b55cb" }, "site" : "deutschebahn.com", "country" : "Germany", "score" : "20371" }
+{ "_id" : { "$oid" : "5322cd96cf93a1fa1a8b55cc" }, "site" : "lovepedia.net", "country" : "Italy", "score" : "19822" }
+{ "_id" : { "$oid" : "5322cd97cf93a1fa1a8b55cd" }, "site" : "livesport.cz", "country" : "Czech Republic", "score" : "18284" }
+{ "_id" : { "$oid" : "5322cd99cf93a1fa1a8b55ce" }, "site" : "lavorincasa.it", "country" : "Italy", "score" : "18652" }
+{ "_id" : { "$oid" : "5322cd9bcf93a1fa1a8b55cf" }, "site" : "blogtyrant.com", "country" : "United States", "score" : "23330" }
+{ "_id" : { "$oid" : "5322cd9dcf93a1fa1a8b55d0" }, "site" : "2flam.org", "country" : "Egypt", "score" : "20983" }
+{ "_id" : { "$oid" : "5322cd9ecf93a1fa1a8b55d1" }, "site" : "vido.ws", "country" : "China", "score" : "22199" }
+{ "_id" : { "$oid" : "5322cda0cf93a1fa1a8b55d2" }, "site" : "backtrack-linux.org", "country" : "India", "score" : "17816" }
+{ "_id" : { "$oid" : "5322cda1cf93a1fa1a8b55d3" }, "site" : "tudocelular.com", "country" : "Brazil", "score" : "21219" }
+{ "_id" : { "$oid" : "5322cda3cf93a1fa1a8b55d4" }, "site" : "wizishop.com", "country" : "France", "score" : "19463" }
+{ "_id" : { "$oid" : "5322cda5cf93a1fa1a8b55d5" }, "site" : "frontpagemag.com", "country" : "United States", "score" : "20967" }
+{ "_id" : { "$oid" : "5322cda7cf93a1fa1a8b55d6" }, "site" : "kenh13.info", "country" : "Vietnam", "score" : "38522" }
+{ "_id" : { "$oid" : "5322cda8cf93a1fa1a8b55d7" }, "site" : "diaryofahollywoodstreetking.com", "country" : "United States", "score" : "22996" }
+{ "_id" : { "$oid" : "5322cdaacf93a1fa1a8b55d8" }, "site" : "onlinetrade.ru", "country" : "Russia", "score" : "20608" }
+{ "_id" : { "$oid" : "5322cdaccf93a1fa1a8b55d9" }, "site" : "ibusinesspromoter.com", "country" : "India", "score" : "20184" }
+{ "_id" : { "$oid" : "5322cdaecf93a1fa1a8b55da" }, "site" : "my-shop.ru", "country" : "Russia", "score" : "23109" }
+{ "_id" : { "$oid" : "5322cdafcf93a1fa1a8b55db" }, "site" : "livefun.tv", "country" : "Greece", "score" : "22638" }
+{ "_id" : { "$oid" : "5322cdb1cf93a1fa1a8b55dc" }, "site" : "kaywa.com", "country" : "United States", "score" : "20055" }
+{ "_id" : { "$oid" : "5322cdb3cf93a1fa1a8b55dd" }, "site" : "madamedeals.com", "country" : "United States", "score" : "26623" }
+{ "_id" : { "$oid" : "5322cdb5cf93a1fa1a8b55de" }, "site" : "cinefox.tv", "country" : "Mexico", "score" : "21063" }
+{ "_id" : { "$oid" : "5322cdb7cf93a1fa1a8b55df" }, "site" : "88bux.com", "country" : "India", "score" : "47667" }
+{ "_id" : { "$oid" : "5322cdb8cf93a1fa1a8b55e0" }, "site" : "getprismatic.com", "country" : "United States", "score" : "20312" }
+{ "_id" : { "$oid" : "5322cdbacf93a1fa1a8b55e1" }, "site" : "toronto.ca", "country" : "Canada", "score" : "19906" }
+{ "_id" : { "$oid" : "5322cdbccf93a1fa1a8b55e2" }, "site" : "okdork.com", "country" : "United States", "score" : "31686" }
+{ "_id" : { "$oid" : "5322cdbdcf93a1fa1a8b55e3" }, "site" : "17ys.com", "country" : "China", "score" : "22359" }
+{ "_id" : { "$oid" : "5322cdbfcf93a1fa1a8b55e4" }, "site" : "67.215.15.45", "country" : "Spain", "score" : "64854" }
+{ "_id" : { "$oid" : "5322cdc1cf93a1fa1a8b55e5" }, "site" : "oshkosh.com", "country" : "United States", "score" : "21757" }
+{ "_id" : { "$oid" : "5322cdc3cf93a1fa1a8b55e6" }, "site" : "moma.org", "country" : "United States", "score" : "21973" }
+{ "_id" : { "$oid" : "5322cdc5cf93a1fa1a8b55e7" }, "site" : "pkr.com", "country" : "Germany", "score" : "18800" }
+{ "_id" : { "$oid" : "5322cdc7cf93a1fa1a8b55e8" }, "site" : "todareceta.es", "country" : "Spain", "score" : "17295" }
+{ "_id" : { "$oid" : "5322cdc8cf93a1fa1a8b55e9" }, "site" : "sobhanehonline.com", "country" : "Iran", "score" : "23061" }
+{ "_id" : { "$oid" : "5322cdcacf93a1fa1a8b55ea" }, "site" : "redditblog.com", "country" : "United States", "score" : "57115" }
+{ "_id" : { "$oid" : "5322cdcccf93a1fa1a8b55eb" }, "site" : "5figureday.com", "country" : "United States", "score" : "14083" }
+{ "_id" : { "$oid" : "5322cdcecf93a1fa1a8b55ec" }, "site" : "plirt.ru", "country" : "Russia", "score" : "30263" }
+{ "_id" : { "$oid" : "5322cdd0cf93a1fa1a8b55ed" }, "site" : "linkvalidator.net", "country" : "Peru", "score" : "19786" }
+{ "_id" : { "$oid" : "5322cdd1cf93a1fa1a8b55ee" }, "site" : "eposcard.co.jp", "country" : "Japan", "score" : "19138" }
+{ "_id" : { "$oid" : "5322cdd3cf93a1fa1a8b55ef" }, "site" : "idblognetwork.com", "country" : "Indonesia", "score" : "20159" }
+{ "_id" : { "$oid" : "5322cdd5cf93a1fa1a8b55f0" }, "site" : "pravmir.ru", "country" : "Russia", "score" : "22732" }
+{ "_id" : { "$oid" : "5322cdd6cf93a1fa1a8b55f1" }, "site" : "playpink.com", "country" : "United States", "score" : "23140" }
+{ "_id" : { "$oid" : "5322cdd8cf93a1fa1a8b55f2" }, "site" : "telugustop.com", "country" : "India", "score" : "18888" }
+{ "_id" : { "$oid" : "5322cddacf93a1fa1a8b55f3" }, "site" : "freeticketopen.com", "country" : "India", "score" : "54153" }
+{ "_id" : { "$oid" : "5322cddccf93a1fa1a8b55f4" }, "site" : "webuy.com", "country" : "United Kingdom", "score" : "19633" }
+{ "_id" : { "$oid" : "5322cdddcf93a1fa1a8b55f5" }, "site" : "fotogramas.es", "country" : "Spain", "score" : "21935" }
+{ "_id" : { "$oid" : "5322cddfcf93a1fa1a8b55f6" }, "site" : "mycrickethighlights.com", "country" : "Pakistan", "score" : "26111" }
+{ "_id" : { "$oid" : "5322cde1cf93a1fa1a8b55f7" }, "site" : "panel.home.pl", "country" : "Poland", "score" : "21411" }
+{ "_id" : { "$oid" : "5322cde2cf93a1fa1a8b55f8" }, "site" : "njit.edu", "country" : "United States", "score" : "21297" }
+{ "_id" : { "$oid" : "5322cde4cf93a1fa1a8b55f9" }, "site" : "topgames.me", "country" : "India", "score" : "23612" }
+{ "_id" : { "$oid" : "5322cde6cf93a1fa1a8b55fa" }, "site" : "questrade.com", "country" : "Canada", "score" : "22861" }
+{ "_id" : { "$oid" : "5322cde7cf93a1fa1a8b55fb" }, "site" : "sfi4.com", "country" : "India", "score" : "16935" }
+{ "_id" : { "$oid" : "5322cde9cf93a1fa1a8b55fc" }, "site" : "junodownload.com", "country" : "United States", "score" : "22751" }
+{ "_id" : { "$oid" : "5322cdebcf93a1fa1a8b55fd" }, "site" : "lebanondebate.com", "country" : "Lebanon", "score" : "20163" }
+{ "_id" : { "$oid" : "5322cdeccf93a1fa1a8b55fe" }, "site" : "servipag.com", "country" : "Chile", "score" : "21030" }
+{ "_id" : { "$oid" : "5322cdeecf93a1fa1a8b55ff" }, "site" : "correos.cl", "country" : "Chile", "score" : "21372" }
+{ "_id" : { "$oid" : "5322cdf0cf93a1fa1a8b5600" }, "site" : "btv.bg", "country" : "Bulgaria", "score" : "22829" }
+{ "_id" : { "$oid" : "5322cdf1cf93a1fa1a8b5601" }, "site" : "meteojob.com", "country" : "France", "score" : "17087" }
+{ "_id" : { "$oid" : "5322cdf3cf93a1fa1a8b5602" }, "site" : "sendenkaigi.com", "country" : "Japan", "score" : "20724" }
+{ "_id" : { "$oid" : "5322cdf5cf93a1fa1a8b5603" }, "site" : "armani.com", "country" : "United States", "score" : "18972" }
+{ "_id" : { "$oid" : "5322cdf7cf93a1fa1a8b5604" }, "site" : "hostlove.com", "country" : "Japan", "score" : "23009" }
+{ "_id" : { "$oid" : "5322cdf8cf93a1fa1a8b5605" }, "site" : "ichikawashinya.biz", "country" : "Japan", "score" : "26446" }
+{ "_id" : { "$oid" : "5322cdfacf93a1fa1a8b5606" }, "site" : "bestdirectory4you.com", "country" : "India", "score" : "20740" }
+{ "_id" : { "$oid" : "5322cdfccf93a1fa1a8b5607" }, "site" : "assayyarat.com", "country" : "Saudi Arabia", "score" : "24114" }
+{ "_id" : { "$oid" : "5322cdfecf93a1fa1a8b5608" }, "site" : "articulate.com", "country" : "United States", "score" : "21775" }
+{ "_id" : { "$oid" : "5322ce00cf93a1fa1a8b5609" }, "site" : "dj-18.com", "country" : "China", "score" : "28674" }
+{ "_id" : { "$oid" : "5322ce02cf93a1fa1a8b560a" }, "site" : "intuit.ca", "country" : "Canada", "score" : "28346" }
+{ "_id" : { "$oid" : "5322ce04cf93a1fa1a8b560b" }, "site" : "rakuten.es", "country" : "Spain", "score" : "21279" }
+{ "_id" : { "$oid" : "5322ce05cf93a1fa1a8b560c" }, "site" : "brodude.ru", "country" : "Russia", "score" : "31343" }
+{ "_id" : { "$oid" : "5322ce07cf93a1fa1a8b560d" }, "site" : "welltrainedmind.com", "country" : "United States", "score" : "22047" }
+{ "_id" : { "$oid" : "5322ce09cf93a1fa1a8b560e" }, "site" : "okbob.net", "country" : "Algeria", "score" : "20989" }
+{ "_id" : { "$oid" : "5322ce0bcf93a1fa1a8b560f" }, "site" : "jimmychoo.com", "country" : "Japan", "score" : "17925" }
+{ "_id" : { "$oid" : "5322ce0ccf93a1fa1a8b5610" }, "site" : "kay.com", "country" : "United States", "score" : "17138" }
+{ "_id" : { "$oid" : "5322ce0ecf93a1fa1a8b5611" }, "site" : "placelibertine.com", "country" : "France", "score" : "18539" }
+{ "_id" : { "$oid" : "5322ce0fcf93a1fa1a8b5612" }, "site" : "sugardaddy.travel", "country" : "China", "score" : "22706" }
+{ "_id" : { "$oid" : "5322ce11cf93a1fa1a8b5613" }, "site" : "putariabrasileira.com", "country" : "Brazil", "score" : "18971" }
+{ "_id" : { "$oid" : "5322ce13cf93a1fa1a8b5614" }, "site" : "www.sun.mv", "country" : "Maldives", "score" : "21121" }
+{ "_id" : { "$oid" : "5322ce14cf93a1fa1a8b5615" }, "site" : "alldebrid.com", "country" : "France", "score" : "18458" }
+{ "_id" : { "$oid" : "5322ce16cf93a1fa1a8b5616" }, "site" : "atompark.com", "country" : "Russia", "score" : "29586" }
+{ "_id" : { "$oid" : "5322ce19cf93a1fa1a8b5617" }, "site" : "wag.com", "country" : "United States", "score" : "21594" }
+{ "_id" : { "$oid" : "5322ce1bcf93a1fa1a8b5618" }, "site" : "bootcss.com", "country" : "China", "score" : "24888" }
+{ "_id" : { "$oid" : "5322ce1ccf93a1fa1a8b5619" }, "site" : "classifieds4me.com", "country" : "India", "score" : "22143" }
+{ "_id" : { "$oid" : "5322ce1ecf93a1fa1a8b561a" }, "site" : "sexy.com", "country" : "United States", "score" : "21444" }
+{ "_id" : { "$oid" : "5322ce20cf93a1fa1a8b561b" }, "site" : "comuni-italiani.it", "country" : "Italy", "score" : "20544" }
+{ "_id" : { "$oid" : "5322ce21cf93a1fa1a8b561c" }, "site" : "ikinokz.net", "country" : "Kazakhstan", "score" : "24252" }
+{ "_id" : { "$oid" : "5322ce23cf93a1fa1a8b561d" }, "site" : "lexware.de", "country" : "Germany", "score" : "20425" }
+{ "_id" : { "$oid" : "5322ce25cf93a1fa1a8b561e" }, "site" : "pricetravel.com.mx", "country" : "Mexico", "score" : "25650" }
+{ "_id" : { "$oid" : "5322ce27cf93a1fa1a8b561f" }, "site" : "guancha.cn", "country" : "China", "score" : "25590" }
+{ "_id" : { "$oid" : "5322ce29cf93a1fa1a8b5620" }, "site" : "kitguru.net", "country" : "United States", "score" : "21028" }
+{ "_id" : { "$oid" : "5322ce2acf93a1fa1a8b5621" }, "site" : "royalearn.com", "country" : "Russia", "score" : "21264" }
+{ "_id" : { "$oid" : "5322ce2ccf93a1fa1a8b5622" }, "site" : "thisnext.com", "country" : "India", "score" : "19869" }
+{ "_id" : { "$oid" : "5322ce2ecf93a1fa1a8b5623" }, "site" : "accelerationpartners.com", "country" : "United States", "score" : "28088" }
+{ "_id" : { "$oid" : "5322ce30cf93a1fa1a8b5624" }, "site" : "templateworld.com", "country" : "India", "score" : "20124" }
+{ "_id" : { "$oid" : "5322ce31cf93a1fa1a8b5625" }, "site" : "10youtube.com", "country" : "Egypt", "score" : "19423" }
+{ "_id" : { "$oid" : "5322ce33cf93a1fa1a8b5626" }, "site" : "cackle.me", "country" : "Russia", "score" : "21683" }
+{ "_id" : { "$oid" : "5322ce35cf93a1fa1a8b5627" }, "site" : "leimg8.com", "country" : "China", "score" : "43899" }
+{ "_id" : { "$oid" : "5322ce37cf93a1fa1a8b5628" }, "site" : "igli5.com", "country" : "Morocco", "score" : "25749" }
+{ "_id" : { "$oid" : "5322ce38cf93a1fa1a8b5629" }, "site" : "westwing.com.br", "country" : "Brazil", "score" : "21713" }
+{ "_id" : { "$oid" : "5322ce3acf93a1fa1a8b562a" }, "site" : "gs.com", "country" : "United States", "score" : "19565" }
+{ "_id" : { "$oid" : "5322ce3ccf93a1fa1a8b562b" }, "site" : "engvid.com", "country" : "India", "score" : "23411" }
+{ "_id" : { "$oid" : "5322ce3ecf93a1fa1a8b562c" }, "site" : "ele.me", "country" : "China", "score" : "24106" }
+{ "_id" : { "$oid" : "5322ce3fcf93a1fa1a8b562d" }, "site" : "joomla-monster.com", "country" : "Germany", "score" : "21847" }
+{ "_id" : { "$oid" : "5322ce41cf93a1fa1a8b562e" }, "site" : "bleupage.com", "country" : "United States", "score" : "29237" }
+{ "_id" : { "$oid" : "5322ce43cf93a1fa1a8b562f" }, "site" : "saude.gov.br", "country" : "Brazil", "score" : "24282" }
+{ "_id" : { "$oid" : "5322ce45cf93a1fa1a8b5630" }, "site" : "raymond.cc", "country" : "United States", "score" : "20408" }
+{ "_id" : { "$oid" : "5322ce47cf93a1fa1a8b5631" }, "site" : "donkparty.com", "country" : "United States", "score" : "22630" }
+{ "_id" : { "$oid" : "5322ce48cf93a1fa1a8b5632" }, "site" : "galacasino.com", "country" : "United Kingdom", "score" : "23458" }
+{ "_id" : { "$oid" : "5322ce4acf93a1fa1a8b5633" }, "site" : "xianlin.cc", "country" : "China", "score" : "28374" }
+{ "_id" : { "$oid" : "5322ce4ccf93a1fa1a8b5634" }, "site" : "b2bdiscover.com", "country" : "India", "score" : "33575" }
+{ "_id" : { "$oid" : "5322ce4dcf93a1fa1a8b5635" }, "site" : "nzw.cn", "country" : "China", "score" : "19729" }
+{ "_id" : { "$oid" : "5322ce50cf93a1fa1a8b5636" }, "site" : "towadi.com", "country" : "India", "score" : "26850" }
+{ "_id" : { "$oid" : "5322ce52cf93a1fa1a8b5637" }, "site" : "myzuka.ru", "country" : "Russia", "score" : "16819" }
+{ "_id" : { "$oid" : "5322ce54cf93a1fa1a8b5638" }, "site" : "vdict.com", "country" : "Vietnam", "score" : "21051" }
+{ "_id" : { "$oid" : "5322ce55cf93a1fa1a8b5639" }, "site" : "bundlr.com", "country" : "India", "score" : "20418" }
+{ "_id" : { "$oid" : "5322ce57cf93a1fa1a8b563a" }, "site" : "teixeiranews.com.br", "country" : "Brazil", "score" : "22720" }
+{ "_id" : { "$oid" : "5322ce59cf93a1fa1a8b563b" }, "site" : "backpackit.com", "country" : "Finland", "score" : "22246" }
+{ "_id" : { "$oid" : "5322ce5bcf93a1fa1a8b563c" }, "site" : "bolt.cd", "country" : "United States", "score" : "19468" }
+{ "_id" : { "$oid" : "5322ce5ccf93a1fa1a8b563d" }, "site" : "buymacafe.com", "country" : "Japan", "score" : "24840" }
+{ "_id" : { "$oid" : "5322ce5ecf93a1fa1a8b563e" }, "site" : "chime.in", "country" : "United States", "score" : "18416" }
+{ "_id" : { "$oid" : "5322ce60cf93a1fa1a8b563f" }, "site" : "phpforum.de", "country" : "Germany", "score" : "23136" }
+{ "_id" : { "$oid" : "5322ce62cf93a1fa1a8b5640" }, "site" : "gibson.com", "country" : "United States", "score" : "21197" }
+{ "_id" : { "$oid" : "5322ce63cf93a1fa1a8b5641" }, "site" : "tjoos.com", "country" : "United States", "score" : "20047" }
+{ "_id" : { "$oid" : "5322ce65cf93a1fa1a8b5642" }, "site" : "plp.cl", "country" : "Chile", "score" : "15941" }
+{ "_id" : { "$oid" : "5322ce67cf93a1fa1a8b5643" }, "site" : "finra.org", "country" : "United States", "score" : "21556" }
+{ "_id" : { "$oid" : "5322ce69cf93a1fa1a8b5644" }, "site" : "qwertybiz.com", "country" : "Russia", "score" : "13578" }
+{ "_id" : { "$oid" : "5322ce6bcf93a1fa1a8b5645" }, "site" : "coffeemeetsbagel.com", "country" : "United States", "score" : "22514" }
+{ "_id" : { "$oid" : "5322ce6ccf93a1fa1a8b5646" }, "site" : "ecommerce-news.es", "country" : "Spain", "score" : "21207" }
+{ "_id" : { "$oid" : "5322ce6ecf93a1fa1a8b5647" }, "site" : "avatrade.com", "country" : "India", "score" : "22292" }
+{ "_id" : { "$oid" : "5322ce71cf93a1fa1a8b5648" }, "site" : "trends.com.cn", "country" : "China", "score" : "17958" }
+{ "_id" : { "$oid" : "5322ce72cf93a1fa1a8b5649" }, "site" : "badoink.com", "country" : "United States", "score" : "23971" }
+{ "_id" : { "$oid" : "5322ce74cf93a1fa1a8b564a" }, "site" : "enguzeloyunlar.net", "country" : "Turkey", "score" : "18606" }
+{ "_id" : { "$oid" : "5322ce76cf93a1fa1a8b564b" }, "site" : "pardismusic.ir", "country" : "Iran", "score" : "26718" }
+{ "_id" : { "$oid" : "5322ce78cf93a1fa1a8b564c" }, "site" : "nordbayern.de", "country" : "Germany", "score" : "19352" }
+{ "_id" : { "$oid" : "5322ce7acf93a1fa1a8b564d" }, "site" : "forthnet.gr", "country" : "Greece", "score" : "23585" }
+{ "_id" : { "$oid" : "5322ce7ccf93a1fa1a8b564e" }, "site" : "jigzone.com", "country" : "United States", "score" : "20340" }
+{ "_id" : { "$oid" : "5322ce7ecf93a1fa1a8b564f" }, "site" : "existenz.se", "country" : "Sweden", "score" : "21043" }
+{ "_id" : { "$oid" : "5322ce7fcf93a1fa1a8b5650" }, "site" : "alittihad.co.ae", "country" : "United Arab Emirates", "score" : "22327" }
+{ "_id" : { "$oid" : "5322ce81cf93a1fa1a8b5651" }, "site" : "keizai.biz", "country" : "Japan", "score" : "21314" }
+{ "_id" : { "$oid" : "5322ce83cf93a1fa1a8b5652" }, "site" : "ironfx.com", "country" : "Pakistan", "score" : "21327" }
+{ "_id" : { "$oid" : "5322ce85cf93a1fa1a8b5653" }, "site" : "rb24.ir", "country" : "Iran", "score" : "22791" }
+{ "_id" : { "$oid" : "5322ce88cf93a1fa1a8b5654" }, "site" : "abc.az", "country" : "Azerbaijan", "score" : "23644" }
+{ "_id" : { "$oid" : "5322ce8acf93a1fa1a8b5655" }, "site" : "business-finder.info", "country" : "India", "score" : "21758" }
+{ "_id" : { "$oid" : "5322ce8bcf93a1fa1a8b5656" }, "site" : "ivpaste.com", "country" : "Mexico", "score" : "20350" }
+{ "_id" : { "$oid" : "5322ce8dcf93a1fa1a8b5657" }, "site" : "peliculasdcine.com", "country" : "Mexico", "score" : "28171" }
+{ "_id" : { "$oid" : "5322ce8fcf93a1fa1a8b5658" }, "site" : "v6news.tv", "country" : "India", "score" : "28387" }
+{ "_id" : { "$oid" : "5322ce90cf93a1fa1a8b5659" }, "site" : "edb.com", "country" : "Norway", "score" : "19241" }
+{ "_id" : { "$oid" : "5322ce92cf93a1fa1a8b565a" }, "site" : "emobile.jp", "country" : "Japan", "score" : "21696" }
+{ "_id" : { "$oid" : "5322ce95cf93a1fa1a8b565b" }, "site" : "luckyvitamin.com", "country" : "United States", "score" : "20385" }
+{ "_id" : { "$oid" : "5322ce96cf93a1fa1a8b565c" }, "site" : "redstate.com", "country" : "United States", "score" : "20515" }
+{ "_id" : { "$oid" : "5322ce98cf93a1fa1a8b565d" }, "site" : "blackhatgroup.com", "country" : "United States", "score" : "18161" }
+{ "_id" : { "$oid" : "5322ce9acf93a1fa1a8b565e" }, "site" : "terra.com.ar", "country" : "Argentina", "score" : "19116" }
+{ "_id" : { "$oid" : "5322ce9bcf93a1fa1a8b565f" }, "site" : "directoryvault.com", "country" : "India", "score" : "16500" }
+{ "_id" : { "$oid" : "5322ce9dcf93a1fa1a8b5660" }, "site" : "recycler.com", "country" : "India", "score" : "19021" }
+{ "_id" : { "$oid" : "5322ce9fcf93a1fa1a8b5661" }, "site" : "kingarthurflour.com", "country" : "United States", "score" : "19636" }
+{ "_id" : { "$oid" : "5322cea2cf93a1fa1a8b5662" }, "site" : "wemineltc.com", "country" : "United States", "score" : "14917" }
+{ "_id" : { "$oid" : "5322cea3cf93a1fa1a8b5663" }, "site" : "milocalbuilder.com", "country" : "India", "score" : "53594" }
+{ "_id" : { "$oid" : "5322cea6cf93a1fa1a8b5664" }, "site" : "870buy.net", "country" : "China", "score" : "19596" }
+{ "_id" : { "$oid" : "5322cea8cf93a1fa1a8b5665" }, "site" : "92.242.195.85", "country" : "Iran", "score" : "35240" }
+{ "_id" : { "$oid" : "5322cea9cf93a1fa1a8b5666" }, "site" : "hot-bookmarks.com", "country" : "India", "score" : "22451" }
+{ "_id" : { "$oid" : "5322ceabcf93a1fa1a8b5667" }, "site" : "4u.pl", "country" : "Poland", "score" : "23269" }
+{ "_id" : { "$oid" : "5322ceadcf93a1fa1a8b5668" }, "site" : "gpoint.co.jp", "country" : "Japan", "score" : "19811" }
+{ "_id" : { "$oid" : "5322ceaecf93a1fa1a8b5669" }, "site" : "phpfoxcamp.com", "country" : "United States", "score" : "24234" }
+{ "_id" : { "$oid" : "5322ceb0cf93a1fa1a8b566a" }, "site" : "cwer.ws", "country" : "Russia", "score" : "17449" }
+{ "_id" : { "$oid" : "5322ceb2cf93a1fa1a8b566b" }, "site" : "xatakafoto.com", "country" : "Spain", "score" : "22019" }
+{ "_id" : { "$oid" : "5322ceb4cf93a1fa1a8b566c" }, "site" : "payaneh.ir", "country" : "Iran", "score" : "24475" }
+{ "_id" : { "$oid" : "5322ceb6cf93a1fa1a8b566d" }, "site" : "credit.com", "country" : "United States", "score" : "22261" }
+{ "_id" : { "$oid" : "5322ceb8cf93a1fa1a8b566e" }, "site" : "eslcafe.com", "country" : "South Korea", "score" : "19042" }
+{ "_id" : { "$oid" : "5322cebacf93a1fa1a8b566f" }, "site" : "gumgum.com", "country" : "United States", "score" : "25044" }
+{ "_id" : { "$oid" : "5322cebccf93a1fa1a8b5670" }, "site" : "fabsugar.com", "country" : "United States", "score" : "24259" }
+{ "_id" : { "$oid" : "5322cebdcf93a1fa1a8b5671" }, "site" : "plemiona.pl", "country" : "Poland", "score" : "22274" }
+{ "_id" : { "$oid" : "5322cebfcf93a1fa1a8b5672" }, "site" : "kstyle.com", "country" : "Japan", "score" : "19995" }
+{ "_id" : { "$oid" : "5322cec1cf93a1fa1a8b5673" }, "site" : "indiancinemagallery.com", "country" : "India", "score" : "22342" }
+{ "_id" : { "$oid" : "5322cec2cf93a1fa1a8b5674" }, "site" : "sg123.com", "country" : "China", "score" : "19955" }
+{ "_id" : { "$oid" : "5322cec4cf93a1fa1a8b5675" }, "site" : "carbuzz.com", "country" : "United States", "score" : "21469" }
+{ "_id" : { "$oid" : "5322cec6cf93a1fa1a8b5676" }, "site" : "dxomark.com", "country" : "United States", "score" : "19988" }
+{ "_id" : { "$oid" : "5322cec7cf93a1fa1a8b5677" }, "site" : "newsone.com", "country" : "United States", "score" : "21149" }
+{ "_id" : { "$oid" : "5322cec9cf93a1fa1a8b5678" }, "site" : "hugelol.com", "country" : "India", "score" : "18792" }
+{ "_id" : { "$oid" : "5322cecbcf93a1fa1a8b5679" }, "site" : "350400.com", "country" : "China", "score" : "23131" }
+{ "_id" : { "$oid" : "5322cecccf93a1fa1a8b567a" }, "site" : "asiandating.com", "country" : "United States", "score" : "21387" }
+{ "_id" : { "$oid" : "5322cececf93a1fa1a8b567b" }, "site" : "ufone.com", "country" : "Pakistan", "score" : "21984" }
+{ "_id" : { "$oid" : "5322ced0cf93a1fa1a8b567c" }, "site" : "webmarchand.com", "country" : "France", "score" : "20174" }
+{ "_id" : { "$oid" : "5322ced2cf93a1fa1a8b567d" }, "site" : "mister-wong.com", "country" : "India", "score" : "19751" }
+{ "_id" : { "$oid" : "5322ced3cf93a1fa1a8b567e" }, "site" : "1gb.ru", "country" : "Russia", "score" : "20566" }
+{ "_id" : { "$oid" : "5322ced5cf93a1fa1a8b567f" }, "site" : "hawaalive.com", "country" : "Saudi Arabia", "score" : "21007" }
+{ "_id" : { "$oid" : "5322ced7cf93a1fa1a8b5680" }, "site" : "ilounge.com", "country" : "United States", "score" : "18731" }
+{ "_id" : { "$oid" : "5322ced9cf93a1fa1a8b5681" }, "site" : "studyisland.com", "country" : "United States", "score" : "24365" }
+{ "_id" : { "$oid" : "5322cedacf93a1fa1a8b5682" }, "site" : "experientevent.com", "country" : "United States", "score" : "24356" }
+{ "_id" : { "$oid" : "5322cedccf93a1fa1a8b5683" }, "site" : "parool.nl", "country" : "Netherlands", "score" : "21085" }
+{ "_id" : { "$oid" : "5322cedecf93a1fa1a8b5684" }, "site" : "sanyazx.com", "country" : "Japan", "score" : "20894" }
+{ "_id" : { "$oid" : "5322cee0cf93a1fa1a8b5685" }, "site" : "lerablog.org", "country" : "United States", "score" : "22289" }
+{ "_id" : { "$oid" : "5322cee1cf93a1fa1a8b5686" }, "site" : "myamcat.com", "country" : "India", "score" : "20666" }
+{ "_id" : { "$oid" : "5322cee3cf93a1fa1a8b5687" }, "site" : "onecard.net", "country" : "Saudi Arabia", "score" : "22338" }
+{ "_id" : { "$oid" : "5322cee5cf93a1fa1a8b5688" }, "site" : "truth-out.org", "country" : "United States", "score" : "20295" }
+{ "_id" : { "$oid" : "5322cee7cf93a1fa1a8b5689" }, "site" : "mainstreet.com", "country" : "United States", "score" : "19193" }
+{ "_id" : { "$oid" : "5322cee8cf93a1fa1a8b568a" }, "site" : "snag.gy", "country" : "India", "score" : "24918" }
+{ "_id" : { "$oid" : "5322ceeacf93a1fa1a8b568b" }, "site" : "tnpscexams.net", "country" : "India", "score" : "35370" }
+{ "_id" : { "$oid" : "5322ceeccf93a1fa1a8b568c" }, "site" : "xmeeting.com", "country" : "United States", "score" : "19830" }
+{ "_id" : { "$oid" : "5322ceedcf93a1fa1a8b568d" }, "site" : "cmen.cc", "country" : "China", "score" : "27500" }
+{ "_id" : { "$oid" : "5322ceefcf93a1fa1a8b568e" }, "site" : "wineverygame.com", "country" : "United States", "score" : "17222" }
+{ "_id" : { "$oid" : "5322cef1cf93a1fa1a8b568f" }, "site" : "melissadata.com", "country" : "United States", "score" : "20212" }
+{ "_id" : { "$oid" : "5322cef2cf93a1fa1a8b5690" }, "site" : "garancedore.fr", "country" : "United States", "score" : "21555" }
+{ "_id" : { "$oid" : "5322cef4cf93a1fa1a8b5691" }, "site" : "idealmedia.com", "country" : "India", "score" : "45296" }
+{ "_id" : { "$oid" : "5322cef7cf93a1fa1a8b5692" }, "site" : "linktrackr.com", "country" : "United States", "score" : "19411" }
+{ "_id" : { "$oid" : "5322cef9cf93a1fa1a8b5693" }, "site" : "indyarocks.com", "country" : "India", "score" : "20430" }
+{ "_id" : { "$oid" : "5322cefbcf93a1fa1a8b5694" }, "site" : "ruthe.de", "country" : "Germany", "score" : "20033" }
+{ "_id" : { "$oid" : "5322cefccf93a1fa1a8b5695" }, "site" : "sixfigurefunnelformula.com", "country" : "United States", "score" : "41182" }
+{ "_id" : { "$oid" : "5322cefecf93a1fa1a8b5696" }, "site" : "vogue.fr", "country" : "France", "score" : "24891" }
+{ "_id" : { "$oid" : "5322cf00cf93a1fa1a8b5697" }, "site" : "wimdu.com", "country" : "South Korea", "score" : "25566" }
+{ "_id" : { "$oid" : "5322cf02cf93a1fa1a8b5698" }, "site" : "pentapostagma.gr", "country" : "Greece", "score" : "23761" }
+{ "_id" : { "$oid" : "5322cf03cf93a1fa1a8b5699" }, "site" : "delgarm.com", "country" : "Iran", "score" : "19146" }
+{ "_id" : { "$oid" : "5322cf05cf93a1fa1a8b569a" }, "site" : "last-video.com", "country" : "France", "score" : "19390" }
+{ "_id" : { "$oid" : "5322cf07cf93a1fa1a8b569b" }, "site" : "happy-giraffe.ru", "country" : "Russia", "score" : "23611" }
+{ "_id" : { "$oid" : "5322cf08cf93a1fa1a8b569c" }, "site" : "leafly.com", "country" : "United States", "score" : "22612" }
+{ "_id" : { "$oid" : "5322cf0acf93a1fa1a8b569d" }, "site" : "businessdailyafrica.com", "country" : "Kenya", "score" : "23334" }
+{ "_id" : { "$oid" : "5322cf0ccf93a1fa1a8b569e" }, "site" : "liveofofo.com", "country" : "Nigeria", "score" : "29582" }
+{ "_id" : { "$oid" : "5322cf0dcf93a1fa1a8b569f" }, "site" : "exactrelease.com", "country" : "India", "score" : "19103" }
+{ "_id" : { "$oid" : "5322cf0fcf93a1fa1a8b56a0" }, "site" : "directory.edu.vn", "country" : "India", "score" : "20338" }
+{ "_id" : { "$oid" : "5322cf11cf93a1fa1a8b56a1" }, "site" : "totemcash.com", "country" : "Russia", "score" : "21398" }
+{ "_id" : { "$oid" : "5322cf12cf93a1fa1a8b56a2" }, "site" : "red-team-design.com", "country" : "India", "score" : "24931" }
+{ "_id" : { "$oid" : "5322cf14cf93a1fa1a8b56a3" }, "site" : "broadcasthe.net", "country" : "United States", "score" : "22179" }
+{ "_id" : { "$oid" : "5322cf17cf93a1fa1a8b56a4" }, "site" : "iseostats.com", "country" : "India", "score" : "29501" }
+{ "_id" : { "$oid" : "5322cf19cf93a1fa1a8b56a5" }, "site" : "hostiran.net", "country" : "Iran", "score" : "19910" }
+{ "_id" : { "$oid" : "5322cf1acf93a1fa1a8b56a6" }, "site" : "webcheatsheet.com", "country" : "India", "score" : "20994" }
+{ "_id" : { "$oid" : "5322cf1ccf93a1fa1a8b56a7" }, "site" : "avast.ru", "country" : "Russia", "score" : "17412" }
+{ "_id" : { "$oid" : "5322cf1ecf93a1fa1a8b56a8" }, "site" : "flickr.net", "country" : "United States", "score" : "14747" }
+{ "_id" : { "$oid" : "5322cf1fcf93a1fa1a8b56a9" }, "site" : "omegatheme.com", "country" : "Russia", "score" : "18732" }
+{ "_id" : { "$oid" : "5322cf21cf93a1fa1a8b56aa" }, "site" : "plus.net", "country" : "United Kingdom", "score" : "20564" }
+{ "_id" : { "$oid" : "5322cf23cf93a1fa1a8b56ab" }, "site" : "sinfest.net", "country" : "United States", "score" : "25615" }
+{ "_id" : { "$oid" : "5322cf25cf93a1fa1a8b56ac" }, "site" : "sunstar.com.ph", "country" : "Philippines", "score" : "20583" }
+{ "_id" : { "$oid" : "5322cf28cf93a1fa1a8b56ad" }, "site" : "zapmeta.com", "country" : "United States", "score" : "19808" }
+{ "_id" : { "$oid" : "5322cf2ccf93a1fa1a8b56ae" }, "site" : "justluxe.com", "country" : "United States", "score" : "21688" }
+{ "_id" : { "$oid" : "5322cf2ecf93a1fa1a8b56af" }, "site" : "ratsit.se", "country" : "Sweden", "score" : "22367" }
+{ "_id" : { "$oid" : "5322cf30cf93a1fa1a8b56b0" }, "site" : "tjx.com", "country" : "United States", "score" : "18396" }
+{ "_id" : { "$oid" : "5322cf32cf93a1fa1a8b56b1" }, "site" : "lastminute.de", "country" : "Germany", "score" : "21349" }
+{ "_id" : { "$oid" : "5322cf35cf93a1fa1a8b56b2" }, "site" : "graze.com", "country" : "United Kingdom", "score" : "22438" }
+{ "_id" : { "$oid" : "5322cf37cf93a1fa1a8b56b3" }, "site" : "mylovewebs.com", "country" : "China", "score" : "18887" }
+{ "_id" : { "$oid" : "5322cf39cf93a1fa1a8b56b4" }, "site" : "commondreams.org", "country" : "United States", "score" : "19189" }
+{ "_id" : { "$oid" : "5322cf3acf93a1fa1a8b56b5" }, "site" : "s7.ru", "country" : "Russia", "score" : "25209" }
+{ "_id" : { "$oid" : "5322cf3ccf93a1fa1a8b56b6" }, "site" : "kde.org", "country" : "United States", "score" : "21023" }
+{ "_id" : { "$oid" : "5322cf42cf93a1fa1a8b56b7" }, "site" : "gosquared.com", "country" : "United States", "score" : "22975" }
+{ "_id" : { "$oid" : "5322cf43cf93a1fa1a8b56b8" }, "site" : "bluthemes.com", "country" : "United States", "score" : "22185" }
+{ "_id" : { "$oid" : "5322cf45cf93a1fa1a8b56b9" }, "site" : "kamyab.ir", "country" : "Iran", "score" : "21463" }
+{ "_id" : { "$oid" : "5322cf47cf93a1fa1a8b56ba" }, "site" : "anvisoft.com", "country" : "United States", "score" : "19110" }
+{ "_id" : { "$oid" : "5322cf48cf93a1fa1a8b56bb" }, "site" : "firebox.com", "country" : "United Kingdom", "score" : "18842" }
+{ "_id" : { "$oid" : "5322cf4acf93a1fa1a8b56bc" }, "site" : "cheatengine.org", "country" : "United States", "score" : "21058" }
+{ "_id" : { "$oid" : "5322cf4ccf93a1fa1a8b56bd" }, "site" : "apkgalaxy.com", "country" : "India", "score" : "15245" }
+{ "_id" : { "$oid" : "5322cf4ecf93a1fa1a8b56be" }, "site" : "whois-search.com", "country" : "India", "score" : "17879" }
+{ "_id" : { "$oid" : "5322cf50cf93a1fa1a8b56bf" }, "site" : "wfsb.com", "country" : "United States", "score" : "22731" }
+{ "_id" : { "$oid" : "5322cf51cf93a1fa1a8b56c0" }, "site" : "expatwoman.com", "country" : "United Arab Emirates", "score" : "23646" }
+{ "_id" : { "$oid" : "5322cf53cf93a1fa1a8b56c1" }, "site" : "bestylish.com", "country" : "India", "score" : "19485" }
+{ "_id" : { "$oid" : "5322cf55cf93a1fa1a8b56c2" }, "site" : "tazakhobor.com", "country" : "Bangladesh", "score" : "15098" }
+{ "_id" : { "$oid" : "5322cf56cf93a1fa1a8b56c3" }, "site" : "tuttocitta.it", "country" : "Italy", "score" : "23195" }
+{ "_id" : { "$oid" : "5322cf58cf93a1fa1a8b56c4" }, "site" : "yamachan01.com", "country" : "Japan", "score" : "28005" }
+{ "_id" : { "$oid" : "5322cf59cf93a1fa1a8b56c5" }, "site" : "youtubedownloaderhd.com", "country" : "India", "score" : "26762" }
+{ "_id" : { "$oid" : "5322cf5bcf93a1fa1a8b56c6" }, "site" : "unica.ro", "country" : "Romania", "score" : "22403" }
+{ "_id" : { "$oid" : "5322cf5ecf93a1fa1a8b56c7" }, "site" : "myblog.it", "country" : "Italy", "score" : "18930" }
+{ "_id" : { "$oid" : "5322cf5fcf93a1fa1a8b56c8" }, "site" : "68design.net", "country" : "China", "score" : "26927" }
+{ "_id" : { "$oid" : "5322cf61cf93a1fa1a8b56c9" }, "site" : "transip.nl", "country" : "Netherlands", "score" : "23571" }
+{ "_id" : { "$oid" : "5322cf63cf93a1fa1a8b56ca" }, "site" : "rodinalinkov.ru", "country" : "Russia", "score" : "19624" }
+{ "_id" : { "$oid" : "5322cf65cf93a1fa1a8b56cb" }, "site" : "keljob.com", "country" : "France", "score" : "19242" }
+{ "_id" : { "$oid" : "5322cf68cf93a1fa1a8b56cc" }, "site" : "haj.ir", "country" : "Iran", "score" : "24966" }
+{ "_id" : { "$oid" : "5322cf6acf93a1fa1a8b56cd" }, "site" : "flirchi.ru", "country" : "Russia", "score" : "11299" }
+{ "_id" : { "$oid" : "5322cf6ccf93a1fa1a8b56ce" }, "site" : "qbox.me", "country" : "China", "score" : "29139" }
+{ "_id" : { "$oid" : "5322cf6ecf93a1fa1a8b56cf" }, "site" : "dle-news.ru", "country" : "Russia", "score" : "20584" }
+{ "_id" : { "$oid" : "5322cf70cf93a1fa1a8b56d0" }, "site" : "rpxnow.com", "country" : "United States", "score" : "19005" }
+{ "_id" : { "$oid" : "5322cf72cf93a1fa1a8b56d1" }, "site" : "whatclinic.com", "country" : "India", "score" : "22120" }
+{ "_id" : { "$oid" : "5322cf73cf93a1fa1a8b56d2" }, "site" : "allblogtools.com", "country" : "India", "score" : "19060" }
+{ "_id" : { "$oid" : "5322cf75cf93a1fa1a8b56d3" }, "site" : "antigate.com", "country" : "Russia", "score" : "22458" }
+{ "_id" : { "$oid" : "5322cf77cf93a1fa1a8b56d4" }, "site" : "kino-dom.tv", "country" : "Russia", "score" : "19844" }
+{ "_id" : { "$oid" : "5322cf79cf93a1fa1a8b56d5" }, "site" : "tubetamil.com", "country" : "India", "score" : "20413" }
+{ "_id" : { "$oid" : "5322cf7acf93a1fa1a8b56d6" }, "site" : "articlecube.com", "country" : "India", "score" : "21848" }
+{ "_id" : { "$oid" : "5322cf7ccf93a1fa1a8b56d7" }, "site" : "open-classifieds.com", "country" : "India", "score" : "24620" }
+{ "_id" : { "$oid" : "5322cf7ecf93a1fa1a8b56d8" }, "site" : "mycheckfree.com", "country" : "United States", "score" : "20599" }
+{ "_id" : { "$oid" : "5322cf80cf93a1fa1a8b56d9" }, "site" : "usanetwork.com", "country" : "United States", "score" : "19935" }
+{ "_id" : { "$oid" : "5322cf81cf93a1fa1a8b56da" }, "site" : "haberartibir.com.tr", "country" : "Turkey", "score" : "32747" }
+{ "_id" : { "$oid" : "5322cf83cf93a1fa1a8b56db" }, "site" : "onesoku.com", "country" : "Japan", "score" : "19840" }
+{ "_id" : { "$oid" : "5322cf84cf93a1fa1a8b56dc" }, "site" : "websurveypanel.org", "country" : "United States", "score" : "54340" }
+{ "_id" : { "$oid" : "5322cf86cf93a1fa1a8b56dd" }, "site" : "hit.ua", "country" : "Ukraine", "score" : "20531" }
+{ "_id" : { "$oid" : "5322cf88cf93a1fa1a8b56de" }, "site" : "xiaoshuo520.com", "country" : "China", "score" : "19260" }
+{ "_id" : { "$oid" : "5322cf8acf93a1fa1a8b56df" }, "site" : "gigafile.nu", "country" : "Japan", "score" : "22160" }
+{ "_id" : { "$oid" : "5322cf8bcf93a1fa1a8b56e0" }, "site" : "reignofgaming.net", "country" : "United States", "score" : "22397" }
+{ "_id" : { "$oid" : "5322cf8dcf93a1fa1a8b56e1" }, "site" : "df.cl", "country" : "Chile", "score" : "19128" }
+{ "_id" : { "$oid" : "5322cf8fcf93a1fa1a8b56e2" }, "site" : "alexaporn.com", "country" : "United States", "score" : "19655" }
+{ "_id" : { "$oid" : "5322cf90cf93a1fa1a8b56e3" }, "site" : "rjeem.com", "country" : "Saudi Arabia", "score" : "20046" }
+{ "_id" : { "$oid" : "5322cf92cf93a1fa1a8b56e4" }, "site" : "marketforce.com", "country" : "United States", "score" : "25081" }
+{ "_id" : { "$oid" : "5322cf94cf93a1fa1a8b56e5" }, "site" : "liwai.com", "country" : "China", "score" : "19748" }
+{ "_id" : { "$oid" : "5322cf95cf93a1fa1a8b56e6" }, "site" : "worldgolfchampionships.com", "country" : "United States", "score" : "38768" }
+{ "_id" : { "$oid" : "5322cf97cf93a1fa1a8b56e7" }, "site" : "adwingate.com", "country" : "Saudi Arabia", "score" : "33855" }
+{ "_id" : { "$oid" : "5322cf99cf93a1fa1a8b56e8" }, "site" : "prettysecrets.com", "country" : "India", "score" : "26295" }
+{ "_id" : { "$oid" : "5322cf9bcf93a1fa1a8b56e9" }, "site" : "khojle.in", "country" : "India", "score" : "21536" }
+{ "_id" : { "$oid" : "5322cf9dcf93a1fa1a8b56ea" }, "site" : "awaztoday.com", "country" : "Pakistan", "score" : "23829" }
+{ "_id" : { "$oid" : "5322cf9ecf93a1fa1a8b56eb" }, "site" : "popgah.com", "country" : "Iran", "score" : "28612" }
+{ "_id" : { "$oid" : "5322cfa0cf93a1fa1a8b56ec" }, "site" : "citilink.co.id", "country" : "Indonesia", "score" : "19768" }
+{ "_id" : { "$oid" : "5322cfa2cf93a1fa1a8b56ed" }, "site" : "midnightlounge.com", "country" : "India", "score" : "18520" }
+{ "_id" : { "$oid" : "5322cfa4cf93a1fa1a8b56ee" }, "site" : "mvnrepository.com", "country" : "United States", "score" : "22436" }
+{ "_id" : { "$oid" : "5322cfa5cf93a1fa1a8b56ef" }, "site" : "recruitmentresult.com", "country" : "India", "score" : "21120" }
+{ "_id" : { "$oid" : "5322cfa7cf93a1fa1a8b56f0" }, "site" : "jayski.com", "country" : "United States", "score" : "25279" }
+{ "_id" : { "$oid" : "5322cfa9cf93a1fa1a8b56f1" }, "site" : "chrono24.com", "country" : "United States", "score" : "18250" }
+{ "_id" : { "$oid" : "5322cfabcf93a1fa1a8b56f2" }, "site" : "ewt.cc", "country" : "China", "score" : "23990" }
+{ "_id" : { "$oid" : "5322cfaccf93a1fa1a8b56f3" }, "site" : "politika.rs", "country" : "Serbia", "score" : "24040" }
+{ "_id" : { "$oid" : "5322cfaecf93a1fa1a8b56f4" }, "site" : "sevendollarptc.com", "country" : "Russia", "score" : "14589" }
+{ "_id" : { "$oid" : "5322cfafcf93a1fa1a8b56f5" }, "site" : "franquiciasdigitales.com", "country" : "Peru", "score" : "21516" }
+{ "_id" : { "$oid" : "5322cfb1cf93a1fa1a8b56f6" }, "site" : "shofonline.net", "country" : "Egypt", "score" : "22442" }
+{ "_id" : { "$oid" : "5322cfb3cf93a1fa1a8b56f7" }, "site" : "ohmymag.com", "country" : "France", "score" : "29017" }
+{ "_id" : { "$oid" : "5322cfb5cf93a1fa1a8b56f8" }, "site" : "pinktower.com", "country" : "Japan", "score" : "21883" }
+{ "_id" : { "$oid" : "5322cfb6cf93a1fa1a8b56f9" }, "site" : "laola1.at", "country" : "Austria", "score" : "19798" }
+{ "_id" : { "$oid" : "5322cfb8cf93a1fa1a8b56fa" }, "site" : "otempo.com.br", "country" : "Brazil", "score" : "23982" }
+{ "_id" : { "$oid" : "5322cfbacf93a1fa1a8b56fb" }, "site" : "smartertravel.com", "country" : "United States", "score" : "22212" }
+{ "_id" : { "$oid" : "5322cfbccf93a1fa1a8b56fc" }, "site" : "wn.se", "country" : "Sweden", "score" : "21324" }
+{ "_id" : { "$oid" : "5322cfbdcf93a1fa1a8b56fd" }, "site" : "my-hammer.de", "country" : "Germany", "score" : "21661" }
+{ "_id" : { "$oid" : "5322cfbfcf93a1fa1a8b56fe" }, "site" : "psnprofiles.com", "country" : "United States", "score" : "19002" }
+{ "_id" : { "$oid" : "5322cfc1cf93a1fa1a8b56ff" }, "site" : "moshimonsters.com", "country" : "United Kingdom", "score" : "18050" }
+{ "_id" : { "$oid" : "5322cfc2cf93a1fa1a8b5700" }, "site" : "fashiontoany.com", "country" : "South Korea", "score" : "21920" }
+{ "_id" : { "$oid" : "5322cfc4cf93a1fa1a8b5701" }, "site" : "gtimg.com", "country" : "China", "score" : "24087" }
+{ "_id" : { "$oid" : "5322cfc6cf93a1fa1a8b5702" }, "site" : "sociallist.in", "country" : "India", "score" : "15380" }
+{ "_id" : { "$oid" : "5322cfc7cf93a1fa1a8b5703" }, "site" : "thegospelcoalition.org", "country" : "United States", "score" : "19882" }
+{ "_id" : { "$oid" : "5322cfc9cf93a1fa1a8b5704" }, "site" : "maedchen.de", "country" : "Germany", "score" : "20357" }
+{ "_id" : { "$oid" : "5322cfcccf93a1fa1a8b5705" }, "site" : "transformice.com", "country" : "Brazil", "score" : "20628" }
+{ "_id" : { "$oid" : "5322cfcecf93a1fa1a8b5706" }, "site" : "alcatelonetouch.com", "country" : "India", "score" : "21754" }
+{ "_id" : { "$oid" : "5322cfcfcf93a1fa1a8b5707" }, "site" : "repec.org", "country" : "United States", "score" : "22668" }
+{ "_id" : { "$oid" : "5322cfd1cf93a1fa1a8b5708" }, "site" : "flysaa.com", "country" : "South Africa", "score" : "20401" }
+{ "_id" : { "$oid" : "5322cfd2cf93a1fa1a8b5709" }, "site" : "enpara.com", "country" : "Turkey", "score" : "20091" }
+{ "_id" : { "$oid" : "5322cfd4cf93a1fa1a8b570a" }, "site" : "coinmarket.io", "country" : "United States", "score" : "42294" }
+{ "_id" : { "$oid" : "5322cfd6cf93a1fa1a8b570b" }, "site" : "rocket-downloader.com", "country" : "United States", "score" : "41189" }
+{ "_id" : { "$oid" : "5322cfd8cf93a1fa1a8b570c" }, "site" : "splunk.com", "country" : "United States", "score" : "23287" }
+{ "_id" : { "$oid" : "5322cfd9cf93a1fa1a8b570d" }, "site" : "dondeir.com", "country" : "Mexico", "score" : "27190" }
+{ "_id" : { "$oid" : "5322cfdbcf93a1fa1a8b570e" }, "site" : "tthonghuo.com", "country" : "China", "score" : "21474" }
+{ "_id" : { "$oid" : "5322cfddcf93a1fa1a8b570f" }, "site" : "portaleargo.it", "country" : "Italy", "score" : "23179" }
+{ "_id" : { "$oid" : "5322cfdecf93a1fa1a8b5710" }, "site" : "kikonboti.com", "country" : "Japan", "score" : "21397" }
+{ "_id" : { "$oid" : "5322cfe0cf93a1fa1a8b5711" }, "site" : "sanyaliking.com", "country" : "South Korea", "score" : "22195" }
+{ "_id" : { "$oid" : "5322cfe2cf93a1fa1a8b5712" }, "site" : "sunsky-online.com", "country" : "Czech Republic", "score" : "21579" }
+{ "_id" : { "$oid" : "5322cfe3cf93a1fa1a8b5713" }, "site" : "mywappy.com", "country" : "India", "score" : "22252" }
+{ "_id" : { "$oid" : "5322cfe5cf93a1fa1a8b5714" }, "site" : "laopinion.com", "country" : "Mexico", "score" : "24548" }
+{ "_id" : { "$oid" : "5322cfe7cf93a1fa1a8b5715" }, "site" : "51yes.com", "country" : "China", "score" : "23021" }
+{ "_id" : { "$oid" : "5322cfe9cf93a1fa1a8b5716" }, "site" : "misspetitenigeria.blogspot.com", "country" : "Nigeria", "score" : "20145" }
+{ "_id" : { "$oid" : "5322cfeacf93a1fa1a8b5717" }, "site" : "kayak.co.uk", "country" : "United Kingdom", "score" : "19927" }
+{ "_id" : { "$oid" : "5322cfeccf93a1fa1a8b5718" }, "site" : "locatetv.com", "country" : "United States", "score" : "22234" }
+{ "_id" : { "$oid" : "5322cfedcf93a1fa1a8b5719" }, "site" : "sedoparking.com", "country" : "Germany", "score" : "21285" }
+{ "_id" : { "$oid" : "5322cfefcf93a1fa1a8b571a" }, "site" : "ftvcash.com", "country" : "United States", "score" : "19082" }
+{ "_id" : { "$oid" : "5322cff1cf93a1fa1a8b571b" }, "site" : "ftcdn.net", "country" : "Germany", "score" : "22012" }
+{ "_id" : { "$oid" : "5322cff2cf93a1fa1a8b571c" }, "site" : "superdelivery.com", "country" : "Japan", "score" : "29864" }
+{ "_id" : { "$oid" : "5322cff4cf93a1fa1a8b571d" }, "site" : "itu.edu.tr", "country" : "Turkey", "score" : "19747" }
+{ "_id" : { "$oid" : "5322cff6cf93a1fa1a8b571e" }, "site" : "mine.nu", "country" : "Japan", "score" : "19772" }
+{ "_id" : { "$oid" : "5322cff7cf93a1fa1a8b571f" }, "site" : "sharghdaily.ir", "country" : "Iran", "score" : "20893" }
+{ "_id" : { "$oid" : "5322cff9cf93a1fa1a8b5720" }, "site" : "tonaton.com", "country" : "Ghana", "score" : "21061" }
+{ "_id" : { "$oid" : "5322cffbcf93a1fa1a8b5721" }, "site" : "brtn.cn", "country" : "China", "score" : "37303" }
+{ "_id" : { "$oid" : "5322cffdcf93a1fa1a8b5722" }, "site" : "publimetro.cl", "country" : "Chile", "score" : "20180" }
+{ "_id" : { "$oid" : "5322cffecf93a1fa1a8b5723" }, "site" : "clustrmaps.com", "country" : "United States", "score" : "19967" }
+{ "_id" : { "$oid" : "5322d001cf93a1fa1a8b5724" }, "site" : "gorillanation.com", "country" : "United States", "score" : "24848" }
+{ "_id" : { "$oid" : "5322d003cf93a1fa1a8b5725" }, "site" : "no1reviews.com", "country" : "United States", "score" : "25732" }
+{ "_id" : { "$oid" : "5322d005cf93a1fa1a8b5726" }, "site" : "jeja.pl", "country" : "Poland", "score" : "20036" }
+{ "_id" : { "$oid" : "5322d006cf93a1fa1a8b5727" }, "site" : "3xhd.us", "country" : "Japan", "score" : "30617" }
+{ "_id" : { "$oid" : "5322d009cf93a1fa1a8b5728" }, "site" : "dengekionline.com", "country" : "Japan", "score" : "19949" }
+{ "_id" : { "$oid" : "5322d00bcf93a1fa1a8b5729" }, "site" : "significados.com.br", "country" : "Brazil", "score" : "25670" }
+{ "_id" : { "$oid" : "5322d00ccf93a1fa1a8b572a" }, "site" : "gg.in.th", "country" : "Thailand", "score" : "22233" }
+{ "_id" : { "$oid" : "5322d00ecf93a1fa1a8b572b" }, "site" : "92.242.195.86", "country" : "Iran", "score" : "41526" }
+{ "_id" : { "$oid" : "5322d010cf93a1fa1a8b572c" }, "site" : "gvbookmarks.com", "country" : "India", "score" : "21413" }
+{ "_id" : { "$oid" : "5322d011cf93a1fa1a8b572d" }, "site" : "frugalrules.com", "country" : "United States", "score" : "20938" }
+{ "_id" : { "$oid" : "5322d013cf93a1fa1a8b572e" }, "site" : "eci-citizenservices.nic.in", "country" : "India", "score" : "20123" }
+{ "_id" : { "$oid" : "5322d015cf93a1fa1a8b572f" }, "site" : "kuxun.cn", "country" : "China", "score" : "18933" }
+{ "_id" : { "$oid" : "5322d018cf93a1fa1a8b5730" }, "site" : "allthewebsites.org", "country" : "India", "score" : "20474" }
+{ "_id" : { "$oid" : "5322d01acf93a1fa1a8b5731" }, "site" : "youbian.com", "country" : "China", "score" : "23054" }
+{ "_id" : { "$oid" : "5322d01fcf93a1fa1a8b5732" }, "site" : "themobilestore.in", "country" : "India", "score" : "19179" }
+{ "_id" : { "$oid" : "5322d020cf93a1fa1a8b5733" }, "site" : "er1234.com", "country" : "Russia", "score" : "26689" }
+{ "_id" : { "$oid" : "5322d023cf93a1fa1a8b5734" }, "site" : "gagadget.com", "country" : "Russia", "score" : "22817" }
+{ "_id" : { "$oid" : "5322d025cf93a1fa1a8b5735" }, "site" : "bingplaces.com", "country" : "United States", "score" : "22745" }
+{ "_id" : { "$oid" : "5322d026cf93a1fa1a8b5736" }, "site" : "hydeparkbooks.com", "country" : "India", "score" : "21399" }
+{ "_id" : { "$oid" : "5322d028cf93a1fa1a8b5737" }, "site" : "newspickup.com", "country" : "Japan", "score" : "19473" }
+{ "_id" : { "$oid" : "5322d02acf93a1fa1a8b5738" }, "site" : "hsbc.com.ar", "country" : "Argentina", "score" : "19178" }
+{ "_id" : { "$oid" : "5322d02ccf93a1fa1a8b5739" }, "site" : "momondo.ru", "country" : "Russia", "score" : "23849" }
+{ "_id" : { "$oid" : "5322d02dcf93a1fa1a8b573a" }, "site" : "nw-news.de", "country" : "Germany", "score" : "21869" }
+{ "_id" : { "$oid" : "5322d02fcf93a1fa1a8b573b" }, "site" : "jiangshi.org", "country" : "China", "score" : "20424" }
+{ "_id" : { "$oid" : "5322d031cf93a1fa1a8b573c" }, "site" : "blogdepobre.com", "country" : "Brazil", "score" : "30380" }
+{ "_id" : { "$oid" : "5322d032cf93a1fa1a8b573d" }, "site" : "forexsystems.ru", "country" : "Russia", "score" : "21316" }
+{ "_id" : { "$oid" : "5322d034cf93a1fa1a8b573e" }, "site" : "roadtoblogging.com", "country" : "United States", "score" : "21840" }
+{ "_id" : { "$oid" : "5322d036cf93a1fa1a8b573f" }, "site" : "sothink.com", "country" : "India", "score" : "21753" }
+{ "_id" : { "$oid" : "5322d037cf93a1fa1a8b5740" }, "site" : "longtailpro.com", "country" : "United States", "score" : "21145" }
+{ "_id" : { "$oid" : "5322d039cf93a1fa1a8b5741" }, "site" : "adlure.net", "country" : "South Korea", "score" : "35330" }
+{ "_id" : { "$oid" : "5322d03bcf93a1fa1a8b5742" }, "site" : "foter.com", "country" : "United States", "score" : "23354" }
+{ "_id" : { "$oid" : "5322d03ccf93a1fa1a8b5743" }, "site" : "booknik.ru", "country" : "Russia", "score" : "31642" }
+{ "_id" : { "$oid" : "5322d03ecf93a1fa1a8b5744" }, "site" : "gazetaesportiva.net", "country" : "Brazil", "score" : "19234" }
+{ "_id" : { "$oid" : "5322d040cf93a1fa1a8b5745" }, "site" : "techcabal.com", "country" : "Nigeria", "score" : "22094" }
+{ "_id" : { "$oid" : "5322d042cf93a1fa1a8b5746" }, "site" : "webclassifieds.us", "country" : "India", "score" : "18064" }
+{ "_id" : { "$oid" : "5322d044cf93a1fa1a8b5747" }, "site" : "babla.ru", "country" : "Russia", "score" : "25213" }
+{ "_id" : { "$oid" : "5322d046cf93a1fa1a8b5748" }, "site" : "metalinjection.net", "country" : "United States", "score" : "19267" }
+{ "_id" : { "$oid" : "5322d047cf93a1fa1a8b5749" }, "site" : "hulkload.com", "country" : "Canada", "score" : "19162" }
+{ "_id" : { "$oid" : "5322d049cf93a1fa1a8b574a" }, "site" : "localincomelab.com", "country" : "United States", "score" : "33581" }
+{ "_id" : { "$oid" : "5322d04bcf93a1fa1a8b574b" }, "site" : "file.net", "country" : "United States", "score" : "18578" }
+{ "_id" : { "$oid" : "5322d04ccf93a1fa1a8b574c" }, "site" : "proxy4free.com", "country" : "South Korea", "score" : "23671" }
+{ "_id" : { "$oid" : "5322d04ecf93a1fa1a8b574d" }, "site" : "autonews.com", "country" : "United States", "score" : "19750" }
+{ "_id" : { "$oid" : "5322d050cf93a1fa1a8b574e" }, "site" : "bodyandsoul.com.au", "country" : "Australia", "score" : "19615" }
+{ "_id" : { "$oid" : "5322d052cf93a1fa1a8b574f" }, "site" : "hellspy.cz", "country" : "Czech Republic", "score" : "20649" }
+{ "_id" : { "$oid" : "5322d053cf93a1fa1a8b5750" }, "site" : "youngd.cn", "country" : "China", "score" : "20109" }
+{ "_id" : { "$oid" : "5322d055cf93a1fa1a8b5751" }, "site" : "groupon.nl", "country" : "Netherlands", "score" : "18507" }
+{ "_id" : { "$oid" : "5322d057cf93a1fa1a8b5752" }, "site" : "domiporta.pl", "country" : "Poland", "score" : "25646" }
+{ "_id" : { "$oid" : "5322d059cf93a1fa1a8b5753" }, "site" : "crumina.net", "country" : "India", "score" : "22166" }
+{ "_id" : { "$oid" : "5322d05bcf93a1fa1a8b5754" }, "site" : "vertbaudet.fr", "country" : "France", "score" : "16449" }
+{ "_id" : { "$oid" : "5322d05ccf93a1fa1a8b5755" }, "site" : "hothardware.com", "country" : "United States", "score" : "17836" }
+{ "_id" : { "$oid" : "5322d05ecf93a1fa1a8b5756" }, "site" : "abc15.com", "country" : "United States", "score" : "18745" }
+{ "_id" : { "$oid" : "5322d05fcf93a1fa1a8b5757" }, "site" : "tumview.com", "country" : "United States", "score" : "22636" }
+{ "_id" : { "$oid" : "5322d061cf93a1fa1a8b5758" }, "site" : "mno.hu", "country" : "Hungary", "score" : "22826" }
+{ "_id" : { "$oid" : "5322d063cf93a1fa1a8b5759" }, "site" : "reminderfox.org", "country" : "France", "score" : "35877" }
+{ "_id" : { "$oid" : "5322d065cf93a1fa1a8b575a" }, "site" : "hostpoint.ch", "country" : "Switzerland", "score" : "22385" }
+{ "_id" : { "$oid" : "5322d067cf93a1fa1a8b575b" }, "site" : "expert-mail.net", "country" : "Japan", "score" : "23680" }
+{ "_id" : { "$oid" : "5322d068cf93a1fa1a8b575c" }, "site" : "freedirectorysubmit.com", "country" : "India", "score" : "20460" }
+{ "_id" : { "$oid" : "5322d06acf93a1fa1a8b575d" }, "site" : "seriouslyforreal.com", "country" : "United States", "score" : "11101" }
+{ "_id" : { "$oid" : "5322d06ccf93a1fa1a8b575e" }, "site" : "socialvaultsuite.com", "country" : "United States", "score" : "64446" }
+{ "_id" : { "$oid" : "5322d06ecf93a1fa1a8b575f" }, "site" : "ypool.net", "country" : "United States", "score" : "17865" }
+{ "_id" : { "$oid" : "5322d06fcf93a1fa1a8b5760" }, "site" : "instantwatcher.com", "country" : "United States", "score" : "19418" }
+{ "_id" : { "$oid" : "5322d071cf93a1fa1a8b5761" }, "site" : "sangbad24.net", "country" : "Bangladesh", "score" : "18071" }
+{ "_id" : { "$oid" : "5322d073cf93a1fa1a8b5762" }, "site" : "lidl-pageflip.com", "country" : "Spain", "score" : "20130" }
+{ "_id" : { "$oid" : "5322d074cf93a1fa1a8b5763" }, "site" : "top4top.net", "country" : "Saudi Arabia", "score" : "21092" }
+{ "_id" : { "$oid" : "5322d076cf93a1fa1a8b5764" }, "site" : "wondermomwannabe.com", "country" : "United States", "score" : "22139" }
+{ "_id" : { "$oid" : "5322d077cf93a1fa1a8b5765" }, "site" : "ultoo.com", "country" : "India", "score" : "17547" }
+{ "_id" : { "$oid" : "5322d079cf93a1fa1a8b5766" }, "site" : "tipjunkie.com", "country" : "United States", "score" : "21039" }
+{ "_id" : { "$oid" : "5322d07bcf93a1fa1a8b5767" }, "site" : "cy580.com", "country" : "China", "score" : "19062" }
+{ "_id" : { "$oid" : "5322d07ccf93a1fa1a8b5768" }, "site" : "touropia.com", "country" : "India", "score" : "20684" }
+{ "_id" : { "$oid" : "5322d07ecf93a1fa1a8b5769" }, "site" : "5dimes.eu", "country" : "United States", "score" : "16073" }
+{ "_id" : { "$oid" : "5322d080cf93a1fa1a8b576a" }, "site" : "920gg.com", "country" : "China", "score" : "19727" }
+{ "_id" : { "$oid" : "5322d082cf93a1fa1a8b576b" }, "site" : "blacksportsonline.com", "country" : "United States", "score" : "18690" }
+{ "_id" : { "$oid" : "5322d083cf93a1fa1a8b576c" }, "site" : "sexxxxi.com", "country" : "India", "score" : "39841" }
+{ "_id" : { "$oid" : "5322d085cf93a1fa1a8b576d" }, "site" : "goodreads.com/user/show", "country" : "United States", "score" : "20600" }
+{ "_id" : { "$oid" : "5322d087cf93a1fa1a8b576e" }, "site" : "ultrafiles.net", "country" : "Iran", "score" : "25097" }
+{ "_id" : { "$oid" : "5322d089cf93a1fa1a8b576f" }, "site" : "hathway.com", "country" : "India", "score" : "21806" }
+{ "_id" : { "$oid" : "5322d098cf93a1fa1a8b5770" }, "site" : "shangxueba.com", "country" : "China", "score" : "25196" }
+{ "_id" : { "$oid" : "5322d099cf93a1fa1a8b5771" }, "site" : "heute.at", "country" : "Austria", "score" : "18338" }
+{ "_id" : { "$oid" : "5322d09bcf93a1fa1a8b5772" }, "site" : "xianzuonet.com", "country" : "China", "score" : "19409" }
+{ "_id" : { "$oid" : "5322d09dcf93a1fa1a8b5773" }, "site" : "askvg.com", "country" : "India", "score" : "22231" }
+{ "_id" : { "$oid" : "5322d09fcf93a1fa1a8b5774" }, "site" : "hudhomestore.com", "country" : "United States", "score" : "21470" }
+{ "_id" : { "$oid" : "5322d0a2cf93a1fa1a8b5775" }, "site" : "wine.com", "country" : "United States", "score" : "18263" }
+{ "_id" : { "$oid" : "5322d0a5cf93a1fa1a8b5776" }, "site" : "pigtailsextube.com", "country" : "United States", "score" : "16624" }
+{ "_id" : { "$oid" : "5322d0a6cf93a1fa1a8b5777" }, "site" : "pchelplinebd.com", "country" : "Bangladesh", "score" : "22013" }
+{ "_id" : { "$oid" : "5322d0a8cf93a1fa1a8b5778" }, "site" : "fame10.com", "country" : "United States", "score" : "23711" }
+{ "_id" : { "$oid" : "5322d0aacf93a1fa1a8b5779" }, "site" : "url.tw", "country" : "Taiwan", "score" : "21956" }
+{ "_id" : { "$oid" : "5322d0accf93a1fa1a8b577a" }, "site" : "dradio.de", "country" : "Germany", "score" : "19999" }
+{ "_id" : { "$oid" : "5322d0adcf93a1fa1a8b577b" }, "site" : "cmstrader.com", "country" : "Saudi Arabia", "score" : "42861" }
+{ "_id" : { "$oid" : "5322d0b0cf93a1fa1a8b577c" }, "site" : "epatogh.com", "country" : "Iran", "score" : "23120" }
+{ "_id" : { "$oid" : "5322d0b2cf93a1fa1a8b577d" }, "site" : "speedtest.pl", "country" : "Poland", "score" : "20808" }
+{ "_id" : { "$oid" : "5322d0b4cf93a1fa1a8b577e" }, "site" : "credit-suisse.com", "country" : "Switzerland", "score" : "23620" }
+{ "_id" : { "$oid" : "5322d0b6cf93a1fa1a8b577f" }, "site" : "citibank.com.sg", "country" : "Singapore", "score" : "20687" }
+{ "_id" : { "$oid" : "5322d0b8cf93a1fa1a8b5780" }, "site" : "jobisjob.co.uk", "country" : "United Kingdom", "score" : "22347" }
+{ "_id" : { "$oid" : "5322d0b9cf93a1fa1a8b5781" }, "site" : "webmasterpark.net", "country" : "Germany", "score" : "19877" }
+{ "_id" : { "$oid" : "5322d0bbcf93a1fa1a8b5782" }, "site" : "vidshark.ws", "country" : "United States", "score" : "19532" }
+{ "_id" : { "$oid" : "5322d0bdcf93a1fa1a8b5783" }, "site" : "brooklynvegan.com", "country" : "United States", "score" : "22033" }
+{ "_id" : { "$oid" : "5322d0bfcf93a1fa1a8b5784" }, "site" : "articlesfactory.com", "country" : "India", "score" : "20929" }
+{ "_id" : { "$oid" : "5322d0c1cf93a1fa1a8b5785" }, "site" : "tatrabanka.sk", "country" : "Slovakia", "score" : "20661" }
+{ "_id" : { "$oid" : "5322d0c2cf93a1fa1a8b5786" }, "site" : "avocatnet.ro", "country" : "Romania", "score" : "22426" }
+{ "_id" : { "$oid" : "5322d0c4cf93a1fa1a8b5787" }, "site" : "youtubedownloadersite.com", "country" : "India", "score" : "21348" }
+{ "_id" : { "$oid" : "5322d0c6cf93a1fa1a8b5788" }, "site" : "losviajeros.com", "country" : "Spain", "score" : "22964" }
+{ "_id" : { "$oid" : "5322d0c8cf93a1fa1a8b5789" }, "site" : "st-secure.com", "country" : "United States", "score" : "20152" }
+{ "_id" : { "$oid" : "5322d0c9cf93a1fa1a8b578a" }, "site" : "olx.com.ec", "country" : "Ecuador", "score" : "19259" }
+{ "_id" : { "$oid" : "5322d0cbcf93a1fa1a8b578b" }, "site" : "allopass.com", "country" : "France", "score" : "19934" }
+{ "_id" : { "$oid" : "5322d0cecf93a1fa1a8b578c" }, "site" : "marieclaire.fr", "country" : "France", "score" : "19537" }
+{ "_id" : { "$oid" : "5322d0d0cf93a1fa1a8b578d" }, "site" : "bazarkhabar.ir", "country" : "Iran", "score" : "21071" }
+{ "_id" : { "$oid" : "5322d0d2cf93a1fa1a8b578e" }, "site" : "nasygnale.pl", "country" : "Poland", "score" : "11973" }
+{ "_id" : { "$oid" : "5322d0d4cf93a1fa1a8b578f" }, "site" : "ilive.to", "country" : "United States", "score" : "21389" }
+{ "_id" : { "$oid" : "5322d0d5cf93a1fa1a8b5790" }, "site" : "secondwavesystems.com", "country" : "India", "score" : "21376" }
+{ "_id" : { "$oid" : "5322d0d7cf93a1fa1a8b5791" }, "site" : "chrispederick.com", "country" : "United States", "score" : "22392" }
+{ "_id" : { "$oid" : "5322d0d9cf93a1fa1a8b5792" }, "site" : "worldofsolitaire.com", "country" : "United States", "score" : "20196" }
+{ "_id" : { "$oid" : "5322d0dbcf93a1fa1a8b5793" }, "site" : "psi.gov.sg", "country" : "Singapore", "score" : "22393" }
+{ "_id" : { "$oid" : "5322d0ddcf93a1fa1a8b5794" }, "site" : "devryu.net", "country" : "United States", "score" : "22608" }
+{ "_id" : { "$oid" : "5322d0dfcf93a1fa1a8b5795" }, "site" : "streamingmedia.com", "country" : "United States", "score" : "26001" }
+{ "_id" : { "$oid" : "5322d0e0cf93a1fa1a8b5796" }, "site" : "best-offers.co.il", "country" : "Israel", "score" : "18474" }
+{ "_id" : { "$oid" : "5322d0e2cf93a1fa1a8b5797" }, "site" : "payzippy.com", "country" : "India", "score" : "20462" }
+{ "_id" : { "$oid" : "5322d0e4cf93a1fa1a8b5798" }, "site" : "downlloadeg.com", "country" : "United States", "score" : "53979" }
+{ "_id" : { "$oid" : "5322d0e6cf93a1fa1a8b5799" }, "site" : "pornex.com", "country" : "United States", "score" : "20920" }
+{ "_id" : { "$oid" : "5322d0e8cf93a1fa1a8b579a" }, "site" : "porno-ok.com", "country" : "India", "score" : "17388" }
+{ "_id" : { "$oid" : "5322d0e9cf93a1fa1a8b579b" }, "site" : "beaute-test.com", "country" : "France", "score" : "20883" }
+{ "_id" : { "$oid" : "5322d0ebcf93a1fa1a8b579c" }, "site" : "viagogo.co.uk", "country" : "United Kingdom", "score" : "23114" }
+{ "_id" : { "$oid" : "5322d0edcf93a1fa1a8b579d" }, "site" : "unipi.it", "country" : "Italy", "score" : "25497" }
+{ "_id" : { "$oid" : "5322d0efcf93a1fa1a8b579e" }, "site" : "toptenz.net", "country" : "United States", "score" : "19843" }
+{ "_id" : { "$oid" : "5322d0f1cf93a1fa1a8b579f" }, "site" : "home.comcast.net", "country" : "United States", "score" : "21605" }
+{ "_id" : { "$oid" : "5322d0f3cf93a1fa1a8b57a0" }, "site" : "randivonal.hu", "country" : "Hungary", "score" : "18440" }
+{ "_id" : { "$oid" : "5322d0f5cf93a1fa1a8b57a1" }, "site" : "coachglue.com", "country" : "United States", "score" : "23222" }
+{ "_id" : { "$oid" : "5322d0f6cf93a1fa1a8b57a2" }, "site" : "teletica.com", "country" : "Costa Rica", "score" : "18000" }
+{ "_id" : { "$oid" : "5322d0f8cf93a1fa1a8b57a3" }, "site" : "ahaonline.cz", "country" : "Czech Republic", "score" : "20713" }
+{ "_id" : { "$oid" : "5322d0facf93a1fa1a8b57a4" }, "site" : "jrn.com", "country" : "United States", "score" : "21142" }
+{ "_id" : { "$oid" : "5322d0fccf93a1fa1a8b57a5" }, "site" : "toprightnews.com", "country" : "United States", "score" : "21423" }
+{ "_id" : { "$oid" : "5322d0fecf93a1fa1a8b57a6" }, "site" : "ok-magazine.com", "country" : "United States", "score" : "17957" }
+{ "_id" : { "$oid" : "5322d100cf93a1fa1a8b57a7" }, "site" : "videomix.ro", "country" : "Romania", "score" : "29101" }
+{ "_id" : { "$oid" : "5322d101cf93a1fa1a8b57a8" }, "site" : "firefox.com", "country" : "United States", "score" : "22371" }
+{ "_id" : { "$oid" : "5322d103cf93a1fa1a8b57a9" }, "site" : "buyproxies.org", "country" : "United States", "score" : "23177" }
+{ "_id" : { "$oid" : "5322d105cf93a1fa1a8b57aa" }, "site" : "delo.si", "country" : "Slovenia", "score" : "22067" }
+{ "_id" : { "$oid" : "5322d107cf93a1fa1a8b57ab" }, "site" : "joj.sk", "country" : "Slovakia", "score" : "21893" }
+{ "_id" : { "$oid" : "5322d109cf93a1fa1a8b57ac" }, "site" : "todorelatos.com", "country" : "Mexico", "score" : "18686" }
+{ "_id" : { "$oid" : "5322d10bcf93a1fa1a8b57ad" }, "site" : "amazon.com.au", "country" : "Australia", "score" : "20141" }
+{ "_id" : { "$oid" : "5322d10dcf93a1fa1a8b57ae" }, "site" : "ablewise.com", "country" : "India", "score" : "19303" }
+{ "_id" : { "$oid" : "5322d10fcf93a1fa1a8b57af" }, "site" : "getresponse.es", "country" : "Mexico", "score" : "24214" }
+{ "_id" : { "$oid" : "5322d110cf93a1fa1a8b57b0" }, "site" : "youtradefx.com", "country" : "Saudi Arabia", "score" : "20087" }
+{ "_id" : { "$oid" : "5322d112cf93a1fa1a8b57b1" }, "site" : "hantim.ru", "country" : "Russia", "score" : "22087" }
+{ "_id" : { "$oid" : "5322d114cf93a1fa1a8b57b2" }, "site" : "czc.cz", "country" : "Czech Republic", "score" : "17289" }
+{ "_id" : { "$oid" : "5322d116cf93a1fa1a8b57b3" }, "site" : "vivastreet.be", "country" : "Belgium", "score" : "20136" }
+{ "_id" : { "$oid" : "5322d117cf93a1fa1a8b57b4" }, "site" : "search.com", "country" : "United States", "score" : "22803" }
+{ "_id" : { "$oid" : "5322d119cf93a1fa1a8b57b5" }, "site" : "mipagerank.com", "country" : "Spain", "score" : "19938" }
+{ "_id" : { "$oid" : "5322d11ccf93a1fa1a8b57b6" }, "site" : "vanillaforums.org", "country" : "Canada", "score" : "20275" }
+{ "_id" : { "$oid" : "5322d11dcf93a1fa1a8b57b7" }, "site" : "jacobking.com", "country" : "United States", "score" : "20060" }
+{ "_id" : { "$oid" : "5322d11fcf93a1fa1a8b57b8" }, "site" : "hyundaiusa.com", "country" : "United States", "score" : "20170" }
+{ "_id" : { "$oid" : "5322d121cf93a1fa1a8b57b9" }, "site" : "mundome.com", "country" : "Argentina", "score" : "12603" }
+{ "_id" : { "$oid" : "5322d123cf93a1fa1a8b57ba" }, "site" : "g19.ir", "country" : "Iran", "score" : "39320" }
+{ "_id" : { "$oid" : "5322d125cf93a1fa1a8b57bb" }, "site" : "cursos24horas.com.br", "country" : "Brazil", "score" : "24102" }
+{ "_id" : { "$oid" : "5322d126cf93a1fa1a8b57bc" }, "site" : "updatersoft.com", "country" : "United States", "score" : "8039" }
+{ "_id" : { "$oid" : "5322d128cf93a1fa1a8b57bd" }, "site" : "itools.cn", "country" : "China", "score" : "21050" }
+{ "_id" : { "$oid" : "5322d12acf93a1fa1a8b57be" }, "site" : "fruitmail.net", "country" : "Japan", "score" : "22265" }
+{ "_id" : { "$oid" : "5322d12ccf93a1fa1a8b57bf" }, "site" : "boredombash.com", "country" : "United States", "score" : "63112" }
+{ "_id" : { "$oid" : "5322d12ecf93a1fa1a8b57c0" }, "site" : "inthe7heaven.com", "country" : "India", "score" : "20834" }
+{ "_id" : { "$oid" : "5322d12fcf93a1fa1a8b57c1" }, "site" : "changathi.com", "country" : "India", "score" : "19642" }
+{ "_id" : { "$oid" : "5322d131cf93a1fa1a8b57c2" }, "site" : "nmrdirect.com", "country" : "United States", "score" : "22542" }
+{ "_id" : { "$oid" : "5322d133cf93a1fa1a8b57c3" }, "site" : "superbalist.com", "country" : "South Africa", "score" : "26321" }
+{ "_id" : { "$oid" : "5322d135cf93a1fa1a8b57c4" }, "site" : "cherchons.com", "country" : "France", "score" : "22572" }
+{ "_id" : { "$oid" : "5322d137cf93a1fa1a8b57c5" }, "site" : "edisproduction.de", "country" : "United States", "score" : "18049" }
+{ "_id" : { "$oid" : "5322d138cf93a1fa1a8b57c6" }, "site" : "bizimyol.info", "country" : "Azerbaijan", "score" : "25809" }
+{ "_id" : { "$oid" : "5322d13acf93a1fa1a8b57c7" }, "site" : "dwell.com", "country" : "United States", "score" : "22470" }
+{ "_id" : { "$oid" : "5322d13ccf93a1fa1a8b57c8" }, "site" : "2chcopipe.com", "country" : "Japan", "score" : "19982" }
+{ "_id" : { "$oid" : "5322d13ecf93a1fa1a8b57c9" }, "site" : "mobilefun.co.uk", "country" : "United Kingdom", "score" : "19124" }
+{ "_id" : { "$oid" : "5322d140cf93a1fa1a8b57ca" }, "site" : "neoteo.com", "country" : "Mexico", "score" : "21652" }
+{ "_id" : { "$oid" : "5322d141cf93a1fa1a8b57cb" }, "site" : "niaporn.com", "country" : "Turkey", "score" : "30190" }
+{ "_id" : { "$oid" : "5322d143cf93a1fa1a8b57cc" }, "site" : "is.gd", "country" : "United States", "score" : "18977" }
+{ "_id" : { "$oid" : "5322d145cf93a1fa1a8b57cd" }, "site" : "airbnb.ca", "country" : "Canada", "score" : "21498" }
+{ "_id" : { "$oid" : "5322d147cf93a1fa1a8b57ce" }, "site" : "minecraftdl.com", "country" : "United States", "score" : "21365" }
+{ "_id" : { "$oid" : "5322d149cf93a1fa1a8b57cf" }, "site" : "jayisgames.com", "country" : "United States", "score" : "21488" }
+{ "_id" : { "$oid" : "5322d14bcf93a1fa1a8b57d0" }, "site" : "amiami.com", "country" : "United States", "score" : "20395" }
+{ "_id" : { "$oid" : "5322d14ccf93a1fa1a8b57d1" }, "site" : "forum.od.ua", "country" : "Ukraine", "score" : "20526" }
+{ "_id" : { "$oid" : "5322d14ecf93a1fa1a8b57d2" }, "site" : "ezcashcreator.com", "country" : "United States", "score" : "22755" }
+{ "_id" : { "$oid" : "5322d150cf93a1fa1a8b57d3" }, "site" : "movistar.com.ve", "country" : "Venezuela", "score" : "17355" }
+{ "_id" : { "$oid" : "5322d152cf93a1fa1a8b57d4" }, "site" : "soloboys.tv", "country" : "Brazil", "score" : "23029" }
+{ "_id" : { "$oid" : "5322d154cf93a1fa1a8b57d5" }, "site" : "ceriwis.com", "country" : "Indonesia", "score" : "21974" }
+{ "_id" : { "$oid" : "5322d156cf93a1fa1a8b57d6" }, "site" : "zz361.com", "country" : "China", "score" : "20878" }
+{ "_id" : { "$oid" : "5322d158cf93a1fa1a8b57d7" }, "site" : "cbpassiveincome.com", "country" : "United States", "score" : "21156" }
+{ "_id" : { "$oid" : "5322d159cf93a1fa1a8b57d8" }, "site" : "umcomo.com.br", "country" : "Brazil", "score" : "24746" }
+{ "_id" : { "$oid" : "5322d15bcf93a1fa1a8b57d9" }, "site" : "ukclassifieds.co.uk", "country" : "India", "score" : "22468" }
+{ "_id" : { "$oid" : "5322d15dcf93a1fa1a8b57da" }, "site" : "galatta.com", "country" : "India", "score" : "21406" }
+{ "_id" : { "$oid" : "5322d15fcf93a1fa1a8b57db" }, "site" : "rioupload.com", "country" : "Iran", "score" : "21240" }
+{ "_id" : { "$oid" : "5322d161cf93a1fa1a8b57dc" }, "site" : "74.ru", "country" : "Russia", "score" : "22243" }
+{ "_id" : { "$oid" : "5322d163cf93a1fa1a8b57dd" }, "site" : "easymoneymachines.com", "country" : "United States", "score" : "53757" }
+{ "_id" : { "$oid" : "5322d164cf93a1fa1a8b57de" }, "site" : "diariocontraste.com", "country" : "Venezuela", "score" : "26630" }
+{ "_id" : { "$oid" : "5322d166cf93a1fa1a8b57df" }, "site" : "p2p101.com", "country" : "Taiwan", "score" : "20833" }
+{ "_id" : { "$oid" : "5322d168cf93a1fa1a8b57e0" }, "site" : "n.nu", "country" : "Sweden", "score" : "19593" }
+{ "_id" : { "$oid" : "5322d16acf93a1fa1a8b57e1" }, "site" : "rus-smi.com", "country" : "Russia", "score" : "32434" }
+{ "_id" : { "$oid" : "5322d16bcf93a1fa1a8b57e2" }, "site" : "wuxinghui.com", "country" : "China", "score" : "19308" }
+{ "_id" : { "$oid" : "5322d16dcf93a1fa1a8b57e3" }, "site" : "beijingdz.com", "country" : "China", "score" : "20582" }
+{ "_id" : { "$oid" : "5322d16fcf93a1fa1a8b57e4" }, "site" : "wowprogress.com", "country" : "France", "score" : "17230" }
+{ "_id" : { "$oid" : "5322d171cf93a1fa1a8b57e5" }, "site" : "ktvu.com", "country" : "United States", "score" : "23580" }
+{ "_id" : { "$oid" : "5322d173cf93a1fa1a8b57e6" }, "site" : "prelovac.com", "country" : "United States", "score" : "22708" }
+{ "_id" : { "$oid" : "5322d174cf93a1fa1a8b57e7" }, "site" : "hotmoney.pl", "country" : "Poland", "score" : "18093" }
+{ "_id" : { "$oid" : "5322d176cf93a1fa1a8b57e8" }, "site" : "seacoast.com", "country" : "United States", "score" : "22339" }
+{ "_id" : { "$oid" : "5322d178cf93a1fa1a8b57e9" }, "site" : "thenewslens.com", "country" : "Taiwan", "score" : "23908" }
+{ "_id" : { "$oid" : "5322d17acf93a1fa1a8b57ea" }, "site" : "realcommercial.com.au", "country" : "Australia", "score" : "24200" }
+{ "_id" : { "$oid" : "5322d17bcf93a1fa1a8b57eb" }, "site" : "teufelchens.tv", "country" : "Germany", "score" : "21561" }
+{ "_id" : { "$oid" : "5322d17dcf93a1fa1a8b57ec" }, "site" : "elmundotoday.com", "country" : "Spain", "score" : "18037" }
+{ "_id" : { "$oid" : "5322d17fcf93a1fa1a8b57ed" }, "site" : "cash.ch", "country" : "Switzerland", "score" : "23584" }
+{ "_id" : { "$oid" : "5322d181cf93a1fa1a8b57ee" }, "site" : "janbari.tv", "country" : "Japan", "score" : "23385" }
+{ "_id" : { "$oid" : "5322d183cf93a1fa1a8b57ef" }, "site" : "hna.de", "country" : "Germany", "score" : "22407" }
+{ "_id" : { "$oid" : "5322d185cf93a1fa1a8b57f0" }, "site" : "tf3dm.com", "country" : "United States", "score" : "24410" }
+{ "_id" : { "$oid" : "5322d187cf93a1fa1a8b57f1" }, "site" : "funnypics247.org", "country" : "United States", "score" : "23224" }
+{ "_id" : { "$oid" : "5322d188cf93a1fa1a8b57f2" }, "site" : "sumally.com", "country" : "Japan", "score" : "25597" }
+{ "_id" : { "$oid" : "5322d18acf93a1fa1a8b57f3" }, "site" : "pokemonshowdown.com", "country" : "United States", "score" : "22770" }
+{ "_id" : { "$oid" : "5322d18ccf93a1fa1a8b57f4" }, "site" : "altroconsumo.it", "country" : "Italy", "score" : "23836" }
+{ "_id" : { "$oid" : "5322d18ecf93a1fa1a8b57f5" }, "site" : "tutiempo.net", "country" : "Spain", "score" : "19788" }
+{ "_id" : { "$oid" : "5322d18fcf93a1fa1a8b57f6" }, "site" : "cosmopolitan.fr", "country" : "France", "score" : "21101" }
+{ "_id" : { "$oid" : "5322d191cf93a1fa1a8b57f7" }, "site" : "pinkoi.com", "country" : "Taiwan", "score" : "21312" }
+{ "_id" : { "$oid" : "5322d193cf93a1fa1a8b57f8" }, "site" : "qlife.jp", "country" : "Japan", "score" : "20225" }
+{ "_id" : { "$oid" : "5322d196cf93a1fa1a8b57f9" }, "site" : "netvouz.com", "country" : "India", "score" : "20689" }
+{ "_id" : { "$oid" : "5322d198cf93a1fa1a8b57fa" }, "site" : "braintreegateway.com", "country" : "United States", "score" : "22237" }
+{ "_id" : { "$oid" : "5322d19acf93a1fa1a8b57fb" }, "site" : "airbnb.co.uk", "country" : "United Kingdom", "score" : "21066" }
+{ "_id" : { "$oid" : "5322d19bcf93a1fa1a8b57fc" }, "site" : "dodge.com", "country" : "United States", "score" : "19628" }
+{ "_id" : { "$oid" : "5322d19dcf93a1fa1a8b57fd" }, "site" : "healthaliciousness.com", "country" : "United States", "score" : "21204" }
+{ "_id" : { "$oid" : "5322d19fcf93a1fa1a8b57fe" }, "site" : "eldiariomontanes.es", "country" : "Spain", "score" : "23393" }
+{ "_id" : { "$oid" : "5322d1a1cf93a1fa1a8b57ff" }, "site" : "elitmus.com", "country" : "India", "score" : "17853" }
+{ "_id" : { "$oid" : "5322d1a2cf93a1fa1a8b5800" }, "site" : "hotfrog.in", "country" : "India", "score" : "20879" }
+{ "_id" : { "$oid" : "5322d1a4cf93a1fa1a8b5801" }, "site" : "popmythology.com", "country" : "South Korea", "score" : "42164" }
+{ "_id" : { "$oid" : "5322d1a6cf93a1fa1a8b5802" }, "site" : "cricket-365.net", "country" : "India", "score" : "26716" }
+{ "_id" : { "$oid" : "5322d1a7cf93a1fa1a8b5803" }, "site" : "sharerepo.com", "country" : "United States", "score" : "19251" }
+{ "_id" : { "$oid" : "5322d1a9cf93a1fa1a8b5804" }, "site" : "vipboxasia.co", "country" : "Japan", "score" : "24854" }
+{ "_id" : { "$oid" : "5322d1abcf93a1fa1a8b5805" }, "site" : "datasheetarchive.com", "country" : "United States", "score" : "20588" }
+{ "_id" : { "$oid" : "5322d1adcf93a1fa1a8b5806" }, "site" : "wapa.tv", "country" : "Puerto Rico", "score" : "21962" }
+{ "_id" : { "$oid" : "5322d1aecf93a1fa1a8b5807" }, "site" : "flvs.net", "country" : "United States", "score" : "23073" }
+{ "_id" : { "$oid" : "5322d1b0cf93a1fa1a8b5808" }, "site" : "el7dth.com", "country" : "Egypt", "score" : "19604" }
+{ "_id" : { "$oid" : "5322d1b2cf93a1fa1a8b5809" }, "site" : "praca.pl", "country" : "Poland", "score" : "22209" }
+{ "_id" : { "$oid" : "5322d1b4cf93a1fa1a8b580a" }, "site" : "diroo.org", "country" : "India", "score" : "20355" }
+{ "_id" : { "$oid" : "5322d1b6cf93a1fa1a8b580b" }, "site" : "friday-ad.co.uk", "country" : "India", "score" : "21673" }
+{ "_id" : { "$oid" : "5322d1b7cf93a1fa1a8b580c" }, "site" : "chess-results.com", "country" : "Austria", "score" : "18038" }
+{ "_id" : { "$oid" : "5322d1b9cf93a1fa1a8b580d" }, "site" : "china-airlines.com", "country" : "Taiwan", "score" : "26177" }
+{ "_id" : { "$oid" : "5322d1bbcf93a1fa1a8b580e" }, "site" : "boltai.com", "country" : "Russia", "score" : "20005" }
+{ "_id" : { "$oid" : "5322d1bdcf93a1fa1a8b580f" }, "site" : "yoigo.com", "country" : "Spain", "score" : "19086" }
+{ "_id" : { "$oid" : "5322d1bfcf93a1fa1a8b5810" }, "site" : "zagg.com", "country" : "United States", "score" : "19089" }
+{ "_id" : { "$oid" : "5322d1c1cf93a1fa1a8b5811" }, "site" : "gigafree.net", "country" : "Japan", "score" : "20686" }
+{ "_id" : { "$oid" : "5322d1c3cf93a1fa1a8b5812" }, "site" : "cept.gov.in", "country" : "India", "score" : "41601" }
+{ "_id" : { "$oid" : "5322d1c5cf93a1fa1a8b5813" }, "site" : "sfist.com", "country" : "United States", "score" : "23499" }
+{ "_id" : { "$oid" : "5322d1c7cf93a1fa1a8b5814" }, "site" : "xmbs.jp", "country" : "Japan", "score" : "21377" }
+{ "_id" : { "$oid" : "5322d1c8cf93a1fa1a8b5815" }, "site" : "amazingstorez.net", "country" : "India", "score" : "41702" }
+{ "_id" : { "$oid" : "5322d1cacf93a1fa1a8b5816" }, "site" : "fetcharate.com", "country" : "United States", "score" : "31253" }
+{ "_id" : { "$oid" : "5322d1cccf93a1fa1a8b5817" }, "site" : "eureka-startups.com", "country" : "Spain", "score" : "22621" }
+{ "_id" : { "$oid" : "5322d1cecf93a1fa1a8b5818" }, "site" : "gold-price-today.com", "country" : "Egypt", "score" : "19204" }
+{ "_id" : { "$oid" : "5322d1cfcf93a1fa1a8b5819" }, "site" : "dafiti.com.co", "country" : "Colombia", "score" : "19915" }
+{ "_id" : { "$oid" : "5322d1d1cf93a1fa1a8b581a" }, "site" : "leaseweb.nl", "country" : "Netherlands", "score" : "22283" }
+{ "_id" : { "$oid" : "5322d1d3cf93a1fa1a8b581b" }, "site" : "oyster.com", "country" : "United States", "score" : "23603" }
+{ "_id" : { "$oid" : "5322d1d5cf93a1fa1a8b581c" }, "site" : "news24.jp", "country" : "Japan", "score" : "23639" }
+{ "_id" : { "$oid" : "5322d1d7cf93a1fa1a8b581d" }, "site" : "budgettravel.com", "country" : "United States", "score" : "21949" }
+{ "_id" : { "$oid" : "5322d1d9cf93a1fa1a8b581e" }, "site" : "gad.de", "country" : "Germany", "score" : "17713" }
+{ "_id" : { "$oid" : "5322d1dacf93a1fa1a8b581f" }, "site" : "babesandgirls.com", "country" : "United States", "score" : "19155" }
+{ "_id" : { "$oid" : "5322d1dccf93a1fa1a8b5820" }, "site" : "joyreactor.com", "country" : "United States", "score" : "17800" }
+{ "_id" : { "$oid" : "5322d1decf93a1fa1a8b5821" }, "site" : "changedetection.com", "country" : "United States", "score" : "22639" }
+{ "_id" : { "$oid" : "5322d1e0cf93a1fa1a8b5822" }, "site" : "streetinsider.com", "country" : "United States", "score" : "23087" }
+{ "_id" : { "$oid" : "5322d1e2cf93a1fa1a8b5823" }, "site" : "uncommongoods.com", "country" : "United States", "score" : "12905" }
+{ "_id" : { "$oid" : "5322d1e4cf93a1fa1a8b5824" }, "site" : "smashits.com", "country" : "India", "score" : "21125" }
+{ "_id" : { "$oid" : "5322d1e5cf93a1fa1a8b5825" }, "site" : "namecheapcoupons.com", "country" : "United States", "score" : "22092" }
+{ "_id" : { "$oid" : "5322d1e7cf93a1fa1a8b5826" }, "site" : "for-ua.com", "country" : "Russia", "score" : "27803" }
+{ "_id" : { "$oid" : "5322d1e9cf93a1fa1a8b5827" }, "site" : "wn.de", "country" : "Germany", "score" : "23866" }
+{ "_id" : { "$oid" : "5322d1ebcf93a1fa1a8b5828" }, "site" : "cue-monitor.jp", "country" : "Japan", "score" : "20697" }
+{ "_id" : { "$oid" : "5322d1edcf93a1fa1a8b5829" }, "site" : "blogbydonna.com", "country" : "United States", "score" : "22303" }
+{ "_id" : { "$oid" : "5322d1efcf93a1fa1a8b582a" }, "site" : "activestate.com", "country" : "United States", "score" : "20553" }
+{ "_id" : { "$oid" : "5322d1f1cf93a1fa1a8b582b" }, "site" : "smart.com.ph", "country" : "Philippines", "score" : "21569" }
+{ "_id" : { "$oid" : "5322d1f3cf93a1fa1a8b582c" }, "site" : "1960bet.ng", "country" : "Nigeria", "score" : "26133" }
+{ "_id" : { "$oid" : "5322d1f4cf93a1fa1a8b582d" }, "site" : "utamap.com", "country" : "Japan", "score" : "18108" }
+{ "_id" : { "$oid" : "5322d1f7cf93a1fa1a8b582e" }, "site" : "epost.go.kr", "country" : "South Korea", "score" : "23522" }
+{ "_id" : { "$oid" : "5322d1f8cf93a1fa1a8b582f" }, "site" : "getabadmate.com", "country" : "Brazil", "score" : "16138" }
+{ "_id" : { "$oid" : "5322d1fbcf93a1fa1a8b5830" }, "site" : "e-bebek.com", "country" : "Turkey", "score" : "23717" }
+{ "_id" : { "$oid" : "5322d1fdcf93a1fa1a8b5831" }, "site" : "51netu.com.tw", "country" : "China", "score" : "22908" }
+{ "_id" : { "$oid" : "5322d200cf93a1fa1a8b5832" }, "site" : "seahawks.com", "country" : "United States", "score" : "9528" }
+{ "_id" : { "$oid" : "5322d202cf93a1fa1a8b5833" }, "site" : "metaffiliation.com", "country" : "France", "score" : "22966" }
+{ "_id" : { "$oid" : "5322d204cf93a1fa1a8b5834" }, "site" : "ohmynews.com", "country" : "South Korea", "score" : "22204" }
+{ "_id" : { "$oid" : "5322d205cf93a1fa1a8b5835" }, "site" : "audiovkontakte.ru", "country" : "Russia", "score" : "20595" }
+{ "_id" : { "$oid" : "5322d207cf93a1fa1a8b5836" }, "site" : "theomegaproject.org", "country" : "United States", "score" : "20457" }
+{ "_id" : { "$oid" : "5322d209cf93a1fa1a8b5837" }, "site" : "cnpq.br", "country" : "Brazil", "score" : "24170" }
+{ "_id" : { "$oid" : "5322d20bcf93a1fa1a8b5838" }, "site" : "bassistance.de", "country" : "India", "score" : "24754" }
+{ "_id" : { "$oid" : "5322d20dcf93a1fa1a8b5839" }, "site" : "klumba.ua", "country" : "Ukraine", "score" : "22223" }
+{ "_id" : { "$oid" : "5322d210cf93a1fa1a8b583a" }, "site" : "bposter.net", "country" : "Russia", "score" : "22082" }
+{ "_id" : { "$oid" : "5322d212cf93a1fa1a8b583b" }, "site" : "prixgagnant.net", "country" : "France", "score" : "57059" }
+{ "_id" : { "$oid" : "5322d214cf93a1fa1a8b583c" }, "site" : "articlerich.com", "country" : "India", "score" : "17125" }
+{ "_id" : { "$oid" : "5322d216cf93a1fa1a8b583d" }, "site" : "rice.edu", "country" : "United States", "score" : "23028" }
+{ "_id" : { "$oid" : "5322d217cf93a1fa1a8b583e" }, "site" : "ocweekly.com", "country" : "United States", "score" : "21521" }
+{ "_id" : { "$oid" : "5322d219cf93a1fa1a8b583f" }, "site" : "smutty.com", "country" : "United States", "score" : "18544" }
+{ "_id" : { "$oid" : "5322d21bcf93a1fa1a8b5840" }, "site" : "olivegarden.com", "country" : "United States", "score" : "21767" }
+{ "_id" : { "$oid" : "5322d21dcf93a1fa1a8b5841" }, "site" : "wincomparator.com", "country" : "France", "score" : "23900" }
+{ "_id" : { "$oid" : "5322d21fcf93a1fa1a8b5842" }, "site" : "postolia.com", "country" : "India", "score" : "15455" }
+{ "_id" : { "$oid" : "5322d220cf93a1fa1a8b5843" }, "site" : "fydownload.com", "country" : "China", "score" : "20966" }
+{ "_id" : { "$oid" : "5322d222cf93a1fa1a8b5844" }, "site" : "medisite.fr", "country" : "France", "score" : "23241" }
+{ "_id" : { "$oid" : "5322d224cf93a1fa1a8b5845" }, "site" : "ulb.ac.be", "country" : "Belgium", "score" : "23096" }
+{ "_id" : { "$oid" : "5322d226cf93a1fa1a8b5846" }, "site" : "pixozu.com", "country" : "United States", "score" : "14909" }
+{ "_id" : { "$oid" : "5322d228cf93a1fa1a8b5847" }, "site" : "personalcapital.com", "country" : "United States", "score" : "21735" }
+{ "_id" : { "$oid" : "5322d22acf93a1fa1a8b5848" }, "site" : "psmag.com", "country" : "United States", "score" : "21352" }
+{ "_id" : { "$oid" : "5322d22bcf93a1fa1a8b5849" }, "site" : "onlineshoes.com", "country" : "United States", "score" : "19754" }
+{ "_id" : { "$oid" : "5322d22dcf93a1fa1a8b584a" }, "site" : "madata.gr", "country" : "Greece", "score" : "19210" }
+{ "_id" : { "$oid" : "5322d22fcf93a1fa1a8b584b" }, "site" : "jlck.cn", "country" : "China", "score" : "22090" }
+{ "_id" : { "$oid" : "5322d231cf93a1fa1a8b584c" }, "site" : "alfresco.com", "country" : "United States", "score" : "21760" }
+{ "_id" : { "$oid" : "5322d232cf93a1fa1a8b584d" }, "site" : "ffdy.cc", "country" : "China", "score" : "24023" }
+{ "_id" : { "$oid" : "5322d234cf93a1fa1a8b584e" }, "site" : "prodirectsoccer.com", "country" : "United Kingdom", "score" : "22151" }
+{ "_id" : { "$oid" : "5322d236cf93a1fa1a8b584f" }, "site" : "tunivisions.net", "country" : "Tunisia", "score" : "22456" }
+{ "_id" : { "$oid" : "5322d239cf93a1fa1a8b5850" }, "site" : "gilt.jp", "country" : "Japan", "score" : "18126" }
+{ "_id" : { "$oid" : "5322d23acf93a1fa1a8b5851" }, "site" : "tea-nifty.com", "country" : "Japan", "score" : "19580" }
+{ "_id" : { "$oid" : "5322d23ccf93a1fa1a8b5852" }, "site" : "ssaa.ir", "country" : "Iran", "score" : "25864" }
+{ "_id" : { "$oid" : "5322d240cf93a1fa1a8b5853" }, "site" : "cloudytags.com", "country" : "India", "score" : "21616" }
+{ "_id" : { "$oid" : "5322d241cf93a1fa1a8b5854" }, "site" : "win2day.at", "country" : "Austria", "score" : "17711" }
+{ "_id" : { "$oid" : "5322d243cf93a1fa1a8b5855" }, "site" : "dibs.dk", "country" : "Denmark", "score" : "21933" }
+{ "_id" : { "$oid" : "5322d245cf93a1fa1a8b5856" }, "site" : "gamingbolt.com", "country" : "United States", "score" : "17809" }
+{ "_id" : { "$oid" : "5322d247cf93a1fa1a8b5857" }, "site" : "cantv.net", "country" : "Venezuela", "score" : "16882" }
+{ "_id" : { "$oid" : "5322d248cf93a1fa1a8b5858" }, "site" : "sumaity.com", "country" : "Japan", "score" : "20346" }
+{ "_id" : { "$oid" : "5322d24acf93a1fa1a8b5859" }, "site" : "launchrock.co", "country" : "United States", "score" : "22597" }
+{ "_id" : { "$oid" : "5322d24ccf93a1fa1a8b585a" }, "site" : "sitefinity.com", "country" : "United States", "score" : "22850" }
+{ "_id" : { "$oid" : "5322d24ecf93a1fa1a8b585b" }, "site" : "mixlr.com", "country" : "United States", "score" : "23123" }
+{ "_id" : { "$oid" : "5322d250cf93a1fa1a8b585c" }, "site" : "wakwak.com", "country" : "Japan", "score" : "20218" }
+{ "_id" : { "$oid" : "5322d251cf93a1fa1a8b585d" }, "site" : "drysdalelighting.com", "country" : "China", "score" : "18799" }
+{ "_id" : { "$oid" : "5322d253cf93a1fa1a8b585e" }, "site" : "billing.te.eg", "country" : "Egypt", "score" : "20366" }
+{ "_id" : { "$oid" : "5322d255cf93a1fa1a8b585f" }, "site" : "photoshoptutorials.ws", "country" : "India", "score" : "21460" }
+{ "_id" : { "$oid" : "5322d257cf93a1fa1a8b5860" }, "site" : "freedownloadmanager.org", "country" : "India", "score" : "6545" }
+{ "_id" : { "$oid" : "5322d259cf93a1fa1a8b5861" }, "site" : "wsdata.com", "country" : "United States", "score" : "16493" }
+{ "_id" : { "$oid" : "5322d25bcf93a1fa1a8b5862" }, "site" : "jaaxy.com", "country" : "United States", "score" : "21251" }
+{ "_id" : { "$oid" : "5322d25ccf93a1fa1a8b5863" }, "site" : "pixmania.es", "country" : "Spain", "score" : "17884" }
+{ "_id" : { "$oid" : "5322d25ecf93a1fa1a8b5864" }, "site" : "myaccountaccess.com", "country" : "United States", "score" : "22931" }
+{ "_id" : { "$oid" : "5322d260cf93a1fa1a8b5865" }, "site" : "sld.cu", "country" : "Cuba", "score" : "21382" }
+{ "_id" : { "$oid" : "5322d262cf93a1fa1a8b5866" }, "site" : "clipartlogo.com", "country" : "Mexico", "score" : "23556" }
+{ "_id" : { "$oid" : "5322d264cf93a1fa1a8b5867" }, "site" : "craigslist.co.kr", "country" : "South Korea", "score" : "20723" }
+{ "_id" : { "$oid" : "5322d265cf93a1fa1a8b5868" }, "site" : "astroawani.com", "country" : "Malaysia", "score" : "15775" }
+{ "_id" : { "$oid" : "5322d267cf93a1fa1a8b5869" }, "site" : "gree.net", "country" : "Japan", "score" : "24828" }
+{ "_id" : { "$oid" : "5322d269cf93a1fa1a8b586a" }, "site" : "shogi.or.jp", "country" : "Japan", "score" : "20367" }
+{ "_id" : { "$oid" : "5322d26acf93a1fa1a8b586b" }, "site" : "xtgem.com", "country" : "Indonesia", "score" : "18486" }
+{ "_id" : { "$oid" : "5322d26ccf93a1fa1a8b586c" }, "site" : "compfight.com", "country" : "United States", "score" : "22435" }
+{ "_id" : { "$oid" : "5322d26fcf93a1fa1a8b586d" }, "site" : "marktplatz-mittelstand.de", "country" : "Germany", "score" : "23307" }
+{ "_id" : { "$oid" : "5322d271cf93a1fa1a8b586e" }, "site" : "nrgbinary.com", "country" : "United Kingdom", "score" : "23116" }
+{ "_id" : { "$oid" : "5322d274cf93a1fa1a8b586f" }, "site" : "nighthelper.com", "country" : "United States", "score" : "22816" }
+{ "_id" : { "$oid" : "5322d276cf93a1fa1a8b5870" }, "site" : "isport.ua", "country" : "Ukraine", "score" : "23533" }
+{ "_id" : { "$oid" : "5322d278cf93a1fa1a8b5871" }, "site" : "mu.ac.in", "country" : "India", "score" : "22986" }
+{ "_id" : { "$oid" : "5322d279cf93a1fa1a8b5872" }, "site" : "listelist.com", "country" : "Turkey", "score" : "18013" }
+{ "_id" : { "$oid" : "5322d27bcf93a1fa1a8b5873" }, "site" : "air-nifty.com", "country" : "Japan", "score" : "21926" }
+{ "_id" : { "$oid" : "5322d27dcf93a1fa1a8b5874" }, "site" : "mymp3song.com", "country" : "India", "score" : "24649" }
+{ "_id" : { "$oid" : "5322d27fcf93a1fa1a8b5875" }, "site" : "areaconnect.com", "country" : "United States", "score" : "23769" }
+{ "_id" : { "$oid" : "5322d281cf93a1fa1a8b5876" }, "site" : "bosch-home.com", "country" : "Germany", "score" : "21165" }
+{ "_id" : { "$oid" : "5322d283cf93a1fa1a8b5877" }, "site" : "marismith.com", "country" : "United States", "score" : "30678" }
+{ "_id" : { "$oid" : "5322d285cf93a1fa1a8b5878" }, "site" : "easy-forex.com", "country" : "India", "score" : "21094" }
+{ "_id" : { "$oid" : "5322d287cf93a1fa1a8b5879" }, "site" : "qatarsale.com", "country" : "Qatar", "score" : "24481" }
+{ "_id" : { "$oid" : "5322d288cf93a1fa1a8b587a" }, "site" : "cbsi.com", "country" : "United States", "score" : "21233" }
+{ "_id" : { "$oid" : "5322d28acf93a1fa1a8b587b" }, "site" : "qipu.de", "country" : "Germany", "score" : "22108" }
+{ "_id" : { "$oid" : "5322d28ccf93a1fa1a8b587c" }, "site" : "idigitaltimes.com", "country" : "United States", "score" : "24403" }
+{ "_id" : { "$oid" : "5322d28ecf93a1fa1a8b587d" }, "site" : "digital.ru", "country" : "Russia", "score" : "18107" }
+{ "_id" : { "$oid" : "5322d28fcf93a1fa1a8b587e" }, "site" : "evanscycles.com", "country" : "United Kingdom", "score" : "21505" }
+{ "_id" : { "$oid" : "5322d291cf93a1fa1a8b587f" }, "site" : "hammacher.com", "country" : "United States", "score" : "19215" }
+{ "_id" : { "$oid" : "5322d293cf93a1fa1a8b5880" }, "site" : "chiba.jp", "country" : "Japan", "score" : "22471" }
+{ "_id" : { "$oid" : "5322d295cf93a1fa1a8b5881" }, "site" : "server-he.de", "country" : "Germany", "score" : "27818" }
+{ "_id" : { "$oid" : "5322d297cf93a1fa1a8b5882" }, "site" : "enginethemes.com", "country" : "India", "score" : "23039" }
+{ "_id" : { "$oid" : "5322d298cf93a1fa1a8b5883" }, "site" : "acn.com.ve", "country" : "Venezuela", "score" : "27420" }
+{ "_id" : { "$oid" : "5322d29acf93a1fa1a8b5884" }, "site" : "clubelorigen.com", "country" : "India", "score" : "32576" }
+{ "_id" : { "$oid" : "5322d29ccf93a1fa1a8b5885" }, "site" : "best-center.de", "country" : "Russia", "score" : "31219" }
+{ "_id" : { "$oid" : "5322d29ecf93a1fa1a8b5886" }, "site" : "pixelbell.com", "country" : "India", "score" : "26568" }
+{ "_id" : { "$oid" : "5322d2a0cf93a1fa1a8b5887" }, "site" : "dalesearch.com", "country" : "India", "score" : "16051" }
+{ "_id" : { "$oid" : "5322d2a1cf93a1fa1a8b5888" }, "site" : "mglclub.com", "country" : "South Korea", "score" : "18399" }
+{ "_id" : { "$oid" : "5322d2a3cf93a1fa1a8b5889" }, "site" : "metromatinee.com", "country" : "India", "score" : "24103" }
+{ "_id" : { "$oid" : "5322d2a5cf93a1fa1a8b588a" }, "site" : "unt.edu", "country" : "United States", "score" : "22525" }
+{ "_id" : { "$oid" : "5322d2a7cf93a1fa1a8b588b" }, "site" : "tuinmueble.com", "country" : "Venezuela", "score" : "17342" }
+{ "_id" : { "$oid" : "5322d2a9cf93a1fa1a8b588c" }, "site" : "shrm.org", "country" : "United States", "score" : "22286" }
+{ "_id" : { "$oid" : "5322d2abcf93a1fa1a8b588d" }, "site" : "floomby.ru", "country" : "Russia", "score" : "21743" }
+{ "_id" : { "$oid" : "5322d2adcf93a1fa1a8b588e" }, "site" : "readingeggs.com", "country" : "Australia", "score" : "27545" }
+{ "_id" : { "$oid" : "5322d2aecf93a1fa1a8b588f" }, "site" : "mobihall.com", "country" : "Egypt", "score" : "25735" }
+{ "_id" : { "$oid" : "5322d2b0cf93a1fa1a8b5890" }, "site" : "rankseller.de", "country" : "Germany", "score" : "20262" }
+{ "_id" : { "$oid" : "5322d2b2cf93a1fa1a8b5891" }, "site" : "agh.edu.pl", "country" : "Poland", "score" : "23237" }
+{ "_id" : { "$oid" : "5322d2b4cf93a1fa1a8b5892" }, "site" : "baklol.com", "country" : "United States", "score" : "37619" }
+{ "_id" : { "$oid" : "5322d2b6cf93a1fa1a8b5893" }, "site" : "hispasonic.com", "country" : "Spain", "score" : "19766" }
+{ "_id" : { "$oid" : "5322d2b7cf93a1fa1a8b5894" }, "site" : "payfast.co.za", "country" : "South Africa", "score" : "24081" }
+{ "_id" : { "$oid" : "5322d2b9cf93a1fa1a8b5895" }, "site" : "articlebiz.com", "country" : "India", "score" : "19753" }
+{ "_id" : { "$oid" : "5322d2bbcf93a1fa1a8b5896" }, "site" : "mtnonline.com", "country" : "Nigeria", "score" : "25036" }
+{ "_id" : { "$oid" : "5322d2bdcf93a1fa1a8b5897" }, "site" : "internetdengi.net", "country" : "Russia", "score" : "16380" }
+{ "_id" : { "$oid" : "5322d2bfcf93a1fa1a8b5898" }, "site" : "smallnetbuilder.com", "country" : "United States", "score" : "21858" }
+{ "_id" : { "$oid" : "5322d2c1cf93a1fa1a8b5899" }, "site" : "asiarooms.com", "country" : "Malaysia", "score" : "21522" }
+{ "_id" : { "$oid" : "5322d2c2cf93a1fa1a8b589a" }, "site" : "loveme.com", "country" : "United States", "score" : "20739" }
+{ "_id" : { "$oid" : "5322d2c4cf93a1fa1a8b589b" }, "site" : "lynkar.com", "country" : "India", "score" : "18527" }
+{ "_id" : { "$oid" : "5322d2c6cf93a1fa1a8b589c" }, "site" : "synoniemen.net", "country" : "Netherlands", "score" : "23654" }
+{ "_id" : { "$oid" : "5322d2c8cf93a1fa1a8b589d" }, "site" : "babajob.com", "country" : "India", "score" : "21341" }
+{ "_id" : { "$oid" : "5322d2cacf93a1fa1a8b589e" }, "site" : "uva.nl", "country" : "Netherlands", "score" : "21371" }
+{ "_id" : { "$oid" : "5322d2cccf93a1fa1a8b589f" }, "site" : "eva.ro", "country" : "Romania", "score" : "20288" }
+{ "_id" : { "$oid" : "5322d2cecf93a1fa1a8b58a0" }, "site" : "dizideizle.org", "country" : "Turkey", "score" : "22997" }
+{ "_id" : { "$oid" : "5322d2d0cf93a1fa1a8b58a1" }, "site" : "freedownload.ir", "country" : "Iran", "score" : "22152" }
+{ "_id" : { "$oid" : "5322d2d2cf93a1fa1a8b58a2" }, "site" : "zoutu.com", "country" : "China", "score" : "24595" }
+{ "_id" : { "$oid" : "5322d2d3cf93a1fa1a8b58a3" }, "site" : "vitv.it", "country" : "Italy", "score" : "26192" }
+{ "_id" : { "$oid" : "5322d2d5cf93a1fa1a8b58a4" }, "site" : "o2online.ie", "country" : "Ireland", "score" : "21699" }
+{ "_id" : { "$oid" : "5322d2d7cf93a1fa1a8b58a5" }, "site" : "titulky.com", "country" : "Czech Republic", "score" : "16940" }
+{ "_id" : { "$oid" : "5322d2d9cf93a1fa1a8b58a6" }, "site" : "gamezhero.com", "country" : "United States", "score" : "20815" }
+{ "_id" : { "$oid" : "5322d2dbcf93a1fa1a8b58a7" }, "site" : "samachar.com", "country" : "India", "score" : "21610" }
+{ "_id" : { "$oid" : "5322d2ddcf93a1fa1a8b58a8" }, "site" : "le.ac.uk", "country" : "United Kingdom", "score" : "24418" }
+{ "_id" : { "$oid" : "5322d2dfcf93a1fa1a8b58a9" }, "site" : "9300usd.com", "country" : "Russia", "score" : "20868" }
+{ "_id" : { "$oid" : "5322d2e0cf93a1fa1a8b58aa" }, "site" : "trendwp.com", "country" : "Turkey", "score" : "21691" }
+{ "_id" : { "$oid" : "5322d2e2cf93a1fa1a8b58ab" }, "site" : "perfecte.ro", "country" : "Romania", "score" : "20622" }
+{ "_id" : { "$oid" : "5322d2e4cf93a1fa1a8b58ac" }, "site" : "webdesignerforum.co.uk", "country" : "India", "score" : "22625" }
+{ "_id" : { "$oid" : "5322d2e6cf93a1fa1a8b58ad" }, "site" : "uai.com.br", "country" : "Brazil", "score" : "23511" }
+{ "_id" : { "$oid" : "5322d2e8cf93a1fa1a8b58ae" }, "site" : "paulgraham.com", "country" : "United States", "score" : "17612" }
+{ "_id" : { "$oid" : "5322d2eacf93a1fa1a8b58af" }, "site" : "caring.com", "country" : "United States", "score" : "18553" }
+{ "_id" : { "$oid" : "5322d2eccf93a1fa1a8b58b0" }, "site" : "sonara.net", "country" : "Israel", "score" : "23372" }
+{ "_id" : { "$oid" : "5322d2edcf93a1fa1a8b58b1" }, "site" : "sprashivalka.com", "country" : "Russia", "score" : "24077" }
+{ "_id" : { "$oid" : "5322d2efcf93a1fa1a8b58b2" }, "site" : "agag.tw", "country" : "Japan", "score" : "18931" }
+{ "_id" : { "$oid" : "5322d2f1cf93a1fa1a8b58b3" }, "site" : "fileinfo.com", "country" : "United States", "score" : "20788" }
+{ "_id" : { "$oid" : "5322d2f3cf93a1fa1a8b58b4" }, "site" : "vidzplay.com", "country" : "United States", "score" : "23796" }
+{ "_id" : { "$oid" : "5322d2f4cf93a1fa1a8b58b5" }, "site" : "sou300.cn", "country" : "China", "score" : "20726" }
+{ "_id" : { "$oid" : "5322d2f6cf93a1fa1a8b58b6" }, "site" : "arrayhd.com", "country" : "India", "score" : "25578" }
+{ "_id" : { "$oid" : "5322d2f8cf93a1fa1a8b58b7" }, "site" : "bazarchic.com", "country" : "France", "score" : "15283" }
+{ "_id" : { "$oid" : "5322d2facf93a1fa1a8b58b8" }, "site" : "iclipart.com", "country" : "United States", "score" : "24172" }
+{ "_id" : { "$oid" : "5322d2fccf93a1fa1a8b58b9" }, "site" : "hi852.com", "country" : "Hong Kong", "score" : "22099" }
+{ "_id" : { "$oid" : "5322d2fecf93a1fa1a8b58ba" }, "site" : "bibaknews.com", "country" : "Iran", "score" : "19577" }
+{ "_id" : { "$oid" : "5322d2ffcf93a1fa1a8b58bb" }, "site" : "0427d7.se", "country" : "Germany", "score" : "18979" }
+{ "_id" : { "$oid" : "5322d301cf93a1fa1a8b58bc" }, "site" : "kfupm.edu.sa", "country" : "Saudi Arabia", "score" : "22368" }
+{ "_id" : { "$oid" : "5322d303cf93a1fa1a8b58bd" }, "site" : "baublebar.com", "country" : "United States", "score" : "23504" }
+{ "_id" : { "$oid" : "5322d305cf93a1fa1a8b58be" }, "site" : "pricebaba.com", "country" : "India", "score" : "23014" }
+{ "_id" : { "$oid" : "5322d307cf93a1fa1a8b58bf" }, "site" : "pagosonline.net", "country" : "Colombia", "score" : "20747" }
+{ "_id" : { "$oid" : "5322d308cf93a1fa1a8b58c0" }, "site" : "uzivoradio.com", "country" : "Bosnia and Herzegovina", "score" : "20892" }
+{ "_id" : { "$oid" : "5322d30acf93a1fa1a8b58c1" }, "site" : "mpgh.net", "country" : "United States", "score" : "18241" }
+{ "_id" : { "$oid" : "5322d30ccf93a1fa1a8b58c2" }, "site" : "namakstan.ir", "country" : "Iran", "score" : "23754" }
+{ "_id" : { "$oid" : "5322d30ecf93a1fa1a8b58c3" }, "site" : "jt-pm.com", "country" : "Italy", "score" : "19987" }
+{ "_id" : { "$oid" : "5322d30fcf93a1fa1a8b58c4" }, "site" : "algerie-focus.com", "country" : "Algeria", "score" : "25293" }
+{ "_id" : { "$oid" : "5322d313cf93a1fa1a8b58c5" }, "site" : "geekswithblogs.net", "country" : "India", "score" : "22273" }
+{ "_id" : { "$oid" : "5322d314cf93a1fa1a8b58c6" }, "site" : "google.me", "country" : "Montenegro", "score" : "22000" }
+{ "_id" : { "$oid" : "5322d316cf93a1fa1a8b58c7" }, "site" : "52down.com", "country" : "China", "score" : "22255" }
+{ "_id" : { "$oid" : "5322d318cf93a1fa1a8b58c8" }, "site" : "photosex.biz", "country" : "United States", "score" : "19450" }
+{ "_id" : { "$oid" : "5322d31acf93a1fa1a8b58c9" }, "site" : "aljadeed.tv", "country" : "Lebanon", "score" : "20680" }
+{ "_id" : { "$oid" : "5322d31ccf93a1fa1a8b58ca" }, "site" : "worldobserveronline.com", "country" : "India", "score" : "22236" }
+{ "_id" : { "$oid" : "5322d31dcf93a1fa1a8b58cb" }, "site" : "juraforum.de", "country" : "Germany", "score" : "22652" }
+{ "_id" : { "$oid" : "5322d31fcf93a1fa1a8b58cc" }, "site" : "builddirect.com", "country" : "United States", "score" : "25563" }
+{ "_id" : { "$oid" : "5322d321cf93a1fa1a8b58cd" }, "site" : "apfdrt.org", "country" : "India", "score" : "56116" }
+{ "_id" : { "$oid" : "5322d323cf93a1fa1a8b58ce" }, "site" : "allstatesusadirectory.com", "country" : "India", "score" : "21542" }
+{ "_id" : { "$oid" : "5322d325cf93a1fa1a8b58cf" }, "site" : "futbolme.com", "country" : "Spain", "score" : "21854" }
+{ "_id" : { "$oid" : "5322d327cf93a1fa1a8b58d0" }, "site" : "hancinema.net", "country" : "United States", "score" : "17348" }
+{ "_id" : { "$oid" : "5322d329cf93a1fa1a8b58d1" }, "site" : "teleflora.com", "country" : "United States", "score" : "23166" }
+{ "_id" : { "$oid" : "5322d32acf93a1fa1a8b58d2" }, "site" : "elle.ru", "country" : "Russia", "score" : "19594" }
+{ "_id" : { "$oid" : "5322d32ccf93a1fa1a8b58d3" }, "site" : "abilogic.com", "country" : "India", "score" : "21818" }
+{ "_id" : { "$oid" : "5322d32ecf93a1fa1a8b58d4" }, "site" : "11870.com", "country" : "Spain", "score" : "22880" }
+{ "_id" : { "$oid" : "5322d330cf93a1fa1a8b58d5" }, "site" : "thepeachkitchen.com", "country" : "United States", "score" : "22978" }
+{ "_id" : { "$oid" : "5322d332cf93a1fa1a8b58d6" }, "site" : "ibiblio.org", "country" : "United States", "score" : "23042" }
+{ "_id" : { "$oid" : "5322d334cf93a1fa1a8b58d7" }, "site" : "world-art.ru", "country" : "Russia", "score" : "21590" }
+{ "_id" : { "$oid" : "5322d336cf93a1fa1a8b58d8" }, "site" : "boattrader.com", "country" : "United States", "score" : "25993" }
+{ "_id" : { "$oid" : "5322d337cf93a1fa1a8b58d9" }, "site" : "pickthebrain.com", "country" : "United States", "score" : "23480" }
+{ "_id" : { "$oid" : "5322d339cf93a1fa1a8b58da" }, "site" : "nordextrading.com", "country" : "Saudi Arabia", "score" : "21547" }
+{ "_id" : { "$oid" : "5322d33bcf93a1fa1a8b58db" }, "site" : "dickporntube.com", "country" : "United States", "score" : "18604" }
+{ "_id" : { "$oid" : "5322d33dcf93a1fa1a8b58dc" }, "site" : "shahiya.com", "country" : "Egypt", "score" : "21308" }
+{ "_id" : { "$oid" : "5322d33fcf93a1fa1a8b58dd" }, "site" : "avnet.com", "country" : "China", "score" : "25285" }
+{ "_id" : { "$oid" : "5322d340cf93a1fa1a8b58de" }, "site" : "privateoutlet.com", "country" : "France", "score" : "18691" }
+{ "_id" : { "$oid" : "5322d342cf93a1fa1a8b58df" }, "site" : "tastyblacks.com", "country" : "United States", "score" : "21924" }
+{ "_id" : { "$oid" : "5322d344cf93a1fa1a8b58e0" }, "site" : "indeed.ca", "country" : "Canada", "score" : "22604" }
+{ "_id" : { "$oid" : "5322d346cf93a1fa1a8b58e1" }, "site" : "uninet-ide.com.mx", "country" : "Mexico", "score" : "20978" }
+{ "_id" : { "$oid" : "5322d348cf93a1fa1a8b58e2" }, "site" : "deutschsex.com", "country" : "Germany", "score" : "21881" }
+{ "_id" : { "$oid" : "5322d34acf93a1fa1a8b58e3" }, "site" : "brainpulse.com", "country" : "India", "score" : "21507" }
+{ "_id" : { "$oid" : "5322d34ccf93a1fa1a8b58e4" }, "site" : "musicstore.de", "country" : "Germany", "score" : "19925" }
+{ "_id" : { "$oid" : "5322d34dcf93a1fa1a8b58e5" }, "site" : "periodico24.com", "country" : "Venezuela", "score" : "19561" }
+{ "_id" : { "$oid" : "5322d34fcf93a1fa1a8b58e6" }, "site" : "chicos.com", "country" : "United States", "score" : "20764" }
+{ "_id" : { "$oid" : "5322d351cf93a1fa1a8b58e7" }, "site" : "playbuzz.com", "country" : "United States", "score" : "57734" }
+{ "_id" : { "$oid" : "5322d353cf93a1fa1a8b58e8" }, "site" : "mrdoob.com", "country" : "India", "score" : "19916" }
+{ "_id" : { "$oid" : "5322d355cf93a1fa1a8b58e9" }, "site" : "travian.net", "country" : "Spain", "score" : "21746" }
+{ "_id" : { "$oid" : "5322d356cf93a1fa1a8b58ea" }, "site" : "lieferando.de", "country" : "Germany", "score" : "20999" }
+{ "_id" : { "$oid" : "5322d358cf93a1fa1a8b58eb" }, "site" : "wpdevshed.com", "country" : "United States", "score" : "29718" }
+{ "_id" : { "$oid" : "5322d35acf93a1fa1a8b58ec" }, "site" : "lesoirdalgerie.com", "country" : "Algeria", "score" : "22994" }
+{ "_id" : { "$oid" : "5322d35ccf93a1fa1a8b58ed" }, "site" : "vocativ.com", "country" : "United States", "score" : "17693" }
+{ "_id" : { "$oid" : "5322d35ecf93a1fa1a8b58ee" }, "site" : "xanga.com", "country" : "India", "score" : "20898" }
+{ "_id" : { "$oid" : "5322d360cf93a1fa1a8b58ef" }, "site" : "techrobo.org", "country" : "India", "score" : "27954" }
+{ "_id" : { "$oid" : "5322d362cf93a1fa1a8b58f0" }, "site" : "albeu.com", "country" : "Albania", "score" : "21775" }
+{ "_id" : { "$oid" : "5322d364cf93a1fa1a8b58f1" }, "site" : "blackbookmembers.info", "country" : "United States", "score" : "35379" }
+{ "_id" : { "$oid" : "5322d366cf93a1fa1a8b58f2" }, "site" : "usana.com", "country" : "United States", "score" : "19760" }
+{ "_id" : { "$oid" : "5322d368cf93a1fa1a8b58f3" }, "site" : "sasa.com", "country" : "China", "score" : "23634" }
+{ "_id" : { "$oid" : "5322d36acf93a1fa1a8b58f4" }, "site" : "jinnong.cc", "country" : "China", "score" : "20261" }
+{ "_id" : { "$oid" : "5322d36bcf93a1fa1a8b58f5" }, "site" : "borsen.dk", "country" : "Denmark", "score" : "21921" }
+{ "_id" : { "$oid" : "5322d36dcf93a1fa1a8b58f6" }, "site" : "k-state.edu", "country" : "United States", "score" : "23587" }
+{ "_id" : { "$oid" : "5322d36fcf93a1fa1a8b58f7" }, "site" : "trabajos.com", "country" : "Spain", "score" : "21186" }
+{ "_id" : { "$oid" : "5322d371cf93a1fa1a8b58f8" }, "site" : "postoffice.co.za", "country" : "South Africa", "score" : "22620" }
+{ "_id" : { "$oid" : "5322d374cf93a1fa1a8b58f9" }, "site" : "pluso.ru", "country" : "Russia", "score" : "19728" }
+{ "_id" : { "$oid" : "5322d375cf93a1fa1a8b58fa" }, "site" : "bluesnap.com", "country" : "United States", "score" : "21090" }
+{ "_id" : { "$oid" : "5322d377cf93a1fa1a8b58fb" }, "site" : "gooool.org", "country" : "Russia", "score" : "30924" }
+{ "_id" : { "$oid" : "5322d379cf93a1fa1a8b58fc" }, "site" : "prolink.pl/user/owner", "country" : "Poland", "score" : "20166" }
+{ "_id" : { "$oid" : "5322d37bcf93a1fa1a8b58fd" }, "site" : "purpleclover.com", "country" : "United States", "score" : "24747" }
+{ "_id" : { "$oid" : "5322d37ccf93a1fa1a8b58fe" }, "site" : "lidl.es", "country" : "Spain", "score" : "20937" }
+{ "_id" : { "$oid" : "5322d37ecf93a1fa1a8b58ff" }, "site" : "2958.cn", "country" : "China", "score" : "50883" }
+{ "_id" : { "$oid" : "5322d380cf93a1fa1a8b5900" }, "site" : "bookvip.com", "country" : "United States", "score" : "29876" }
+{ "_id" : { "$oid" : "5322d382cf93a1fa1a8b5901" }, "site" : "fileformat.info", "country" : "United States", "score" : "22574" }
+{ "_id" : { "$oid" : "5322d384cf93a1fa1a8b5902" }, "site" : "top10bestwebsitebuilders.com", "country" : "United States", "score" : "24279" }
+{ "_id" : { "$oid" : "5322d385cf93a1fa1a8b5903" }, "site" : "visitaspirata.com", "country" : "Spain", "score" : "27779" }
+{ "_id" : { "$oid" : "5322d387cf93a1fa1a8b5904" }, "site" : "cartasi.it", "country" : "Italy", "score" : "21533" }
+{ "_id" : { "$oid" : "5322d38acf93a1fa1a8b5905" }, "site" : "lyricsmasti.com", "country" : "India", "score" : "21319" }
+{ "_id" : { "$oid" : "5322d38ccf93a1fa1a8b5906" }, "site" : "mugro.info", "country" : "India", "score" : "21237" }
+{ "_id" : { "$oid" : "5322d38dcf93a1fa1a8b5907" }, "site" : "arabo.com", "country" : "Sudan", "score" : "20672" }
+{ "_id" : { "$oid" : "5322d38fcf93a1fa1a8b5908" }, "site" : "vara.nl", "country" : "Netherlands", "score" : "21797" }
+{ "_id" : { "$oid" : "5322d391cf93a1fa1a8b5909" }, "site" : "javblog.org", "country" : "Japan", "score" : "22453" }
+{ "_id" : { "$oid" : "5322d393cf93a1fa1a8b590a" }, "site" : "parscenter.com", "country" : "Iran", "score" : "23126" }
+{ "_id" : { "$oid" : "5322d395cf93a1fa1a8b590b" }, "site" : "nectar.com", "country" : "United Kingdom", "score" : "18904" }
+{ "_id" : { "$oid" : "5322d397cf93a1fa1a8b590c" }, "site" : "wordpressnull.com", "country" : "India", "score" : "26576" }
+{ "_id" : { "$oid" : "5322d398cf93a1fa1a8b590d" }, "site" : "flixcart.com", "country" : "India", "score" : "22025" }
+{ "_id" : { "$oid" : "5322d39acf93a1fa1a8b590e" }, "site" : "statuspage.io", "country" : "United States", "score" : "32647" }
+{ "_id" : { "$oid" : "5322d39ccf93a1fa1a8b590f" }, "site" : "everystockphoto.com", "country" : "United States", "score" : "21996" }
+{ "_id" : { "$oid" : "5322d39ecf93a1fa1a8b5910" }, "site" : "sletat.ru", "country" : "Russia", "score" : "24426" }
+{ "_id" : { "$oid" : "5322d3a0cf93a1fa1a8b5911" }, "site" : "siamphone.com", "country" : "Thailand", "score" : "20229" }
+{ "_id" : { "$oid" : "5322d3a2cf93a1fa1a8b5912" }, "site" : "anything-digital.com", "country" : "United States", "score" : "22337" }
+{ "_id" : { "$oid" : "5322d3a3cf93a1fa1a8b5913" }, "site" : "bogabids.com", "country" : "Canada", "score" : "32058" }
+{ "_id" : { "$oid" : "5322d3a5cf93a1fa1a8b5914" }, "site" : "lphant.com", "country" : "India", "score" : "20016" }
+{ "_id" : { "$oid" : "5322d3a7cf93a1fa1a8b5915" }, "site" : "wuhunews.cn", "country" : "China", "score" : "23976" }
+{ "_id" : { "$oid" : "5322d3a9cf93a1fa1a8b5916" }, "site" : "dpma.de", "country" : "Germany", "score" : "23651" }
+{ "_id" : { "$oid" : "5322d3abcf93a1fa1a8b5917" }, "site" : "clarolojaonline.com.br", "country" : "Brazil", "score" : "21217" }
+{ "_id" : { "$oid" : "5322d3accf93a1fa1a8b5918" }, "site" : "pudn.com", "country" : "China", "score" : "20468" }
+{ "_id" : { "$oid" : "5322d3aecf93a1fa1a8b5919" }, "site" : "evolvingcritic.com", "country" : "India", "score" : "17208" }
+{ "_id" : { "$oid" : "5322d3b0cf93a1fa1a8b591a" }, "site" : "sex-hq.com", "country" : "India", "score" : "20485" }
+{ "_id" : { "$oid" : "5322d3b2cf93a1fa1a8b591b" }, "site" : "perfectinvest.info", "country" : "Russia", "score" : "22958" }
+{ "_id" : { "$oid" : "5322d3b3cf93a1fa1a8b591c" }, "site" : "10directory.com", "country" : "India", "score" : "20513" }
+{ "_id" : { "$oid" : "5322d3b5cf93a1fa1a8b591d" }, "site" : "mrwebmaster.it", "country" : "Italy", "score" : "23828" }
+{ "_id" : { "$oid" : "5322d3b7cf93a1fa1a8b591e" }, "site" : "wowturkey.com", "country" : "Turkey", "score" : "22345" }
+{ "_id" : { "$oid" : "5322d3b9cf93a1fa1a8b591f" }, "site" : "gbg.bg", "country" : "Bulgaria", "score" : "21339" }
+{ "_id" : { "$oid" : "5322d3bbcf93a1fa1a8b5920" }, "site" : "webconsultas.com", "country" : "Spain", "score" : "21046" }
+{ "_id" : { "$oid" : "5322d3bccf93a1fa1a8b5921" }, "site" : "5566.net", "country" : "China", "score" : "22788" }
+{ "_id" : { "$oid" : "5322d3becf93a1fa1a8b5922" }, "site" : "ebayenterprise.com", "country" : "United States", "score" : "20669" }
+{ "_id" : { "$oid" : "5322d3c0cf93a1fa1a8b5923" }, "site" : "berlinale.de", "country" : "Germany", "score" : "29532" }
+{ "_id" : { "$oid" : "5322d3c3cf93a1fa1a8b5924" }, "site" : "kernel.org", "country" : "United States", "score" : "21038" }
+{ "_id" : { "$oid" : "5322d3c4cf93a1fa1a8b5925" }, "site" : "icana.ir", "country" : "Iran", "score" : "20146" }
+{ "_id" : { "$oid" : "5322d3c6cf93a1fa1a8b5926" }, "site" : "nihon-syakai.net", "country" : "Japan", "score" : "25318" }
+{ "_id" : { "$oid" : "5322d3c8cf93a1fa1a8b5927" }, "site" : "finanzas.com", "country" : "Spain", "score" : "23637" }
+{ "_id" : { "$oid" : "5322d3cacf93a1fa1a8b5928" }, "site" : "aulaclic.es", "country" : "Spain", "score" : "23672" }
+{ "_id" : { "$oid" : "5322d3cbcf93a1fa1a8b5929" }, "site" : "bobiler.org", "country" : "Turkey", "score" : "20351" }
+{ "_id" : { "$oid" : "5322d3cdcf93a1fa1a8b592a" }, "site" : "zdnet.com.cn", "country" : "China", "score" : "22659" }
+{ "_id" : { "$oid" : "5322d3cfcf93a1fa1a8b592b" }, "site" : "listofdomains.org", "country" : "Russia", "score" : "29971" }
+{ "_id" : { "$oid" : "5322d3d1cf93a1fa1a8b592c" }, "site" : "edupage.org", "country" : "Slovakia", "score" : "23489" }
+{ "_id" : { "$oid" : "5322d3d3cf93a1fa1a8b592d" }, "site" : "foxtons.co.uk", "country" : "United Kingdom", "score" : "23586" }
+{ "_id" : { "$oid" : "5322d3d4cf93a1fa1a8b592e" }, "site" : "islamquest.net", "country" : "Iran", "score" : "22896" }
+{ "_id" : { "$oid" : "5322d3d6cf93a1fa1a8b592f" }, "site" : "vertvonline.biz", "country" : "Brazil", "score" : "20682" }
+{ "_id" : { "$oid" : "5322d3d8cf93a1fa1a8b5930" }, "site" : "megajobs.com", "country" : "India", "score" : "22603" }
+{ "_id" : { "$oid" : "5322d3dbcf93a1fa1a8b5931" }, "site" : "farmers.com", "country" : "United States", "score" : "21391" }
+{ "_id" : { "$oid" : "5322d3ddcf93a1fa1a8b5932" }, "site" : "emv2.com", "country" : "France", "score" : "20907" }
+{ "_id" : { "$oid" : "5322d3e1cf93a1fa1a8b5933" }, "site" : "swatch.com", "country" : "United States", "score" : "20935" }
+{ "_id" : { "$oid" : "5322d3e3cf93a1fa1a8b5934" }, "site" : "kodiefiles.nl", "country" : "Germany", "score" : "22567" }
+{ "_id" : { "$oid" : "5322d3e5cf93a1fa1a8b5935" }, "site" : "karakartal.com", "country" : "Turkey", "score" : "19261" }
+{ "_id" : { "$oid" : "5322d3e7cf93a1fa1a8b5936" }, "site" : "goudengids.be", "country" : "Belgium", "score" : "22628" }
+{ "_id" : { "$oid" : "5322d3e9cf93a1fa1a8b5937" }, "site" : "driveplaza.com", "country" : "Japan", "score" : "25225" }
+{ "_id" : { "$oid" : "5322d3eacf93a1fa1a8b5938" }, "site" : "elpropio.com", "country" : "Venezuela", "score" : "28064" }
+{ "_id" : { "$oid" : "5322d3eccf93a1fa1a8b5939" }, "site" : "smiley360.com", "country" : "United States", "score" : "18310" }
+{ "_id" : { "$oid" : "5322d3eecf93a1fa1a8b593a" }, "site" : "bankimia.com", "country" : "Spain", "score" : "21224" }
+{ "_id" : { "$oid" : "5322d3f0cf93a1fa1a8b593b" }, "site" : "dailymakeover.com", "country" : "United States", "score" : "18778" }
+{ "_id" : { "$oid" : "5322d3f2cf93a1fa1a8b593c" }, "site" : "vistaprint.com.au", "country" : "Australia", "score" : "22801" }
+{ "_id" : { "$oid" : "5322d3f6cf93a1fa1a8b593d" }, "site" : "tury.ru", "country" : "Russia", "score" : "23325" }
+{ "_id" : { "$oid" : "5322d3f7cf93a1fa1a8b593e" }, "site" : "ticketnew.com", "country" : "India", "score" : "11713" }
+{ "_id" : { "$oid" : "5322d3f9cf93a1fa1a8b593f" }, "site" : "porn720.com", "country" : "India", "score" : "23206" }
+{ "_id" : { "$oid" : "5322d3fbcf93a1fa1a8b5940" }, "site" : "pdf24.org", "country" : "Germany", "score" : "22267" }
+{ "_id" : { "$oid" : "5322d3fdcf93a1fa1a8b5941" }, "site" : "weszlo.com", "country" : "Poland", "score" : "19801" }
+{ "_id" : { "$oid" : "5322d3ffcf93a1fa1a8b5942" }, "site" : "adzuna.co.uk", "country" : "United Kingdom", "score" : "23622" }
+{ "_id" : { "$oid" : "5322d401cf93a1fa1a8b5943" }, "site" : "abebooks.co.uk", "country" : "United Kingdom", "score" : "22097" }
+{ "_id" : { "$oid" : "5322d403cf93a1fa1a8b5944" }, "site" : "abs.gov.au", "country" : "Australia", "score" : "23915" }
+{ "_id" : { "$oid" : "5322d405cf93a1fa1a8b5945" }, "site" : "twilightsex.com", "country" : "United States", "score" : "14094" }
+{ "_id" : { "$oid" : "5322d406cf93a1fa1a8b5946" }, "site" : "dostorasly.com", "country" : "Egypt", "score" : "19369" }
+{ "_id" : { "$oid" : "5322d408cf93a1fa1a8b5947" }, "site" : "mrtzcmp3.net", "country" : "United States", "score" : "24993" }
+{ "_id" : { "$oid" : "5322d40acf93a1fa1a8b5948" }, "site" : "breuninger.de", "country" : "Germany", "score" : "21032" }
+{ "_id" : { "$oid" : "5322d40ccf93a1fa1a8b5949" }, "site" : "ku.edu", "country" : "United States", "score" : "22168" }
+{ "_id" : { "$oid" : "5322d40ecf93a1fa1a8b594a" }, "site" : "mbworld.org", "country" : "United States", "score" : "25677" }
+{ "_id" : { "$oid" : "5322d410cf93a1fa1a8b594b" }, "site" : "pointstreak.com", "country" : "United States", "score" : "22174" }
+{ "_id" : { "$oid" : "5322d412cf93a1fa1a8b594c" }, "site" : "ashinari.com", "country" : "Japan", "score" : "21087" }
+{ "_id" : { "$oid" : "5322d414cf93a1fa1a8b594d" }, "site" : "multiply.com", "country" : "India", "score" : "18490" }
+{ "_id" : { "$oid" : "5322d415cf93a1fa1a8b594e" }, "site" : "iran.ir", "country" : "Iran", "score" : "19945" }
+{ "_id" : { "$oid" : "5322d417cf93a1fa1a8b594f" }, "site" : "ping.in", "country" : "India", "score" : "21585" }
+{ "_id" : { "$oid" : "5322d419cf93a1fa1a8b5950" }, "site" : "dns.pl", "country" : "Poland", "score" : "24531" }
+{ "_id" : { "$oid" : "5322d41bcf93a1fa1a8b5951" }, "site" : "estekhdami.org", "country" : "Iran", "score" : "20440" }
+{ "_id" : { "$oid" : "5322d41dcf93a1fa1a8b5952" }, "site" : "jornalggn.com.br", "country" : "Brazil", "score" : "24483" }
+{ "_id" : { "$oid" : "5322d41ecf93a1fa1a8b5953" }, "site" : "imgwykop.pl", "country" : "Poland", "score" : "22700" }
+{ "_id" : { "$oid" : "5322d420cf93a1fa1a8b5954" }, "site" : "95081.com", "country" : "China", "score" : "37800" }
+{ "_id" : { "$oid" : "5322d422cf93a1fa1a8b5955" }, "site" : "dingdi.com", "country" : "China", "score" : "23235" }
+{ "_id" : { "$oid" : "5322d424cf93a1fa1a8b5956" }, "site" : "mtwxw.net", "country" : "China", "score" : "31222" }
+{ "_id" : { "$oid" : "5322d426cf93a1fa1a8b5957" }, "site" : "servage.net", "country" : "United States", "score" : "20670" }
+{ "_id" : { "$oid" : "5322d427cf93a1fa1a8b5958" }, "site" : "nexthardware.com", "country" : "Italy", "score" : "20980" }
+{ "_id" : { "$oid" : "5322d429cf93a1fa1a8b5959" }, "site" : "unizar.es", "country" : "Spain", "score" : "22666" }
+{ "_id" : { "$oid" : "5322d42bcf93a1fa1a8b595a" }, "site" : "continentalist.ru", "country" : "Russia", "score" : "32678" }
+{ "_id" : { "$oid" : "5322d42dcf93a1fa1a8b595b" }, "site" : "ilovefreesoftware.com", "country" : "India", "score" : "23377" }
+{ "_id" : { "$oid" : "5322d42fcf93a1fa1a8b595c" }, "site" : "wpquestions.com", "country" : "United States", "score" : "24513" }
+{ "_id" : { "$oid" : "5322d431cf93a1fa1a8b595d" }, "site" : "umontreal.ca", "country" : "Canada", "score" : "23047" }
+{ "_id" : { "$oid" : "5322d433cf93a1fa1a8b595e" }, "site" : "webresizer.com", "country" : "United States", "score" : "24675" }
+{ "_id" : { "$oid" : "5322d435cf93a1fa1a8b595f" }, "site" : "fubar.com", "country" : "United States", "score" : "19273" }
+{ "_id" : { "$oid" : "5322d437cf93a1fa1a8b5960" }, "site" : "starbucks.co.jp", "country" : "Japan", "score" : "24893" }
+{ "_id" : { "$oid" : "5322d439cf93a1fa1a8b5961" }, "site" : "aereo.com", "country" : "United States", "score" : "25276" }
+{ "_id" : { "$oid" : "5322d43ccf93a1fa1a8b5962" }, "site" : "blogdigger.com", "country" : "India", "score" : "22298" }
+{ "_id" : { "$oid" : "5322d43ecf93a1fa1a8b5963" }, "site" : "bvb.de", "country" : "Germany", "score" : "22654" }
+{ "_id" : { "$oid" : "5322d440cf93a1fa1a8b5964" }, "site" : "wallinside.com", "country" : "India", "score" : "17489" }
+{ "_id" : { "$oid" : "5322d443cf93a1fa1a8b5965" }, "site" : "quicklister.com", "country" : "United States", "score" : "20727" }
+{ "_id" : { "$oid" : "5322d445cf93a1fa1a8b5966" }, "site" : "resizeyourimage.com", "country" : "India", "score" : "22118" }
+{ "_id" : { "$oid" : "5322d447cf93a1fa1a8b5967" }, "site" : "loadjs.net", "country" : "Mexico", "score" : "21563" }
+{ "_id" : { "$oid" : "5322d449cf93a1fa1a8b5968" }, "site" : "yousee.com", "country" : "China", "score" : "29211" }
+{ "_id" : { "$oid" : "5322d44acf93a1fa1a8b5969" }, "site" : "vuilen.com", "country" : "South Korea", "score" : "20435" }
+{ "_id" : { "$oid" : "5322d44ccf93a1fa1a8b596a" }, "site" : "prchecker.net", "country" : "India", "score" : "19762" }
+{ "_id" : { "$oid" : "5322d44fcf93a1fa1a8b596b" }, "site" : "guinnessworldrecords.com", "country" : "United States", "score" : "19028" }
+{ "_id" : { "$oid" : "5322d451cf93a1fa1a8b596c" }, "site" : "qdqss.cn", "country" : "China", "score" : "23191" }
+{ "_id" : { "$oid" : "5322d453cf93a1fa1a8b596d" }, "site" : "kent.edu", "country" : "United States", "score" : "22911" }
+{ "_id" : { "$oid" : "5322d455cf93a1fa1a8b596e" }, "site" : "looksworld.com", "country" : "United States", "score" : "20086" }
+{ "_id" : { "$oid" : "5322d457cf93a1fa1a8b596f" }, "site" : "ifema.es", "country" : "Spain", "score" : "17843" }
+{ "_id" : { "$oid" : "5322d459cf93a1fa1a8b5970" }, "site" : "ubaldi.com", "country" : "France", "score" : "16745" }
+{ "_id" : { "$oid" : "5322d45bcf93a1fa1a8b5971" }, "site" : "foro-ptc.com", "country" : "Spain", "score" : "23615" }
+{ "_id" : { "$oid" : "5322d45dcf93a1fa1a8b5972" }, "site" : "inmagine.com", "country" : "United States", "score" : "20873" }
+{ "_id" : { "$oid" : "5322d45fcf93a1fa1a8b5973" }, "site" : "filesonic.com", "country" : "United States", "score" : "18798" }
+{ "_id" : { "$oid" : "5322d460cf93a1fa1a8b5974" }, "site" : "13.cl", "country" : "Chile", "score" : "17735" }
+{ "_id" : { "$oid" : "5322d462cf93a1fa1a8b5975" }, "site" : "spellingcity.com", "country" : "United States", "score" : "24005" }
+{ "_id" : { "$oid" : "5322d464cf93a1fa1a8b5976" }, "site" : "americanbar.org", "country" : "United States", "score" : "24710" }
+{ "_id" : { "$oid" : "5322d466cf93a1fa1a8b5977" }, "site" : "nullschool.net", "country" : "United States", "score" : "19724" }
+{ "_id" : { "$oid" : "5322d469cf93a1fa1a8b5978" }, "site" : "saharasamay.com", "country" : "India", "score" : "24977" }
+{ "_id" : { "$oid" : "5322d46bcf93a1fa1a8b5979" }, "site" : "cuni.cz", "country" : "Czech Republic", "score" : "22738" }
+{ "_id" : { "$oid" : "5322d46ccf93a1fa1a8b597a" }, "site" : "dk.ru", "country" : "Russia", "score" : "25152" }
+{ "_id" : { "$oid" : "5322d46ecf93a1fa1a8b597b" }, "site" : "lecturalia.com", "country" : "Spain", "score" : "21891" }
+{ "_id" : { "$oid" : "5322d470cf93a1fa1a8b597c" }, "site" : "woltlab.de", "country" : "Germany", "score" : "18343" }
+{ "_id" : { "$oid" : "5322d472cf93a1fa1a8b597d" }, "site" : "themerex.net", "country" : "India", "score" : "21899" }
+{ "_id" : { "$oid" : "5322d474cf93a1fa1a8b597e" }, "site" : "diariodepernambuco.com.br", "country" : "Brazil", "score" : "22545" }
+{ "_id" : { "$oid" : "5322d476cf93a1fa1a8b597f" }, "site" : "globalaw.com", "country" : "United States", "score" : "21429" }
+{ "_id" : { "$oid" : "5322d477cf93a1fa1a8b5980" }, "site" : "hellobeautiful.com", "country" : "United States", "score" : "19891" }
+{ "_id" : { "$oid" : "5322d479cf93a1fa1a8b5981" }, "site" : "reittiopas.fi", "country" : "Finland", "score" : "18546" }
+{ "_id" : { "$oid" : "5322d47bcf93a1fa1a8b5982" }, "site" : "megafilmesonlinehd.com", "country" : "Brazil", "score" : "25540" }
+{ "_id" : { "$oid" : "5322d47dcf93a1fa1a8b5983" }, "site" : "moex.com", "country" : "Russia", "score" : "30611" }
+{ "_id" : { "$oid" : "5322d47fcf93a1fa1a8b5984" }, "site" : "forexlive.com", "country" : "United States", "score" : "22547" }
+{ "_id" : { "$oid" : "5322d480cf93a1fa1a8b5985" }, "site" : "motoadvert.ru", "country" : "Russia", "score" : "43078" }
+{ "_id" : { "$oid" : "5322d483cf93a1fa1a8b5986" }, "site" : "icmapp.com", "country" : "Germany", "score" : "6293" }
+{ "_id" : { "$oid" : "5322d484cf93a1fa1a8b5987" }, "site" : "tubexclips.com", "country" : "United States", "score" : "15207" }
+{ "_id" : { "$oid" : "5322d486cf93a1fa1a8b5988" }, "site" : "openforum.com", "country" : "United States", "score" : "14891" }
+{ "_id" : { "$oid" : "5322d488cf93a1fa1a8b5989" }, "site" : "jumia.ma", "country" : "Morocco", "score" : "28631" }
+{ "_id" : { "$oid" : "5322d48acf93a1fa1a8b598a" }, "site" : "installdownloads.com", "country" : "United States", "score" : "46522" }
+{ "_id" : { "$oid" : "5322d48ccf93a1fa1a8b598b" }, "site" : "adblade.com", "country" : "United States", "score" : "21928" }
+{ "_id" : { "$oid" : "5322d48dcf93a1fa1a8b598c" }, "site" : "lrworld.com", "country" : "Russia", "score" : "22537" }
+{ "_id" : { "$oid" : "5322d48fcf93a1fa1a8b598d" }, "site" : "costcotravel.com", "country" : "United States", "score" : "23391" }
+{ "_id" : { "$oid" : "5322d493cf93a1fa1a8b598e" }, "site" : "delicast.com", "country" : "Germany", "score" : "19682" }
+{ "_id" : { "$oid" : "5322d495cf93a1fa1a8b598f" }, "site" : "dieta-noticias.com", "country" : "Brazil", "score" : "44836" }
+{ "_id" : { "$oid" : "5322d496cf93a1fa1a8b5990" }, "site" : "fbadengine.com", "country" : "United States", "score" : "50576" }
+{ "_id" : { "$oid" : "5322d498cf93a1fa1a8b5991" }, "site" : "resellerspanel.com", "country" : "United States", "score" : "23283" }
+{ "_id" : { "$oid" : "5322d49acf93a1fa1a8b5992" }, "site" : "ehu.es", "country" : "Spain", "score" : "23038" }
+{ "_id" : { "$oid" : "5322d49ccf93a1fa1a8b5993" }, "site" : "navigaweb.net", "country" : "Italy", "score" : "20342" }
+{ "_id" : { "$oid" : "5322d49ecf93a1fa1a8b5994" }, "site" : "bollyaz.in", "country" : "India", "score" : "25553" }
+{ "_id" : { "$oid" : "5322d4a0cf93a1fa1a8b5995" }, "site" : "open.az", "country" : "Azerbaijan", "score" : "27023" }
+{ "_id" : { "$oid" : "5322d4a2cf93a1fa1a8b5996" }, "site" : "sitew.com", "country" : "France", "score" : "22312" }
+{ "_id" : { "$oid" : "5322d4a4cf93a1fa1a8b5997" }, "site" : "questdiagnostics.com", "country" : "United States", "score" : "23786" }
+{ "_id" : { "$oid" : "5322d4a6cf93a1fa1a8b5998" }, "site" : "kyero.com", "country" : "Spain", "score" : "23505" }
+{ "_id" : { "$oid" : "5322d4a7cf93a1fa1a8b5999" }, "site" : "leumi.co.il", "country" : "Israel", "score" : "21154" }
