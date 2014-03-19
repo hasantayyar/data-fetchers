@@ -1,996 +1,1008 @@
-{ "site" : "google.com.tr", "country" : "Turkey", "score" : "79" }
-{ "site" : "hurriyet.com.tr", "country" : "Turkey", "score" : "248" }
-{ "site" : "milliyet.com.tr", "country" : "Turkey", "score" : "284" }
-{ "site" : "sahibinden.com", "country" : "Turkey", "score" : "470" }
-{ "site" : "haber7.com", "country" : "Turkey", "score" : "560" }
-{ "site" : "blogspot.com.tr", "country" : "Turkey", "score" : "1432" }
-{ "site" : "r10.net", "country" : "Turkey", "score" : "636" }
-{ "site" : "mynet.com", "country" : "Turkey", "score" : "626" }
-{ "site" : "yandex.com.tr", "country" : "Turkey", "score" : "684" }
-{ "site" : "haberturk.com", "country" : "Turkey", "score" : "653" }
-{ "site" : "mackolik.com", "country" : "Turkey", "score" : "764" }
-{ "site" : "sporx.com", "country" : "Turkey", "score" : "904" }
-{ "site" : "sahadan.com", "country" : "Turkey", "score" : "838" }
-{ "site" : "ensonhaber.com", "country" : "Turkey", "score" : "939" }
-{ "site" : "oyunskor.com", "country" : "Turkey", "score" : "805" }
-{ "site" : "haberler.com", "country" : "Turkey", "score" : "1078" }
-{ "site" : "sourtimes.org", "country" : "Turkey", "score" : "1218" }
-{ "site" : "gittigidiyor.com", "country" : "Turkey", "score" : "979" }
-{ "site" : "donanimhaber.com", "country" : "Turkey", "score" : "1094" }
-{ "site" : "sabah.com.tr", "country" : "Turkey", "score" : "1174" }
-{ "site" : "garanti.com.tr", "country" : "Turkey", "score" : "1284" }
-{ "site" : "samanyoluhaber.com", "country" : "Turkey", "score" : "1346" }
-{ "site" : "sozcu.com.tr", "country" : "Turkey", "score" : "1421" }
-{ "site" : "wmaraci.com", "country" : "Turkey", "score" : "1771" }
-{ "site" : "yenisafak.com.tr", "country" : "Turkey", "score" : "1859" }
-{ "site" : "hepsiburada.com", "country" : "Turkey", "score" : "1551" }
-{ "site" : "kariyer.net", "country" : "Turkey", "score" : "1892" }
-{ "site" : "radikal.com.tr", "country" : "Turkey", "score" : "1838" }
-{ "site" : "vatanim.com.tr", "country" : "Turkey", "score" : "1817" }
-{ "site" : "zaman.com.tr", "country" : "Turkey", "score" : "1910" }
-{ "site" : "internethaber.com", "country" : "Turkey", "score" : "1733" }
-{ "site" : "bc.vc", "country" : "Turkey", "score" : "1971" }
-{ "site" : "fanatik.com.tr", "country" : "Turkey", "score" : "1933" }
-{ "site" : "odatv.com", "country" : "Turkey", "score" : "2818" }
-{ "site" : "ntvmsnbc.com", "country" : "Turkey", "score" : "2365" }
-{ "site" : "yabancidiziizle1.com", "country" : "Turkey", "score" : "2662" }
-{ "site" : "ligtv.com.tr", "country" : "Turkey", "score" : "2999" }
-{ "site" : "milliyet.tv", "country" : "Turkey", "score" : "2990" }
-{ "site" : "stargazete.com", "country" : "Turkey", "score" : "2927" }
-{ "site" : "startv.com.tr", "country" : "Turkey", "score" : "3330" }
-{ "site" : "filmifullizle.com", "country" : "Turkey", "score" : "2631" }
-{ "site" : "n11.com", "country" : "Turkey", "score" : "3300" }
-{ "site" : "ntvspor.net", "country" : "Turkey", "score" : "3472" }
-{ "site" : "onedio.com", "country" : "Turkey", "score" : "4056" }
-{ "site" : "acunn.com", "country" : "Turkey", "score" : "3124" }
-{ "site" : "isbank.com.tr", "country" : "Turkey", "score" : "3498" }
-{ "site" : "meb.gov.tr", "country" : "Turkey", "score" : "2195" }
-{ "site" : "yazete.com", "country" : "Turkey", "score" : "3344" }
-{ "site" : "turkishairlines.com", "country" : "Turkey", "score" : "3526" }
-{ "site" : "kanald.com.tr", "country" : "Turkey", "score" : "3533" }
-{ "site" : "eurosport.com", "country" : "Turkey", "score" : "3210" }
-{ "site" : "gezinti.com", "country" : "Turkey", "score" : "3917" }
-{ "site" : "memurlar.net", "country" : "Turkey", "score" : "3678" }
-{ "site" : "cumhuriyet.com.tr", "country" : "Turkey", "score" : "3386" }
-{ "site" : "hizliresim.com", "country" : "Turkey", "score" : "3964" }
-{ "site" : "hotfile.com", "country" : "Turkey", "score" : "2781" }
-{ "site" : "sanalpazar.com", "country" : "Turkey", "score" : "3887" }
-{ "site" : "izlesene.com", "country" : "Turkey", "score" : "3661" }
-{ "site" : "amkspor.com", "country" : "Turkey", "score" : "4424" }
-{ "site" : "ykb.com", "country" : "Turkey", "score" : "4354" }
-{ "site" : "webaslan.com", "country" : "Turkey", "score" : "3670" }
-{ "site" : "skorer.tv", "country" : "Turkey", "score" : "4268" }
-{ "site" : "ttnet.com.tr", "country" : "Turkey", "score" : "3785" }
-{ "site" : "uludagsozluk.com", "country" : "Turkey", "score" : "4190" }
-{ "site" : "akakce.com", "country" : "Turkey", "score" : "4618" }
-{ "site" : "blogcu.com", "country" : "Turkey", "score" : "4145" }
 {
-	"site" : "alkislarlayasiyorum.com",
-	"country" : "Turkey",
-	"score" : "5582"
-}
-{ "site" : "frmtr.com", "country" : "Turkey", "score" : "4766" }
-{ "site" : "karnaval.com", "country" : "Turkey", "score" : "4566" }
-{ "site" : "sayyac.com", "country" : "Turkey", "score" : "4821" }
-{ "site" : "shiftdelete.net", "country" : "Turkey", "score" : "4303" }
-{ "site" : "tamindir.com", "country" : "Turkey", "score" : "4661" }
-{ "site" : "bugun.com.tr", "country" : "Turkey", "score" : "4212" }
-{ "site" : "trendyol.com", "country" : "Turkey", "score" : "4662" }
-{ "site" : "divxplanet.com", "country" : "Turkey", "score" : "4967" }
-{ "site" : "memuruz.net", "country" : "Turkey", "score" : "5300" }
-{ "site" : "sondakika.com", "country" : "Turkey", "score" : "5823" }
-{ "site" : "silikonvadisi.tv", "country" : "Turkey", "score" : "6929" }
-{ "site" : "aksam.com.tr", "country" : "Turkey", "score" : "5511" }
-{ "site" : "fullhdfilmizle.org", "country" : "Turkey", "score" : "4482" }
-{ "site" : "habervaktim.com", "country" : "Turkey", "score" : "4856" }
-{ "site" : "vatanbilgisayar.com", "country" : "Turkey", "score" : "5030" }
-{ "site" : "fotomac.com.tr", "country" : "Turkey", "score" : "4810" }
-{ "site" : "markafoni.com", "country" : "Turkey", "score" : "4971" }
-{ "site" : "webmastersitesi.com", "country" : "Turkey", "score" : "5685" }
-{ "site" : "chip.com.tr", "country" : "Turkey", "score" : "5500" }
-{ "site" : "sinemalar.com", "country" : "Turkey", "score" : "5253" }
-{ "site" : "turkcell.com.tr", "country" : "Turkey", "score" : "5724" }
-{ "site" : "aa.com.tr", "country" : "Turkey", "score" : "6265" }
-{ "site" : "drakensang.com", "country" : "Turkey", "score" : "4371" }
-{ "site" : "anadolu.edu.tr", "country" : "Turkey", "score" : "6002" }
-{ "site" : "itusozluk.com", "country" : "Turkey", "score" : "6221" }
-{ "site" : "isimtescil.net", "country" : "Turkey", "score" : "6075" }
-{ "site" : "hepsibahis3.com", "country" : "Turkey", "score" : "6617" }
-{ "site" : "akbank.com", "country" : "Turkey", "score" : "6789" }
-{ "site" : "iha.com.tr", "country" : "Turkey", "score" : "7442" }
-{ "site" : "reventmedia.com", "country" : "Turkey", "score" : "10111" }
-{ "site" : "aktifhaber.com", "country" : "Turkey", "score" : "6274" }
-{ "site" : "posta.com.tr", "country" : "Turkey", "score" : "6519" }
-{ "site" : "cnnturk.com", "country" : "Turkey", "score" : "6827" }
-{ "site" : "seslisozluk.net", "country" : "Turkey", "score" : "7037" }
-{ "site" : "hurriyetemlak.com", "country" : "Turkey", "score" : "7070" }
-{ "site" : "morpakampus.com", "country" : "Turkey", "score" : "5348" }
-{ "site" : "flypgs.com", "country" : "Turkey", "score" : "7235" }
-{ "site" : "t24.com.tr", "country" : "Turkey", "score" : "7366" }
-{ "site" : "kadinlarkulubu.com", "country" : "Turkey", "score" : "6982" }
-{ "site" : "rotahaber.com", "country" : "Turkey", "score" : "6984" }
-{ "site" : "gezginler.net", "country" : "Turkey", "score" : "7324" }
-{ "site" : "teknosa.com", "country" : "Turkey", "score" : "6388" }
-{ "site" : "haber3.com", "country" : "Turkey", "score" : "6883" }
-{ "site" : "bigpara.com", "country" : "Turkey", "score" : "6461" }
-{ "site" : "turkiye.gov.tr", "country" : "Turkey", "score" : "7073" }
-{ "site" : "minikoyuncu.com", "country" : "Turkey", "score" : "7659" }
-{ "site" : "dha.com.tr", "country" : "Turkey", "score" : "7581" }
-{ "site" : "iyinet.com", "country" : "Turkey", "score" : "8691" }
-{ "site" : "webrazzi.com", "country" : "Turkey", "score" : "8412" }
-{ "site" : "f5haber.com", "country" : "Turkey", "score" : "7177" }
-{
-	"site" : "turkiyegazetesi.com.tr",
-	"country" : "Turkey",
-	"score" : "7957"
-}
-{ "site" : "kraloyun.com", "country" : "Turkey", "score" : "7667" }
-{ "site" : "ddizi.org", "country" : "Turkey", "score" : "6378" }
-{ "site" : "elemanonline.net", "country" : "Turkey", "score" : "7971" }
-{ "site" : "nesine.com", "country" : "Turkey", "score" : "7776" }
-{ "site" : "takvim.com.tr", "country" : "Turkey", "score" : "7840" }
-{ "site" : "ajansspor.com", "country" : "Turkey", "score" : "7897" }
-{ "site" : "travian.com.tr", "country" : "Turkey", "score" : "7569" }
-{ "site" : "doviz.com", "country" : "Turkey", "score" : "7488" }
-{ "site" : "natro.com", "country" : "Turkey", "score" : "9492" }
-{ "site" : "vidivodo.com", "country" : "Turkey", "score" : "8381" }
-{ "site" : "fuub.net", "country" : "Turkey", "score" : "9826" }
-{ "site" : "tureng.com", "country" : "Turkey", "score" : "8526" }
-{ "site" : "bilyoner.com", "country" : "Turkey", "score" : "8837" }
-{ "site" : "yemeksepeti.com", "country" : "Turkey", "score" : "9590" }
-{ "site" : "atv.com.tr", "country" : "Turkey", "score" : "8336" }
-{ "site" : "trthaber.com", "country" : "Turkey", "score" : "8588" }
-{ "site" : "turkcealtyazi.org", "country" : "Turkey", "score" : "9456" }
-{ "site" : "beyazperde.com", "country" : "Turkey", "score" : "9318" }
-{ "site" : "nediyor.com", "country" : "Turkey", "score" : "9982" }
-{ "site" : "vodafone.com.tr", "country" : "Turkey", "score" : "9453" }
-{ "site" : "yokboylebirsey.com.tr", "country" : "Turkey", "score" : "8353" }
-{ "site" : "sacitaslan.com", "country" : "Turkey", "score" : "8530" }
-{ "site" : "morhipo.com", "country" : "Turkey", "score" : "9420" }
-{ "site" : "finansbank.com.tr", "country" : "Turkey", "score" : "9433" }
-{ "site" : "sgk.gov.tr", "country" : "Turkey", "score" : "10386" }
-{ "site" : "uzmantv.com", "country" : "Turkey", "score" : "9652" }
-{ "site" : "yenibiris.com", "country" : "Turkey", "score" : "9676" }
-{ "site" : "tvyo.com", "country" : "Turkey", "score" : "10929" }
-{ "site" : "bicaps.net", "country" : "Turkey", "score" : "14827" }
-{ "site" : "showhaber.com", "country" : "Turkey", "score" : "9490" }
-{ "site" : "canlidizihdtv.com", "country" : "Turkey", "score" : "13852" }
-{ "site" : "komikcaps.net", "country" : "Turkey", "score" : "22760" }
-{ "site" : "hizlial.com", "country" : "Turkey", "score" : "9188" }
-{ "site" : "ulusalpost.com", "country" : "Turkey", "score" : "10518" }
-{ "site" : "ucuzu.com", "country" : "Turkey", "score" : "9739" }
-{ "site" : "starsue.net", "country" : "Turkey", "score" : "9940" }
-{ "site" : "ziraatbank.com.tr", "country" : "Turkey", "score" : "10977" }
-{ "site" : "gold.com.tr", "country" : "Turkey", "score" : "9204" }
-{ "site" : "digiturkplay.com.tr", "country" : "Turkey", "score" : "13401" }
-{ "site" : "filmizlesene.com.tr", "country" : "Turkey", "score" : "13544" }
-{ "site" : "gercekgundem.com", "country" : "Turkey", "score" : "10840" }
-{ "site" : "osym.gov.tr", "country" : "Turkey", "score" : "10516" }
-{ "site" : "6bets10.com", "country" : "Turkey", "score" : "10657" }
-{ "site" : "sikayetvar.com", "country" : "Turkey", "score" : "10792" }
-{ "site" : "tff.org", "country" : "Turkey", "score" : "12087" }
-{ "site" : "mansettv.com", "country" : "Turkey", "score" : "14297" }
-{ "site" : "gemius.com.tr", "country" : "Turkey", "score" : "6273" }
-{
-	"site" : "binaryoptionsbrands.com",
-	"country" : "Turkey",
-	"score" : "20454"
-}
-{ "site" : "yurticikargo.com", "country" : "Turkey", "score" : "10748" }
-{ "site" : "ninjacloak.com", "country" : "Turkey", "score" : "12241" }
-{ "site" : "hdfilmsitesi.org", "country" : "Turkey", "score" : "10415" }
-{ "site" : "mgm.gov.tr", "country" : "Turkey", "score" : "9744" }
-{ "site" : "avea.com.tr", "country" : "Turkey", "score" : "11453" }
-{ "site" : "limango.com.tr", "country" : "Turkey", "score" : "11023" }
-{ "site" : "vakifbank.com.tr", "country" : "Turkey", "score" : "11711" }
-{ "site" : "kakade.net", "country" : "Turkey", "score" : "15508" }
-{ "site" : "superonline.net", "country" : "Turkey", "score" : "13301" }
-{ "site" : "gazeteoku.com", "country" : "Turkey", "score" : "12079" }
-{ "site" : "bimeks.com.tr", "country" : "Turkey", "score" : "11250" }
-{ "site" : "seohocasi.com", "country" : "Turkey", "score" : "14079" }
-{ "site" : "halkbank.com.tr", "country" : "Turkey", "score" : "11934" }
-{ "site" : "ptt.gov.tr", "country" : "Turkey", "score" : "11416" }
-{ "site" : "kitapyurdu.com", "country" : "Turkey", "score" : "11211" }
-{ "site" : "onlinewebstats.com", "country" : "Turkey", "score" : "13811" }
-{ "site" : "tubiba.com", "country" : "Turkey", "score" : "13099" }
-{ "site" : "dizist.com", "country" : "Turkey", "score" : "17382" }
-{ "site" : "dr.com.tr", "country" : "Turkey", "score" : "12413" }
-{ "site" : "kizlarsoruyor.com", "country" : "Turkey", "score" : "11795" }
-{ "site" : "harika-dizi.net", "country" : "Turkey", "score" : "14394" }
-{ "site" : "ibb.gov.tr", "country" : "Turkey", "score" : "13319" }
-{
-	"site" : "istanbulbilisim.com.tr",
-	"country" : "Turkey",
-	"score" : "12788"
-}
-{ "site" : "yemle.com", "country" : "Turkey", "score" : "12129" }
-{ "site" : "trt.net.tr", "country" : "Turkey", "score" : "14348" }
-{ "site" : "ahaber.com.tr", "country" : "Turkey", "score" : "13433" }
-{ "site" : "idefix.com", "country" : "Turkey", "score" : "13191" }
-{ "site" : "canliskor.com", "country" : "Turkey", "score" : "14207" }
-{ "site" : "kure.tv", "country" : "Turkey", "score" : "13050" }
-{ "site" : "mediamarkt.com.tr", "country" : "Turkey", "score" : "11596" }
-{ "site" : "geliyoo.com", "country" : "Turkey", "score" : "14386" }
-{ "site" : "rokettube.info", "country" : "Turkey", "score" : "36999" }
-{ "site" : "netgazete.com", "country" : "Turkey", "score" : "14578" }
-{ "site" : "unutulmazfilmler.com", "country" : "Turkey", "score" : "13334" }
-{ "site" : "publicgfvideos.com", "country" : "Turkey", "score" : "15226" }
-{ "site" : "haberzamani.com", "country" : "Turkey", "score" : "14731" }
-{ "site" : "imgim.com", "country" : "Turkey", "score" : "16572" }
-{ "site" : "araskargo.com.tr", "country" : "Turkey", "score" : "15146" }
-{ "site" : "vtunnel.com", "country" : "Turkey", "score" : "14868" }
-{ "site" : "e-destek.com", "country" : "Turkey", "score" : "14805" }
-{ "site" : "goalsarena.org", "country" : "Turkey", "score" : "15728" }
-{ "site" : "denizbank.com", "country" : "Turkey", "score" : "14674" }
-{ "site" : "zargan.com", "country" : "Turkey", "score" : "15336" }
-{ "site" : "zaytung.com", "country" : "Turkey", "score" : "12508" }
-{ "site" : "piramithaber.com", "country" : "Turkey", "score" : "15110" }
-{ "site" : "haberfx.net", "country" : "Turkey", "score" : "15203" }
-{ "site" : "timeturk.com", "country" : "Turkey", "score" : "13083" }
-{ "site" : "whois.com.tr", "country" : "Turkey", "score" : "15166" }
-{ "site" : "arabam.com", "country" : "Turkey", "score" : "14296" }
-{ "site" : "turktelekom.com.tr", "country" : "Turkey", "score" : "15147" }
-{ "site" : "biletix.com", "country" : "Turkey", "score" : "17089" }
-{ "site" : "oyunkolu.com", "country" : "Turkey", "score" : "13758" }
-{ "site" : "taraf.com.tr", "country" : "Turkey", "score" : "12866" }
-{ "site" : "thy.com", "country" : "Turkey", "score" : "15248" }
-{ "site" : "galatasaray.org", "country" : "Turkey", "score" : "13625" }
-{ "site" : "teb.com.tr", "country" : "Turkey", "score" : "15676" }
-{ "site" : "firmasec.com", "country" : "Turkey", "score" : "16366" }
-{ "site" : "diziizlesem.net", "country" : "Turkey", "score" : "12774" }
-{ "site" : "oyunlar1.com", "country" : "Turkey", "score" : "16454" }
-{ "site" : "sol.org.tr", "country" : "Turkey", "score" : "14299" }
-{ "site" : "bestsportgo.tv", "country" : "Turkey", "score" : "18079" }
-{ "site" : "haber1903.com", "country" : "Turkey", "score" : "15150" }
-{ "site" : "59saniye.com", "country" : "Turkey", "score" : "17827" }
-{ "site" : "bursadabugun.com", "country" : "Turkey", "score" : "13253" }
-{ "site" : "ihs.com.tr", "country" : "Turkey", "score" : "16757" }
-{ "site" : "medyanetads.com", "country" : "Turkey", "score" : "12468" }
-{ "site" : "millipiyango.gov.tr", "country" : "Turkey", "score" : "12482" }
-{ "site" : "gib.gov.tr", "country" : "Turkey", "score" : "12686" }
-{ "site" : "tahribat.com", "country" : "Turkey", "score" : "16551" }
-{ "site" : "showtvnet.com", "country" : "Turkey", "score" : "18662" }
-{
-	"site" : "hastanerandevu.gov.tr",
-	"country" : "Turkey",
-	"score" : "16725"
-}
-{ "site" : "canliskor.com.tr", "country" : "Turkey", "score" : "19959" }
-{ "site" : "oyunmoyun.com", "country" : "Turkey", "score" : "13807" }
-{ "site" : "ytpara.com", "country" : "Turkey", "score" : "16649" }
-{ "site" : "ceviz.net", "country" : "Turkey", "score" : "17732" }
-{ "site" : "inciswf.com", "country" : "Turkey", "score" : "14987" }
-{
-	"site" : "fullprogramlarindir.com",
-	"country" : "Turkey",
-	"score" : "18299"
-}
-{
-	"site" : "ingilizceturkce.gen.tr",
-	"country" : "Turkey",
-	"score" : "16338"
-}
-{ "site" : "milliyetemlak.com", "country" : "Turkey", "score" : "16734" }
-{ "site" : "haberand.com", "country" : "Turkey", "score" : "15369" }
-{ "site" : "ulkehaber.com", "country" : "Turkey", "score" : "20465" }
-{
-	"site" : "nefisyemektarifleri.com",
-	"country" : "Turkey",
-	"score" : "15576"
-}
-{ "site" : "nedir.com", "country" : "Turkey", "score" : "16763" }
-{ "site" : "turkweb.tv", "country" : "Turkey", "score" : "17784" }
-{ "site" : "ziraat.com.tr", "country" : "Turkey", "score" : "17951" }
-{ "site" : "emlakkulisi.com", "country" : "Turkey", "score" : "18131" }
-{ "site" : "forumdas.net", "country" : "Turkey", "score" : "15053" }
-{ "site" : "onlinenic.com", "country" : "Turkey", "score" : "18473" }
-{ "site" : "znoo.net", "country" : "Turkey", "score" : "16791" }
-{ "site" : "oyungoo.com", "country" : "Turkey", "score" : "29456" }
-{ "site" : "cihan.com.tr", "country" : "Turkey", "score" : "16895" }
-{ "site" : "stopstream.tv", "country" : "Turkey", "score" : "19977" }
-{ "site" : "fenerbahce.org", "country" : "Turkey", "score" : "22309" }
-{ "site" : "haber365.com", "country" : "Turkey", "score" : "16168" }
-{ "site" : "railnation.com.tr", "country" : "Turkey", "score" : "18081" }
-{ "site" : "sehirfirsati.com", "country" : "Turkey", "score" : "16425" }
-{ "site" : "ellerimesaglik.com", "country" : "Turkey", "score" : "17731" }
-{ "site" : "sporbahis.com", "country" : "Turkey", "score" : "20962" }
-{ "site" : "nedirnedemek.com", "country" : "Turkey", "score" : "16959" }
-{ "site" : "ulusalkanal.com.tr", "country" : "Turkey", "score" : "18234" }
-{ "site" : "kliksa.com", "country" : "Turkey", "score" : "16816" }
-{ "site" : "iddaa.com", "country" : "Turkey", "score" : "19944" }
-{ "site" : "teknolojioku.com", "country" : "Turkey", "score" : "16383" }
-{ "site" : "maxicep.com", "country" : "Turkey", "score" : "18397" }
-{ "site" : "sozlukspot.com", "country" : "Turkey", "score" : "17308" }
-{ "site" : "misli.com", "country" : "Turkey", "score" : "16904" }
-{ "site" : "bankasya.com.tr", "country" : "Turkey", "score" : "17661" }
-{ "site" : "dizihdtv.net", "country" : "Turkey", "score" : "20071" }
-{ "site" : "torrent-oyun.com", "country" : "Turkey", "score" : "16291" }
-{ "site" : "turkhackteam.net", "country" : "Turkey", "score" : "18857" }
-{ "site" : "jetfilmizle.com", "country" : "Turkey", "score" : "17127" }
-{ "site" : "kuveytturk.com.tr", "country" : "Turkey", "score" : "19651" }
-{ "site" : "oyuncini.com", "country" : "Turkey", "score" : "21336" }
-{ "site" : "diziwu.com", "country" : "Turkey", "score" : "19400" }
-{ "site" : "tuttur.com", "country" : "Turkey", "score" : "19608" }
-{ "site" : "web.tv", "country" : "Turkey", "score" : "18015" }
-{ "site" : "ciceksepeti.com", "country" : "Turkey", "score" : "22432" }
-{ "site" : "reklamstore.com", "country" : "Turkey", "score" : "19318" }
-{ "site" : "alternatifim.com", "country" : "Turkey", "score" : "16513" }
-{ "site" : "buldumbuldum.com", "country" : "Turkey", "score" : "18643" }
-{ "site" : "beyazgazete.com", "country" : "Turkey", "score" : "16390" }
-{ "site" : "dmi.gov.tr", "country" : "Turkey", "score" : "19114" }
-{ "site" : "bkm.com.tr", "country" : "Turkey", "score" : "19517" }
-{ "site" : "tjk.org", "country" : "Turkey", "score" : "21617" }
-{ "site" : "antoloji.com", "country" : "Turkey", "score" : "18125" }
-{ "site" : "hsbc.com.tr", "country" : "Turkey", "score" : "19108" }
-{ "site" : "bloomberght.com", "country" : "Turkey", "score" : "18698" }
-{ "site" : "technopat.net", "country" : "Turkey", "score" : "22023" }
-{ "site" : "medya365.com", "country" : "Turkey", "score" : "25945" }
-{ "site" : "mahmure.com", "country" : "Turkey", "score" : "19559" }
-{ "site" : "fizy.com", "country" : "Turkey", "score" : "17582" }
-{ "site" : "ecanlitvizle.com", "country" : "Turkey", "score" : "18715" }
-{ "site" : "zone-h.org", "country" : "Turkey", "score" : "18464" }
-{ "site" : "hurriyetaile.com", "country" : "Turkey", "score" : "20483" }
-{ "site" : "oyunlari.net", "country" : "Turkey", "score" : "19106" }
-{ "site" : "egitimnerede.com", "country" : "Turkey", "score" : "19122" }
-{ "site" : "tdk.gov.tr", "country" : "Turkey", "score" : "20015" }
-{ "site" : "teknokulis.com", "country" : "Turkey", "score" : "20783" }
-{ "site" : "gazeteler.com", "country" : "Turkey", "score" : "19386" }
-{ "site" : "vine.tc", "country" : "Turkey", "score" : "46974" }
-{ "site" : "fullhdfilmsaati.net", "country" : "Turkey", "score" : "23341" }
-{ "site" : "fox.com.tr", "country" : "Turkey", "score" : "19759" }
-{ "site" : "dosya.tc", "country" : "Turkey", "score" : "21067" }
-{ "site" : "yeppudaa.com", "country" : "Turkey", "score" : "17084" }
-{ "site" : "oyunuoyna.com", "country" : "Turkey", "score" : "19384" }
-{ "site" : "connected2.me", "country" : "Turkey", "score" : "18603" }
-{ "site" : "secretcv.com", "country" : "Turkey", "score" : "11503" }
-{ "site" : "enguzeloyunlar.net", "country" : "Turkey", "score" : "18606" }
-{ "site" : "haberartibir.com.tr", "country" : "Turkey", "score" : "32747" }
-{ "site" : "enpara.com", "country" : "Turkey", "score" : "20091" }
-{ "site" : "itu.edu.tr", "country" : "Turkey", "score" : "19747" }
-{ "site" : "niaporn.com", "country" : "Turkey", "score" : "30190" }
-{ "site" : "e-bebek.com", "country" : "Turkey", "score" : "23717" }
-{ "site" : "listelist.com", "country" : "Turkey", "score" : "18013" }
-{ "site" : "dizideizle.org", "country" : "Turkey", "score" : "22997" }
-{ "site" : "trendwp.com", "country" : "Turkey", "score" : "21691" }
-{ "site" : "wowturkey.com", "country" : "Turkey", "score" : "22345" }
-{ "site" : "bobiler.org", "country" : "Turkey", "score" : "20351" }
-{ "site" : "karakartal.com", "country" : "Turkey", "score" : "19261" }
-{ "site" : "onedate.com", "country" : "Turkey", "score" : "20596" }
-{ "site" : "adhood.com", "country" : "Turkey", "score" : "22494" }
-{ "site" : "reklamaction.com", "country" : "Turkey", "score" : "25076" }
-{ "site" : "cyber-warrior.org", "country" : "Turkey", "score" : "23041" }
-{ "site" : "sosyalmedya.co", "country" : "Turkey", "score" : "23008" }
-{ "site" : "canlitv.com", "country" : "Turkey", "score" : "19067" }
-{ "site" : "turkeyforum.com", "country" : "Turkey", "score" : "21825" }
-{ "site" : "diyanet.gov.tr", "country" : "Turkey", "score" : "22076" }
-{ "site" : "homepage.com.tr", "country" : "Turkey", "score" : "19422" }
-{ "site" : "enuygun.com", "country" : "Turkey", "score" : "23779" }
-{ "site" : "joygame.com", "country" : "Turkey", "score" : "20692" }
-{ "site" : "warezturkey.net", "country" : "Turkey", "score" : "20921" }
-{ "site" : "hizliizlefilm.com", "country" : "Turkey", "score" : "17124" }
-{ "site" : "afiyetle.com", "country" : "Turkey", "score" : "23244" }
-{ "site" : "turkanime.tv", "country" : "Turkey", "score" : "22460" }
-{ "site" : "peniwoldturkiye.com", "country" : "Turkey", "score" : "18810" }
-{ "site" : "720pizle.com", "country" : "Turkey", "score" : "24038" }
-{ "site" : "redstation.co.uk", "country" : "Turkey", "score" : "22822" }
-{ "site" : "oyungemisi.com", "country" : "Turkey", "score" : "22256" }
-{ "site" : "iddaalihaber.com", "country" : "Turkey", "score" : "23591" }
-{ "site" : "turhost.com", "country" : "Turkey", "score" : "23513" }
-{ "site" : "ysk.gov.tr", "country" : "Turkey", "score" : "23927" }
-{ "site" : "siterobot.com", "country" : "Turkey", "score" : "26489" }
-{
-	"site" : "fulldiziizleyelim.net",
-	"country" : "Turkey",
-	"score" : "18040"
-}
-{ "site" : "evidea.com", "country" : "Turkey", "score" : "24155" }
-{ "site" : "cozumpark.com", "country" : "Turkey", "score" : "27217" }
-{ "site" : "pencere.com", "country" : "Turkey", "score" : "24914" }
-{ "site" : "canlidiziizleyin.com", "country" : "Turkey", "score" : "28894" }
-{ "site" : "habergazete.com", "country" : "Turkey", "score" : "25031" }
-{ "site" : "tracklab101.com", "country" : "Turkey", "score" : "10256" }
-{ "site" : "lidyana.com", "country" : "Turkey", "score" : "22184" }
-{ "site" : "tubitak.gov.tr", "country" : "Turkey", "score" : "27126" }
-{ "site" : "medyatava.com", "country" : "Turkey", "score" : "21650" }
-{ "site" : "gazetea24.com", "country" : "Turkey", "score" : "20242" }
-{ "site" : "egitimhane.com", "country" : "Turkey", "score" : "22689" }
-{ "site" : "pcnet.com.tr", "country" : "Turkey", "score" : "22511" }
-{ "site" : "medyaradar.com", "country" : "Turkey", "score" : "24166" }
-{ "site" : "mybilet.com", "country" : "Turkey", "score" : "27457" }
-{ "site" : "araba.com", "country" : "Turkey", "score" : "23129" }
-{ "site" : "tcmb.gov.tr", "country" : "Turkey", "score" : "22878" }
-{ "site" : "akormerkezi.com", "country" : "Turkey", "score" : "24439" }
-{ "site" : "metu.edu.tr", "country" : "Turkey", "score" : "22967" }
-{ "site" : "hdizlefilmi.net", "country" : "Turkey", "score" : "24970" }
-{ "site" : "evmanya.com", "country" : "Turkey", "score" : "24316" }
-{ "site" : "yellowpages.com.tr", "country" : "Turkey", "score" : "24857" }
-{ "site" : "anathemes.com", "country" : "Turkey", "score" : "25442" }
-{ "site" : "etstur.com", "country" : "Turkey", "score" : "25960" }
-{ "site" : "doktorsitesi.com", "country" : "Turkey", "score" : "25506" }
-{ "site" : "secimanketi.tv", "country" : "Turkey", "score" : "30882" }
-{ "site" : "analizmerkezi.com", "country" : "Turkey", "score" : "26284" }
-{ "site" : "ni.net.tr", "country" : "Turkey", "score" : "28719" }
-{ "site" : "merlininkazani.com", "country" : "Turkey", "score" : "24871" }
-{ "site" : "orjinalmarket.net", "country" : "Turkey", "score" : "22753" }
-{ "site" : "dictionarist.com", "country" : "Turkey", "score" : "22680" }
-{ "site" : "webmaster.tc", "country" : "Turkey", "score" : "32474" }
-{ "site" : "ecift.com", "country" : "Turkey", "score" : "24300" }
-{ "site" : "1v1y.com", "country" : "Turkey", "score" : "25142" }
-{ "site" : "direkizle.com", "country" : "Turkey", "score" : "23318" }
-{ "site" : "diyadinnet.com", "country" : "Turkey", "score" : "24453" }
-{ "site" : "modanisa.com", "country" : "Turkey", "score" : "27007" }
-{ "site" : "zizigo.com", "country" : "Turkey", "score" : "23084" }
-{ "site" : "suratkargo.com.tr", "country" : "Turkey", "score" : "25573" }
-{ "site" : "vizyonfilmizle.net", "country" : "Turkey", "score" : "27417" }
-{ "site" : "transfermarkt.com.tr", "country" : "Turkey", "score" : "18974" }
-{ "site" : "haberdar.com", "country" : "Turkey", "score" : "22050" }
-{ "site" : "funpic.de", "country" : "Turkey", "score" : "23791" }
-{ "site" : "gecce.com", "country" : "Turkey", "score" : "23461" }
-{ "site" : "cezmikalorifer.com", "country" : "Turkey", "score" : "26264" }
-{ "site" : "stilgiyin.com", "country" : "Turkey", "score" : "24341" }
-{ "site" : "sadecehosting.com", "country" : "Turkey", "score" : "26161" }
-{ "site" : "lcwaikiki.com", "country" : "Turkey", "score" : "24028" }
-{ "site" : "istanbul.edu.tr", "country" : "Turkey", "score" : "23595" }
-{ "site" : "tempobet22.com", "country" : "Turkey", "score" : "26916" }
-{ "site" : "fbs.com.tr", "country" : "Turkey", "score" : "27366" }
-{
-	"site" : "fulldiziizleyelim.org",
-	"country" : "Turkey",
-	"score" : "55258"
-}
-{ "site" : "cimri.com", "country" : "Turkey", "score" : "23907" }
-{ "site" : "modagram.com", "country" : "Turkey", "score" : "26530" }
-{ "site" : "wardom.org", "country" : "Turkey", "score" : "28053" }
-{
-	"site" : "mybacksurveyonlinezs.com",
-	"country" : "Turkey",
-	"score" : "33073"
-}
-{ "site" : "alanadlari.com", "country" : "Turkey", "score" : "26102" }
-{ "site" : "iett.gov.tr", "country" : "Turkey", "score" : "25400" }
-{ "site" : "mayonez.net", "country" : "Turkey", "score" : "26888" }
-{ "site" : "medyafaresi.com", "country" : "Turkey", "score" : "24784" }
-{ "site" : "zapkolik.com", "country" : "Turkey", "score" : "20185" }
-{ "site" : "say.ac", "country" : "Turkey", "score" : "25214" }
-{ "site" : "pornoizleturk.biz", "country" : "Turkey", "score" : "71810" }
-{ "site" : "likelo.com", "country" : "Turkey", "score" : "22836" }
-{
-	"site" : "canliradyodinle.gen.tr",
-	"country" : "Turkey",
-	"score" : "30038"
-}
-{ "site" : "resmigazete.gov.tr", "country" : "Turkey", "score" : "27011" }
-{ "site" : "superfb.com", "country" : "Turkey", "score" : "28844" }
-{ "site" : "defacto.com.tr", "country" : "Turkey", "score" : "26506" }
-{ "site" : "risaleajans.com", "country" : "Turkey", "score" : "21781" }
-{ "site" : "gazeteciler.com", "country" : "Turkey", "score" : "24328" }
-{ "site" : "haberyurdum.com", "country" : "Turkey", "score" : "29512" }
-{ "site" : "aljazeera.com.tr", "country" : "Turkey", "score" : "41652" }
-{ "site" : "www.nic.tr", "country" : "Turkey", "score" : "29343" }
-{ "site" : "pirsushaber.com", "country" : "Turkey", "score" : "27945" }
-{ "site" : "forumexe.com", "country" : "Turkey", "score" : "27083" }
-{ "site" : "hdfilmsaati.org", "country" : "Turkey", "score" : "24497" }
-{ "site" : "hotelspro.com", "country" : "Turkey", "score" : "31143" }
-{ "site" : "ttnetmuzik.com.tr", "country" : "Turkey", "score" : "28479" }
-{ "site" : "ultrafilmizle.com", "country" : "Turkey", "score" : "18881" }
-{ "site" : "tahminkolik.com", "country" : "Turkey", "score" : "27053" }
-{ "site" : "haberfedai.com", "country" : "Turkey", "score" : "28730" }
-{ "site" : "rdrtr.com", "country" : "Turkey", "score" : "39816" }
-{ "site" : "yeniakit.com.tr", "country" : "Turkey", "score" : "28759" }
-{ "site" : "payu.com.tr", "country" : "Turkey", "score" : "28186" }
-{ "site" : "0eb.net", "country" : "Turkey", "score" : "33517" }
-{ "site" : "msxlabs.org", "country" : "Turkey", "score" : "24533" }
-{ "site" : "evrenselfilm.net", "country" : "Turkey", "score" : "29583" }
-{ "site" : "zzsearch.net", "country" : "Turkey", "score" : "22388" }
-{ "site" : "ikea.com.tr", "country" : "Turkey", "score" : "27486" }
-{ "site" : "sozluk.net", "country" : "Turkey", "score" : "26136" }
-{ "site" : "haberself.com", "country" : "Turkey", "score" : "25498" }
-{ "site" : "mngkargo.com.tr", "country" : "Turkey", "score" : "25856" }
-{ "site" : "yakala.co", "country" : "Turkey", "score" : "28012" }
-{ "site" : "wordego.com", "country" : "Turkey", "score" : "29609" }
-{ "site" : "diziler.com", "country" : "Turkey", "score" : "26375" }
-{ "site" : "iskur.gov.tr", "country" : "Turkey", "score" : "29995" }
-{ "site" : "grafikerler.net", "country" : "Turkey", "score" : "29989" }
-{ "site" : "minioyun.org", "country" : "Turkey", "score" : "27342" }
-{ "site" : "rivalo1.com", "country" : "Turkey", "score" : "39855" }
-{ "site" : "turkticaret.net", "country" : "Turkey", "score" : "27299" }
-{ "site" : "diziizlehdfull.net", "country" : "Turkey", "score" : "25194" }
-{ "site" : "leechturk.com", "country" : "Turkey", "score" : "30454" }
-{ "site" : "haber61.net", "country" : "Turkey", "score" : "11017" }
-{ "site" : "turktorrent.eu", "country" : "Turkey", "score" : "22573" }
-{ "site" : "issizadam.net", "country" : "Turkey", "score" : "19634" }
-{ "site" : "22sexy.com", "country" : "Turkey", "score" : "74124" }
-{ "site" : "ref5.net", "country" : "Turkey", "score" : "30094" }
-{ "site" : "turkcebilgi.com", "country" : "Turkey", "score" : "29733" }
-{ "site" : "emlakguncel.com", "country" : "Turkey", "score" : "28126" }
-{ "site" : "sporxtv.com", "country" : "Turkey", "score" : "31740" }
-{
-	"site" : "bilgisayarbilisim.net",
-	"country" : "Turkey",
-	"score" : "30243"
-}
-{ "site" : "bitturk.net", "country" : "Turkey", "score" : "29489" }
-{ "site" : "aydinlikgazete.com", "country" : "Turkey", "score" : "28680" }
-{ "site" : "grupanya.com", "country" : "Turkey", "score" : "30780" }
-{ "site" : "boun.edu.tr", "country" : "Turkey", "score" : "29408" }
-{ "site" : "eticaretmag.com", "country" : "Turkey", "score" : "31709" }
-{ "site" : "hurriyettv.com", "country" : "Turkey", "score" : "75083" }
-{ "site" : "gsgazete.com", "country" : "Turkey", "score" : "29830" }
-{ "site" : "dunya.com", "country" : "Turkey", "score" : "31732" }
-{ "site" : "61saat.com", "country" : "Turkey", "score" : "29552" }
-{ "site" : "emu.edu.tr", "country" : "Turkey", "score" : "29899" }
-{ "site" : "trtspor.com.tr", "country" : "Turkey", "score" : "35135" }
-{ "site" : "dizi-mag.com", "country" : "Turkey", "score" : "26800" }
-{ "site" : "gelirortaklari.com", "country" : "Turkey", "score" : "31092" }
-{ "site" : "haber10.com", "country" : "Turkey", "score" : "25269" }
-{ "site" : "hocy.net", "country" : "Turkey", "score" : "29213" }
-{ "site" : "eksiduyuru.com", "country" : "Turkey", "score" : "29846" }
-{ "site" : "forvetbet800.com", "country" : "Turkey", "score" : "34172" }
-{ "site" : "webtentvizle.com", "country" : "Turkey", "score" : "31968" }
-{ "site" : "vbulletin-turko.com", "country" : "Turkey", "score" : "26300" }
-{ "site" : "sadecehosting.net", "country" : "Turkey", "score" : "27249" }
-{ "site" : "cinemaximum.com.tr", "country" : "Turkey", "score" : "33136" }
-{ "site" : "uzmancevap.org", "country" : "Turkey", "score" : "34534" }
-{ "site" : "sakarya.edu.tr", "country" : "Turkey", "score" : "29307" }
-{ "site" : "emlakjet.com", "country" : "Turkey", "score" : "31765" }
-{ "site" : "digiturk.com.tr", "country" : "Turkey", "score" : "32615" }
-{
-	"site" : "bolumsonucanavari.com",
-	"country" : "Turkey",
-	"score" : "31198"
-}
-{ "site" : "akparti.org.tr", "country" : "Turkey", "score" : "31302" }
-{ "site" : "saglik.gov.tr", "country" : "Turkey", "score" : "31390" }
-{ "site" : "son.tv", "country" : "Turkey", "score" : "28463" }
-{ "site" : "haberts.com", "country" : "Turkey", "score" : "34562" }
-{ "site" : "kijiji.com.tr", "country" : "Turkey", "score" : "32073" }
-{ "site" : "hisse.net", "country" : "Turkey", "score" : "30364" }
-{ "site" : "broadagesports.com", "country" : "Turkey", "score" : "49215" }
-{ "site" : "sanalkurs.net", "country" : "Turkey", "score" : "31436" }
-{ "site" : "taleworlds.com", "country" : "Turkey", "score" : "27911" }
-{ "site" : "gazeteport.com.tr", "country" : "Turkey", "score" : "32584" }
-{ "site" : "alastyr.com", "country" : "Turkey", "score" : "36315" }
-{ "site" : "yurtgazetesi.com.tr", "country" : "Turkey", "score" : "31225" }
-{ "site" : "birgun.net", "country" : "Turkey", "score" : "30265" }
-{ "site" : "okulistik.com", "country" : "Turkey", "score" : "32146" }
-{ "site" : "gscimbom.com", "country" : "Turkey", "score" : "29866" }
-{ "site" : "haberaktuel.com", "country" : "Turkey", "score" : "38199" }
-{ "site" : "akilli.tv", "country" : "Turkey", "score" : "32836" }
-{ "site" : "sanalbasin.com", "country" : "Turkey", "score" : "34130" }
-{ "site" : "incicaps.com", "country" : "Turkey", "score" : "33540" }
-{ "site" : "bebekoyunu.com.tr", "country" : "Turkey", "score" : "31144" }
-{ "site" : "opencart-tr.com", "country" : "Turkey", "score" : "35234" }
-{ "site" : "mhrs.gov.tr", "country" : "Turkey", "score" : "35250" }
-{ "site" : "tvarsivi.com", "country" : "Turkey", "score" : "24665" }
-{ "site" : "tribundergi.com", "country" : "Turkey", "score" : "37260" }
-{ "site" : "tozlugiyim.com.tr", "country" : "Turkey", "score" : "28102" }
-{ "site" : "elookat.com", "country" : "Turkey", "score" : "30974" }
-{ "site" : "youexif.com", "country" : "Turkey", "score" : "47966" }
-{ "site" : "ilkelihaber.com", "country" : "Turkey", "score" : "33526" }
-{ "site" : "evim.net", "country" : "Turkey", "score" : "28369" }
-{ "site" : "haberciniz.biz", "country" : "Turkey", "score" : "33116" }
-{ "site" : "hacettepe.edu.tr", "country" : "Turkey", "score" : "34999" }
-{ "site" : "webteizle.org", "country" : "Turkey", "score" : "27806" }
-{ "site" : "tripadvisor.com.tr", "country" : "Turkey", "score" : "34540" }
-{ "site" : "techno-labs.com", "country" : "Turkey", "score" : "44113" }
-{ "site" : "searchandseek.com", "country" : "Turkey", "score" : "36705" }
-{ "site" : "skyscanner.com.tr", "country" : "Turkey", "score" : "38250" }
-{ "site" : "kadinvekadin.net", "country" : "Turkey", "score" : "31608" }
-{ "site" : "muhalifgazete.com", "country" : "Turkey", "score" : "31563" }
-{ "site" : "filmiizle.tv", "country" : "Turkey", "score" : "29945" }
-{ "site" : "muhalifbaski.com", "country" : "Turkey", "score" : "49858" }
-{ "site" : "adtriplex.com", "country" : "Turkey", "score" : "33268" }
-{ "site" : "haxball.com", "country" : "Turkey", "score" : "28994" }
-{ "site" : "canlitvx.com", "country" : "Turkey", "score" : "35613" }
-{ "site" : "3doyunlar.net", "country" : "Turkey", "score" : "28607" }
-{ "site" : "koctas.com.tr", "country" : "Turkey", "score" : "33758" }
-{ "site" : "koreanturk.com", "country" : "Turkey", "score" : "34503" }
-{ "site" : "hdarsivi.com", "country" : "Turkey", "score" : "30685" }
-{ "site" : "filminndir.org", "country" : "Turkey", "score" : "41126" }
-{ "site" : "boyner.com.tr", "country" : "Turkey", "score" : "34016" }
-{ "site" : "numberone.com.tr", "country" : "Turkey", "score" : "32108" }
-{ "site" : "haberform.com", "country" : "Turkey", "score" : "36355" }
-{ "site" : "stargundem.com", "country" : "Turkey", "score" : "34259" }
-{ "site" : "tpe.gov.tr", "country" : "Turkey", "score" : "34783" }
-{ "site" : "hostinger.web.tr", "country" : "Turkey", "score" : "34900" }
-{ "site" : "zinko.net", "country" : "Turkey", "score" : "33244" }
-{
-	"site" : "sorularlaislamiyet.com",
-	"country" : "Turkey",
-	"score" : "32643"
-}
-{ "site" : "temafabrika.com", "country" : "Turkey", "score" : "57343" }
-{ "site" : "fullhd720pizle.com", "country" : "Turkey", "score" : "43253" }
-{ "site" : "macyayinlari.com", "country" : "Turkey", "score" : "70499" }
-{ "site" : "idemama.com", "country" : "Turkey", "score" : "58741" }
-{ "site" : "komedi.com", "country" : "Turkey", "score" : "165438" }
-{ "site" : "anadolujet.com", "country" : "Turkey", "score" : "65964" }
-{ "site" : "com.nu", "country" : "Turkey", "score" : "62360" }
-{ "site" : "niobeweb.net", "country" : "Turkey", "score" : "87823" }
-{ "site" : "zamundatorrent.com", "country" : "Turkey", "score" : "65891" }
-{ "site" : "whmdestek.com", "country" : "Turkey", "score" : "79567" }
-{ "site" : "sinetif.com", "country" : "Turkey", "score" : "73139" }
-{
-	"site" : "bedavacanlitvizle.org",
-	"country" : "Turkey",
-	"score" : "69473"
-}
-{ "site" : "gormenlazim.net", "country" : "Turkey", "score" : "196713" }
-{ "site" : "sarki-sozleri.net", "country" : "Turkey", "score" : "55413" }
-{ "site" : "woops.com.tr", "country" : "Turkey", "score" : "94778" }
-{ "site" : "frmartuklu.net", "country" : "Turkey", "score" : "64494" }
-{ "site" : "anasayfa.co", "country" : "Turkey", "score" : "68468" }
-{ "site" : "klanlar.org", "country" : "Turkey", "score" : "60164" }
-{ "site" : "malatyagercek.com", "country" : "Turkey", "score" : "65242" }
-{ "site" : "inciseks.com", "country" : "Turkey", "score" : "87504" }
-{ "site" : "e-tesettur.com.tr", "country" : "Turkey", "score" : "68557" }
-{ "site" : "filmtvizle.org", "country" : "Turkey", "score" : "98779" }
-{ "site" : "turktorrent.cc", "country" : "Turkey", "score" : "118946" }
-{ "site" : "vipmerkezi.net", "country" : "Turkey", "score" : "67284" }
-{ "site" : "9cameras.com", "country" : "Turkey", "score" : "63114" }
-{ "site" : "egehaber.com", "country" : "Turkey", "score" : "55376" }
-{ "site" : "superkarga.com", "country" : "Turkey", "score" : "78908" }
-{ "site" : "tenceretv.com", "country" : "Turkey", "score" : "68664" }
-{ "site" : "skorer.com", "country" : "Turkey", "score" : "42484" }
-{ "site" : "dvixcenter.com", "country" : "Turkey", "score" : "90845" }
-{ "site" : "gunaz.tv", "country" : "Turkey", "score" : "88007" }
-{ "site" : "turkcebilgi.org", "country" : "Turkey", "score" : "69607" }
-{ "site" : "altinpiyasa.com", "country" : "Turkey", "score" : "69757" }
-{ "site" : "oyyla.com", "country" : "Turkey", "score" : "78437" }
-{ "site" : "pornelits.com", "country" : "Turkey", "score" : "77802" }
-{ "site" : "etohum.com", "country" : "Turkey", "score" : "53466" }
-{ "site" : "haberinbizden.com", "country" : "Turkey", "score" : "63342" }
-{ "site" : "vicepra.us", "country" : "Turkey", "score" : "63928" }
-{ "site" : "renault.com.tr", "country" : "Turkey", "score" : "59428" }
-{ "site" : "mutfaksirlari.com", "country" : "Turkey", "score" : "65260" }
-{ "site" : "proticaret.org", "country" : "Turkey", "score" : "70796" }
-{ "site" : "ubuntu-tr.net", "country" : "Turkey", "score" : "68246" }
-{ "site" : "sendika.org", "country" : "Turkey", "score" : "57564" }
-{ "site" : "724tikla.com", "country" : "Turkey", "score" : "72111" }
-{ "site" : "reali.st", "country" : "Turkey", "score" : "64164" }
-{ "site" : "wptemalari.net", "country" : "Turkey", "score" : "69401" }
-{ "site" : "gonuldensevenler.com", "country" : "Turkey", "score" : "74817" }
-{ "site" : "roketoyun.com", "country" : "Turkey", "score" : "74366" }
-{ "site" : "birliktealalim.com", "country" : "Turkey", "score" : "80086" }
-{ "site" : "haberartiturk.com", "country" : "Turkey", "score" : "59946" }
-{ "site" : "webadam.com", "country" : "Turkey", "score" : "65976" }
-{ "site" : "medimagazin.com.tr", "country" : "Turkey", "score" : "67406" }
-{ "site" : "tuik.gov.tr", "country" : "Turkey", "score" : "77271" }
-{ "site" : "agaclar.net", "country" : "Turkey", "score" : "77079" }
-{ "site" : "sendloop.com", "country" : "Turkey", "score" : "85660" }
-{ "site" : "altincicadde.com", "country" : "Turkey", "score" : "65170" }
-{ "site" : "webservis.gen.tr", "country" : "Turkey", "score" : "73499" }
-{ "site" : "sabanciuniv.edu", "country" : "Turkey", "score" : "77270" }
-{
-	"site" : "onlinefilmizlevk.com",
-	"country" : "Turkey",
-	"score" : "106251"
-}
-{ "site" : "microoyun.com", "country" : "Turkey", "score" : "74353" }
-{ "site" : "ratingkurdu.com", "country" : "Turkey", "score" : "90899" }
-{ "site" : "oyunoyna.az", "country" : "Turkey", "score" : "73936" }
-{ "site" : "dijimecmua.com", "country" : "Turkey", "score" : "76339" }
-{ "site" : "haber8.com", "country" : "Turkey", "score" : "57467" }
-{ "site" : "altin.in", "country" : "Turkey", "score" : "72180" }
-{ "site" : "habertempo.com", "country" : "Turkey", "score" : "69271" }
-{ "site" : "barcin.com", "country" : "Turkey", "score" : "72325" }
-{ "site" : "scroll.com.tr", "country" : "Turkey", "score" : "72226" }
-{ "site" : "radore.com", "country" : "Turkey", "score" : "81700" }
-{ "site" : "elazighaberi.com", "country" : "Turkey", "score" : "68219" }
-{ "site" : "rerererarara.net", "country" : "Turkey", "score" : "78572" }
-{ "site" : "aydin.edu.tr", "country" : "Turkey", "score" : "81619" }
-{ "site" : "reklam9.com", "country" : "Turkey", "score" : "111516" }
-{ "site" : "demokrathaber.net", "country" : "Turkey", "score" : "91797" }
-{ "site" : "videoizle.co", "country" : "Turkey", "score" : "69745" }
-{ "site" : "fgulen.com", "country" : "Turkey", "score" : "53992" }
-{ "site" : "diyanettakvimi.com", "country" : "Turkey", "score" : "77081" }
-{ "site" : "avantajix.com", "country" : "Turkey", "score" : "75686" }
-{ "site" : "revolution-news.com", "country" : "Turkey", "score" : "113150" }
-{ "site" : "ogunhaber.com", "country" : "Turkey", "score" : "78387" }
-{ "site" : "paracebe.com", "country" : "Turkey", "score" : "75447" }
-{ "site" : "bjk.com.tr", "country" : "Turkey", "score" : "64041" }
-{ "site" : "teknomobil.org", "country" : "Turkey", "score" : "62637" }
-{ "site" : "hangikredi.com", "country" : "Turkey", "score" : "68906" }
-{ "site" : "fiat.com.tr", "country" : "Turkey", "score" : "62158" }
-{ "site" : "iamistanbul.tv", "country" : "Turkey", "score" : "79360" }
-{ "site" : "radyofenomen.com", "country" : "Turkey", "score" : "76292" }
-{ "site" : "weblozi.com", "country" : "Turkey", "score" : "82541" }
-{ "site" : "haberpi.com", "country" : "Turkey", "score" : "77501" }
-{ "site" : "turk.net", "country" : "Turkey", "score" : "74886" }
-{
-	"site" : "fullhdfilmseyret.com",
-	"country" : "Turkey",
-	"score" : "121505"
-}
-{ "site" : "belediye.tv", "country" : "Turkey", "score" : "75008" }
-{ "site" : "guvenrehberi.com", "country" : "Turkey", "score" : "112200" }
-{ "site" : "sunexpress.com.tr", "country" : "Turkey", "score" : "76637" }
-{ "site" : "olay.com.tr", "country" : "Turkey", "score" : "69932" }
-{
-	"site" : "sondakikahaberleri.info.tr",
-	"country" : "Turkey",
-	"score" : "72903"
-}
-{ "site" : "alobilethatti.com", "country" : "Turkey", "score" : "73160" }
-{ "site" : "haksozhaber.net", "country" : "Turkey", "score" : "64761" }
-{ "site" : "incisozluk.cc", "country" : "Turkey", "score" : "58185" }
-{ "site" : "bonus.com.tr", "country" : "Turkey", "score" : "68341" }
-{ "site" : "netmoda.com", "country" : "Turkey", "score" : "105277" }
-{ "site" : "beymen.com", "country" : "Turkey", "score" : "78695" }
-{ "site" : "cahidejibek.com", "country" : "Turkey", "score" : "77199" }
-{ "site" : "jtnpanel.com", "country" : "Turkey", "score" : "70771" }
-{ "site" : "momizat.net", "country" : "Turkey", "score" : "48484" }
-{ "site" : "360adshost.com", "country" : "Turkey", "score" : "109726" }
-{ "site" : "penimax.us", "country" : "Turkey", "score" : "116924" }
-{ "site" : "netkayit.com", "country" : "Turkey", "score" : "76209" }
-{ "site" : "egm.gov.tr", "country" : "Turkey", "score" : "75633" }
-{ "site" : "heithalat.com", "country" : "Turkey", "score" : "84280" }
-{ "site" : "onename.org", "country" : "Turkey", "score" : "129872" }
-{ "site" : "trabzonspor.org.tr", "country" : "Turkey", "score" : "73650" }
-{ "site" : "toptanciniz.com", "country" : "Turkey", "score" : "73372" }
-{ "site" : "objektifhaber.com", "country" : "Turkey", "score" : "77034" }
-{ "site" : "mobrog.com", "country" : "Turkey", "score" : "71984" }
-{ "site" : "usluer.net", "country" : "Turkey", "score" : "75020" }
-{ "site" : "cizgifilm.in", "country" : "Turkey", "score" : "73477" }
-{ "site" : "cilginturkporno.com", "country" : "Turkey", "score" : "73790" }
-{ "site" : "vidobu.com", "country" : "Turkey", "score" : "91332" }
-{ "site" : "anarschi.com", "country" : "Turkey", "score" : "82047" }
-{ "site" : "sosyalmedyahaber.com", "country" : "Turkey", "score" : "97648" }
-{ "site" : "ihya.org", "country" : "Turkey", "score" : "61264" }
-{ "site" : "kosgeb.gov.tr", "country" : "Turkey", "score" : "78525" }
-{ "site" : "samanyolu.tv", "country" : "Turkey", "score" : "79497" }
-{ "site" : "yasambu.com", "country" : "Turkey", "score" : "76336" }
-{ "site" : "as42926.net", "country" : "Turkey", "score" : "81650" }
-{ "site" : "yakuter.com", "country" : "Turkey", "score" : "78865" }
-{ "site" : "cmbilisim.com", "country" : "Turkey", "score" : "72433" }
-{ "site" : "palstation106.com", "country" : "Turkey", "score" : "87426" }
-{ "site" : "peugeot.com.tr", "country" : "Turkey", "score" : "101265" }
-{ "site" : "basbakanlik.gov.tr", "country" : "Turkey", "score" : "95431" }
-{ "site" : "altinkaynak.com.tr", "country" : "Turkey", "score" : "71674" }
-{ "site" : "hayatnotu.com", "country" : "Turkey", "score" : "64258" }
-{ "site" : "demokratgebze.com.tr", "country" : "Turkey", "score" : "77623" }
-{ "site" : "turkiyef1.com", "country" : "Turkey", "score" : "89524" }
-{ "site" : "bahisanaliz.com", "country" : "Turkey", "score" : "85681" }
-{ "site" : "ingilizce.tk", "country" : "Turkey", "score" : "79341" }
-{ "site" : "elele.com.tr", "country" : "Turkey", "score" : "51789" }
-{ "site" : "matchandtalk.com", "country" : "Turkey", "score" : "58829" }
-{ "site" : "mp3indirdur.com", "country" : "Turkey", "score" : "155364" }
-{ "site" : "ulusoy.com.tr", "country" : "Turkey", "score" : "72703" }
-{ "site" : "safirtema.com", "country" : "Turkey", "score" : "75271" }
-{ "site" : "ozelarkadas.co", "country" : "Turkey", "score" : "119155" }
-{ "site" : "startupturkey.com", "country" : "Turkey", "score" : "115796" }
-{ "site" : "novacep.net", "country" : "Turkey", "score" : "363506" }
-{ "site" : "lastikcim.com.tr", "country" : "Turkey", "score" : "306749" }
-{ "site" : "positionfinder.net", "country" : "Turkey", "score" : "309006" }
-{ "site" : "onlinezekaoyunu.com", "country" : "Turkey", "score" : "737958" }
-{ "site" : "pornomoon.com", "country" : "Turkey", "score" : "433095" }
-{ "site" : "multi-ping.com", "country" : "Turkey", "score" : "349155" }
-{ "site" : "kalemhediye.com", "country" : "Turkey", "score" : "391776" }
-{ "site" : "limitsizamca.net", "country" : "Turkey", "score" : "549023" }
-{ "site" : "watsons.com.tr", "country" : "Turkey", "score" : "441625" }
-{ "site" : "dizimag.in", "country" : "Turkey", "score" : "400548" }
-{ "site" : "omergin.com", "country" : "Turkey", "score" : "418178" }
-{ "site" : "sekomedia.com", "country" : "Turkey", "score" : "394935" }
-{ "site" : "adamspor.com", "country" : "Turkey", "score" : "305597" }
-{ "site" : "arabulyeri.com", "country" : "Turkey", "score" : "434462" }
-{ "site" : "yasaracar.com", "country" : "Turkey", "score" : "497037" }
-{ "site" : "onlinegamer.cc", "country" : "Turkey", "score" : "311054" }
-{ "site" : "habersitesikur.com", "country" : "Turkey", "score" : "359148" }
-{ "site" : "cescesor.com", "country" : "Turkey", "score" : "408550" }
-{ "site" : "erasmusum.com", "country" : "Turkey", "score" : "499646" }
-{ "site" : "opencart.gen.tr", "country" : "Turkey", "score" : "376853" }
-{ "site" : "wolflitepro.com", "country" : "Turkey", "score" : "385543" }
-{ "site" : "lokuf.com", "country" : "Turkey", "score" : "430287" }
-{ "site" : "netbosanma.com", "country" : "Turkey", "score" : "518909" }
-{ "site" : "biribon.com", "country" : "Turkey", "score" : "763361" }
-{ "site" : "atticthemes.com", "country" : "Turkey", "score" : "369378" }
-{ "site" : "imza.la", "country" : "Turkey", "score" : "422640" }
-{ "site" : "uni-trend.com", "country" : "Turkey", "score" : "665528" }
-{ "site" : "pornsexbak.com", "country" : "Turkey", "score" : "272094" }
-{ "site" : "isimlerinanlami.net", "country" : "Turkey", "score" : "415367" }
-{
-	"site" : "pastaoyunlari.gen.tr",
-	"country" : "Turkey",
-	"score" : "480629"
-}
-{ "site" : "news6global.com", "country" : "Turkey", "score" : "185513" }
-{ "site" : "dizilerfull.com", "country" : "Turkey", "score" : "679159" }
-{ "site" : "aykutokyay.com", "country" : "Turkey", "score" : "665859" }
-{ "site" : "jonturk.com", "country" : "Turkey", "score" : "257898" }
-{ "site" : "delidolusex.me", "country" : "Turkey", "score" : "543836" }
-{ "site" : "tatilgo.com", "country" : "Turkey", "score" : "392093" }
-{ "site" : "oyak.com.tr", "country" : "Turkey", "score" : "434436" }
-{ "site" : "salom.com.tr", "country" : "Turkey", "score" : "314929" }
-{ "site" : "istdizayn.com", "country" : "Turkey", "score" : "409647" }
-{ "site" : "365alisveris.com", "country" : "Turkey", "score" : "425037" }
-{ "site" : "bilgit.com", "country" : "Turkey", "score" : "373942" }
-{ "site" : "cicibebeler.com", "country" : "Turkey", "score" : "464781" }
-{ "site" : "inhores.com", "country" : "Turkey", "score" : "625273" }
-{ "site" : "mangavadisi.net", "country" : "Turkey", "score" : "498170" }
-{ "site" : "betashoes.com", "country" : "Turkey", "score" : "411860" }
-{ "site" : "dekosor.com", "country" : "Turkey", "score" : "578215" }
-{ "site" : "sarepirlanta.com", "country" : "Turkey", "score" : "436783" }
-{ "site" : "putur.com", "country" : "Turkey", "score" : "392927" }
-{ "site" : "demirdokum.com.tr", "country" : "Turkey", "score" : "379569" }
-{ "site" : "reklamfon.com", "country" : "Turkey", "score" : "230088" }
-{
-	"site" : "themeforest.net/user/designingmedia",
-	"country" : "Turkey",
-	"score" : "417765"
-}
-{ "site" : "matbaaloji.com", "country" : "Turkey", "score" : "535120" }
-{
-	"site" : "izmirisrehberi.com.tr",
-	"country" : "Turkey",
-	"score" : "343915"
-}
-{ "site" : "fatih.bel.tr", "country" : "Turkey", "score" : "417305" }
-{ "site" : "serhattv.com.tr", "country" : "Turkey", "score" : "396632" }
-{ "site" : "noktadetectors.com", "country" : "Turkey", "score" : "485927" }
-{ "site" : "yarisdergisi.com", "country" : "Turkey", "score" : "372668" }
-{ "site" : "radyotvonline.com", "country" : "Turkey", "score" : "392261" }
-{ "site" : "yemekhatti.com", "country" : "Turkey", "score" : "431044" }
-{ "site" : "derinmor.com", "country" : "Turkey", "score" : "361038" }
-{ "site" : "yeniklasor.com", "country" : "Turkey", "score" : "303823" }
-{ "site" : "bozok.edu.tr", "country" : "Turkey", "score" : "291578" }
-{ "site" : "oyunturk.com", "country" : "Turkey", "score" : "453682" }
-{ "site" : "eodepo.com", "country" : "Turkey", "score" : "388730" }
-{ "site" : "avrupatr.com", "country" : "Turkey", "score" : "391267" }
-{ "site" : "kitapsepeti.com", "country" : "Turkey", "score" : "415191" }
-{ "site" : "ekadinca.com", "country" : "Turkey", "score" : "334948" }
-{ "site" : "yemek-tarifleri.com", "country" : "Turkey", "score" : "423208" }
-{ "site" : "falezhaber.com", "country" : "Turkey", "score" : "304093" }
-{ "site" : "sonduzluk.com", "country" : "Turkey", "score" : "456879" }
-{ "site" : "bitkirehberi.net", "country" : "Turkey", "score" : "496017" }
-{ "site" : "rizenabiz.com", "country" : "Turkey", "score" : "401252" }
-{ "site" : "fem.com.tr", "country" : "Turkey", "score" : "328127" }
-{ "site" : "birebirfikir.com", "country" : "Turkey", "score" : "509693" }
-{ "site" : "onurtemiz.com", "country" : "Turkey", "score" : "428975" }
-{ "site" : "surat.com.tr", "country" : "Turkey", "score" : "527752" }
-{ "site" : "umittopcan.net", "country" : "Turkey", "score" : "569488" }
-{
-	"site" : "kastamonupostasi.com",
-	"country" : "Turkey",
-	"score" : "480309"
-}
-{ "site" : "lafsozluk.com", "country" : "Turkey", "score" : "478218" }
-{ "site" : "firsatsevdasi.com", "country" : "Turkey", "score" : "331652" }
-{ "site" : "sesliremix.com", "country" : "Turkey", "score" : "454016" }
-{ "site" : "yalova.edu.tr", "country" : "Turkey", "score" : "416515" }
-{ "site" : "graficopy.com.tr", "country" : "Turkey", "score" : "410822" }
-{ "site" : "soulmy.net", "country" : "Turkey", "score" : "321538" }
-{ "site" : "pirebi.com", "country" : "Turkey", "score" : "660055" }
-{ "site" : "edizilerim.com", "country" : "Turkey", "score" : "321115" }
-{ "site" : "meshursozler.com", "country" : "Turkey", "score" : "366309" }
-{ "site" : "transfermerkez.com", "country" : "Turkey", "score" : "317144" }
-{ "site" : "calismadunyasi.com", "country" : "Turkey", "score" : "371517" }
-{ "site" : "sefageldiniz.com", "country" : "Turkey", "score" : "393149" }
-{ "site" : "yerelsecim.com", "country" : "Turkey", "score" : "468752" }
-{ "site" : "ilimdunyasi.com", "country" : "Turkey", "score" : "253768" }
-{ "site" : "onlinepeople.com", "country" : "Turkey", "score" : "424510" }
-{ "site" : "guraysuerdem.com", "country" : "Turkey", "score" : "472821" }
-{ "site" : "turkishcargo.com.tr", "country" : "Turkey", "score" : "373408" }
-{ "site" : "yazihaneden.com", "country" : "Turkey", "score" : "436411" }
-{
-	"site" : "alanyaticaretrehberi.com",
-	"country" : "Turkey",
-	"score" : "367905"
-}
-{ "site" : "armastil.com", "country" : "Turkey", "score" : "405730" }
-{ "site" : "androidciyiz.net", "country" : "Turkey", "score" : "385399" }
-{ "site" : "comtr.com.tr", "country" : "Turkey", "score" : "336326" }
-{ "site" : "sprymedia.co.uk", "country" : "Turkey", "score" : "430991" }
-{ "site" : "balerin.com", "country" : "Turkey", "score" : "327820" }
-{ "site" : "ellidokuz.com", "country" : "Turkey", "score" : "362486" }
-{ "site" : "tkd.org.tr", "country" : "Turkey", "score" : "358626" }
-{ "site" : "1ow.net", "country" : "Turkey", "score" : "990130" }
-{ "site" : "serhatatik.com.tr", "country" : "Turkey", "score" : "404325" }
-{ "site" : "sonvesayet.com", "country" : "Turkey", "score" : "606146" }
-{ "site" : "ufkumuz.com", "country" : "Turkey", "score" : "470090" }
-{ "site" : "mbirgin.com", "country" : "Turkey", "score" : "438772" }
-{ "site" : "icgiyimtoptan.com", "country" : "Turkey", "score" : "816947" }
-{ "site" : "lebriz.com", "country" : "Turkey", "score" : "388104" }
-{ "site" : "istihza.com", "country" : "Turkey", "score" : "463509" }
-{ "site" : "kobitek.com", "country" : "Turkey", "score" : "434919" }
-{ "site" : "oyunokyanusu.com", "country" : "Turkey", "score" : "423455" }
-{ "site" : "idata.com.tr", "country" : "Turkey", "score" : "463131" }
-{ "site" : "sekeryatirim.com", "country" : "Turkey", "score" : "439764" }
-{ "site" : "lojmi.com", "country" : "Turkey", "score" : "1047632" }
-{ "site" : "birincioyun.com", "country" : "Turkey", "score" : "435704" }
-{
-	"site" : "html-java-kod-bul.tr.gg",
-	"country" : "Turkey",
-	"score" : "352403"
-}
-{
-	"site" : "twitter-takipcim.net",
-	"country" : "Turkey",
-	"score" : "451717"
-}
-{ "site" : "thewhitetree.org", "country" : "Turkey", "score" : "373461" }
-{ "site" : "erzurummedya.com", "country" : "Turkey", "score" : "364599" }
-{ "site" : "zoosexclips.net", "country" : "Turkey", "score" : "154802" }
-{ "site" : "xprogaming.com", "country" : "Turkey", "score" : "380662" }
-{ "site" : "turkiyeturizm.com", "country" : "Turkey", "score" : "324879" }
-{ "site" : "uzmandil.com", "country" : "Turkey", "score" : "346402" }
-{ "site" : "pinar.com.tr", "country" : "Turkey", "score" : "461897" }
-{ "site" : "eskidji.com", "country" : "Turkey", "score" : "467022" }
-{ "site" : "moviesgaybears.com", "country" : "Turkey", "score" : "396718" }
-{ "site" : "ajansrize.net", "country" : "Turkey", "score" : "366013" }
-{ "site" : "nettaktik.biz", "country" : "Turkey", "score" : "365679" }
-{ "site" : "womendergisi.com", "country" : "Turkey", "score" : "385568" }
-{ "site" : "aljazeeratalk.net", "country" : "Turkey", "score" : "545345" }
-{ "site" : "tolgak.org", "country" : "Turkey", "score" : "292611" }
-{ "site" : "sonses.tv", "country" : "Turkey", "score" : "391372" }
-{ "site" : "filoturk.com", "country" : "Turkey", "score" : "363839" }
-{ "site" : "egzotiktatil.com", "country" : "Turkey", "score" : "402473" }
-{ "site" : "yargici.com.tr", "country" : "Turkey", "score" : "411342" }
-{ "site" : "marksist.org", "country" : "Turkey", "score" : "331554" }
-{ "site" : "josefislam.com", "country" : "Turkey", "score" : "568639" }
-{ "site" : "bilgibirikimi.net", "country" : "Turkey", "score" : "481138" }
-{ "site" : "aselsan.com.tr", "country" : "Turkey", "score" : "384689" }
-{ "site" : "tr-wp.com", "country" : "Turkey", "score" : "337365" }
-{ "site" : "kusadasinews.org", "country" : "Turkey", "score" : "1032228" }
-{ "site" : "oyunbul1.com", "country" : "Turkey", "score" : "440992" }
-{ "site" : "tarimsaati.com", "country" : "Turkey", "score" : "545322" }
-{ "site" : "kodhatasi.com", "country" : "Turkey", "score" : "346275" }
-{ "site" : "frivoyunlar.com", "country" : "Turkey", "score" : "926503" }
-{ "site" : "asports.com.tr", "country" : "Turkey", "score" : "371015" }
-{ "site" : "premiumtemplate.org", "country" : "Turkey", "score" : "378781" }
-{ "site" : "bilgidostum.com", "country" : "Turkey", "score" : "699190" }
-{ "site" : "neopazar.com", "country" : "Turkey", "score" : "319841" }
-{ "site" : "bursahaber.com", "country" : "Turkey", "score" : "271878" }
-{ "site" : "yazilimdevi.com", "country" : "Turkey", "score" : "388842" }
-{ "site" : "ahaport.com", "country" : "Turkey", "score" : "453410" }
-{
-	"site" : "telefondabekleme.com",
-	"country" : "Turkey",
-	"score" : "370346"
-}
-{ "site" : "gamesliga.com", "country" : "Turkey", "score" : "352079" }
-{ "site" : "erisale.com", "country" : "Turkey", "score" : "527787" }
-{ "site" : "kayra.com.tr", "country" : "Turkey", "score" : "289806" }
-{ "site" : "maxidosya.com", "country" : "Turkey", "score" : "418115" }
-{ "site" : "divaoutlet.com", "country" : "Turkey", "score" : "349845" }
-{ "site" : "avkolik.net", "country" : "Turkey", "score" : "454659" }
-{ "site" : "birdunyabilgi.org", "country" : "Turkey", "score" : "303079" }
-{
-	"site" : "dnsdegistirme.gen.tr",
-	"country" : "Turkey",
-	"score" : "555325"
-}
-{ "site" : "habercorlu.com", "country" : "Turkey", "score" : "459685" }
-{ "site" : "technotoday.com.tr", "country" : "Turkey", "score" : "403518" }
-{ "site" : "sag-lik.net", "country" : "Turkey", "score" : "397736" }
-{ "site" : "aksiyonkitap.com", "country" : "Turkey", "score" : "260866" }
-{
-	"site" : "abiyemodelleri2014.net",
-	"country" : "Turkey",
-	"score" : "429777"
-}
-{ "site" : "ilgazetesi.com.tr", "country" : "Turkey", "score" : "387744" }
-{ "site" : "yakuphoca.com", "country" : "Turkey", "score" : "381949" }
-{ "site" : "boyabatgazetesi.com", "country" : "Turkey", "score" : "456733" }
-{ "site" : "toplumail.com", "country" : "Turkey", "score" : "439953" }
-{ "site" : "sinematur.com", "country" : "Turkey", "score" : "422582" }
-{ "site" : "buzzgency.com", "country" : "Turkey", "score" : "279908" }
-{ "site" : "bilgievi.gen.tr", "country" : "Turkey", "score" : "349173" }
-{ "site" : "otel.org", "country" : "Turkey", "score" : "498587" }
-{ "site" : "dumanhost.com", "country" : "Turkey", "score" : "398391" }
-{ "site" : "ugurkizmaz.com", "country" : "Turkey", "score" : "465144" }
-{ "site" : "femyayinlari.com.tr", "country" : "Turkey", "score" : "451356" }
-{ "site" : "net-haberler.com", "country" : "Turkey", "score" : "338025" }
-{ "site" : "myro.net", "country" : "Turkey", "score" : "371606" }
-{ "site" : "iizle.co", "country" : "Turkey", "score" : "206179" }
-{ "site" : "artservers.com.tr", "country" : "Turkey", "score" : "439038" }
-{ "site" : "pembeyastik.com", "country" : "Turkey", "score" : "394025" }
-{
-	"site" : "beypazarihaber24.com",
-	"country" : "Turkey",
-	"score" : "559789"
-}
-{ "site" : "akillibinam.com", "country" : "Turkey", "score" : "420339" }
-{ "site" : "filmizleyo.com", "country" : "Turkey", "score" : "259274" }
-{ "site" : "verisay.com", "country" : "Turkey", "score" : "442269" }
-{ "site" : "aeproject.net", "country" : "Turkey", "score" : "474604" }
-{ "site" : "erayonline.com", "country" : "Turkey", "score" : "459602" }
+
+ 
+   "children": 
+   
+		[{ "name" : "google.com.tr", "country" : "Turkey", "size": "79" },
+				{ "name" : "hurriyet.com.tr", "country" : "Turkey", "size": "248" },
+				{ "name" : "milliyet.com.tr", "country" : "Turkey", "size": "284" },
+				{ "name" : "sahibinden.com", "country" : "Turkey", "size": "470" },
+				{ "name" : "haber7.com", "country" : "Turkey", "size": "560" },
+				{ "name" : "blogspot.com.tr", "country" : "Turkey", "size": "1432" },
+				{ "name" : "r10.net", "country" : "Turkey", "size": "636" },
+				{ "name" : "mynet.com", "country" : "Turkey", "size": "626" },
+				{ "name" : "yandex.com.tr", "country" : "Turkey", "size": "684" },
+				{ "name" : "haberturk.com", "country" : "Turkey", "size": "653" },
+				{ "name" : "mackolik.com", "country" : "Turkey", "size": "764" },
+				{ "name" : "sporx.com", "country" : "Turkey", "size": "904" },
+				{ "name" : "sahadan.com", "country" : "Turkey", "size": "838" },
+				{ "name" : "ensonhaber.com", "country" : "Turkey", "size": "939" },
+				{ "name" : "oyunskor.com", "country" : "Turkey", "size": "805" },
+				{ "name" : "haberler.com", "country" : "Turkey", "size": "1078" },
+				{ "name" : "sourtimes.org", "country" : "Turkey", "size": "1218" },
+				{ "name" : "gittigidiyor.com", "country" : "Turkey", "size": "979" },
+				{ "name" : "donanimhaber.com", "country" : "Turkey", "size": "1094" },
+				{ "name" : "sabah.com.tr", "country" : "Turkey", "size": "1174" },
+				{ "name" : "garanti.com.tr", "country" : "Turkey", "size": "1284" },
+				{ "name" : "samanyoluhaber.com", "country" : "Turkey", "size": "1346" },
+				{ "name" : "sozcu.com.tr", "country" : "Turkey", "size": "1421" },
+				{ "name" : "wmaraci.com", "country" : "Turkey", "size": "1771" },
+				{ "name" : "yenisafak.com.tr", "country" : "Turkey", "size": "1859" },
+				{ "name" : "hepsiburada.com", "country" : "Turkey", "size": "1551" },
+				{ "name" : "kariyer.net", "country" : "Turkey", "size": "1892" },
+				{ "name" : "radikal.com.tr", "country" : "Turkey", "size": "1838" },
+				{ "name" : "vatanim.com.tr", "country" : "Turkey", "size": "1817" },
+				{ "name" : "zaman.com.tr", "country" : "Turkey", "size": "1910" },
+				{ "name" : "internethaber.com", "country" : "Turkey", "size": "1733" },
+				{ "name" : "bc.vc", "country" : "Turkey", "size": "1971" },
+				{ "name" : "fanatik.com.tr", "country" : "Turkey", "size": "1933" },
+				{ "name" : "odatv.com", "country" : "Turkey", "size": "2818" },
+				{ "name" : "ntvmsnbc.com", "country" : "Turkey", "size": "2365" },
+				{ "name" : "yabancidiziizle1.com", "country" : "Turkey", "size": "2662" },
+				{ "name" : "ligtv.com.tr", "country" : "Turkey", "size": "2999" },
+				{ "name" : "milliyet.tv", "country" : "Turkey", "size": "2990" },
+				{ "name" : "stargazete.com", "country" : "Turkey", "size": "2927" },
+				{ "name" : "startv.com.tr", "country" : "Turkey", "size": "3330" },
+				{ "name" : "filmifullizle.com", "country" : "Turkey", "size": "2631" },
+				{ "name" : "n11.com", "country" : "Turkey", "size": "3300" },
+				{ "name" : "ntvspor.net", "country" : "Turkey", "size": "3472" },
+				{ "name" : "onedio.com", "country" : "Turkey", "size": "4056" },
+				{ "name" : "acunn.com", "country" : "Turkey", "size": "3124" },
+				{ "name" : "isbank.com.tr", "country" : "Turkey", "size": "3498" },
+				{ "name" : "meb.gov.tr", "country" : "Turkey", "size": "2195" },
+				{ "name" : "yazete.com", "country" : "Turkey", "size": "3344" },
+				{ "name" : "turkishairlines.com", "country" : "Turkey", "size": "3526" },
+				{ "name" : "kanald.com.tr", "country" : "Turkey", "size": "3533" },
+				{ "name" : "eurosport.com", "country" : "Turkey", "size": "3210" },
+				{ "name" : "gezinti.com", "country" : "Turkey", "size": "3917" },
+				{ "name" : "memurlar.net", "country" : "Turkey", "size": "3678" },
+				{ "name" : "cumhuriyet.com.tr", "country" : "Turkey", "size": "3386" },
+				{ "name" : "hizliresim.com", "country" : "Turkey", "size": "3964" },
+				{ "name" : "hotfile.com", "country" : "Turkey", "size": "2781" },
+				{ "name" : "sanalpazar.com", "country" : "Turkey", "size": "3887" },
+				{ "name" : "izlesene.com", "country" : "Turkey", "size": "3661" },
+				{ "name" : "amkspor.com", "country" : "Turkey", "size": "4424" },
+				{ "name" : "ykb.com", "country" : "Turkey", "size": "4354" },
+				{ "name" : "webaslan.com", "country" : "Turkey", "size": "3670" },
+				{ "name" : "skorer.tv", "country" : "Turkey", "size": "4268" },
+				{ "name" : "ttnet.com.tr", "country" : "Turkey", "size": "3785" },
+				{ "name" : "uludagsozluk.com", "country" : "Turkey", "size": "4190" },
+				{ "name" : "akakce.com", "country" : "Turkey", "size": "4618" },
+				{ "name" : "blogcu.com", "country" : "Turkey", "size": "4145" },
+				{
+					"name" : "alkislarlayasiyorum.com",
+					"country" : "Turkey",
+					"size": "5582"
+				},
+				{ "name" : "frmtr.com", "country" : "Turkey", "size": "4766" },
+				{ "name" : "karnaval.com", "country" : "Turkey", "size": "4566" },
+				{ "name" : "sayyac.com", "country" : "Turkey", "size": "4821" },
+				{ "name" : "shiftdelete.net", "country" : "Turkey", "size": "4303" },
+				{ "name" : "tamindir.com", "country" : "Turkey", "size": "4661" },
+				{ "name" : "bugun.com.tr", "country" : "Turkey", "size": "4212" },
+				{ "name" : "trendyol.com", "country" : "Turkey", "size": "4662" },
+				{ "name" : "divxplanet.com", "country" : "Turkey", "size": "4967" },
+				{ "name" : "memuruz.net", "country" : "Turkey", "size": "5300" },
+				{ "name" : "sondakika.com", "country" : "Turkey", "size": "5823" },
+				{ "name" : "silikonvadisi.tv", "country" : "Turkey", "size": "6929" },
+				{ "name" : "aksam.com.tr", "country" : "Turkey", "size": "5511" },
+				{ "name" : "fullhdfilmizle.org", "country" : "Turkey", "size": "4482" },
+				{ "name" : "habervaktim.com", "country" : "Turkey", "size": "4856" },
+				{ "name" : "vatanbilgisayar.com", "country" : "Turkey", "size": "5030" },
+				{ "name" : "fotomac.com.tr", "country" : "Turkey", "size": "4810" },
+				{ "name" : "markafoni.com", "country" : "Turkey", "size": "4971" },
+				{ "name" : "webmastersitesi.com", "country" : "Turkey", "size": "5685" },
+				{ "name" : "chip.com.tr", "country" : "Turkey", "size": "5500" },
+				{ "name" : "sinemalar.com", "country" : "Turkey", "size": "5253" },
+				{ "name" : "turkcell.com.tr", "country" : "Turkey", "size": "5724" },
+				{ "name" : "aa.com.tr", "country" : "Turkey", "size": "6265" },
+				{ "name" : "drakensang.com", "country" : "Turkey", "size": "4371" },
+				{ "name" : "anadolu.edu.tr", "country" : "Turkey", "size": "6002" },
+				{ "name" : "itusozluk.com", "country" : "Turkey", "size": "6221" },
+				{ "name" : "isimtescil.net", "country" : "Turkey", "size": "6075" },
+				{ "name" : "hepsibahis3.com", "country" : "Turkey", "size": "6617" },
+				{ "name" : "akbank.com", "country" : "Turkey", "size": "6789" },
+				{ "name" : "iha.com.tr", "country" : "Turkey", "size": "7442" },
+				{ "name" : "reventmedia.com", "country" : "Turkey", "size": "10111" },
+				{ "name" : "aktifhaber.com", "country" : "Turkey", "size": "6274" },
+				{ "name" : "posta.com.tr", "country" : "Turkey", "size": "6519" },
+				{ "name" : "cnnturk.com", "country" : "Turkey", "size": "6827" },
+				{ "name" : "seslisozluk.net", "country" : "Turkey", "size": "7037" },
+				{ "name" : "hurriyetemlak.com", "country" : "Turkey", "size": "7070" },
+				{ "name" : "morpakampus.com", "country" : "Turkey", "size": "5348" },
+				{ "name" : "flypgs.com", "country" : "Turkey", "size": "7235" },
+				{ "name" : "t24.com.tr", "country" : "Turkey", "size": "7366" },
+				{ "name" : "kadinlarkulubu.com", "country" : "Turkey", "size": "6982" },
+				{ "name" : "rotahaber.com", "country" : "Turkey", "size": "6984" },
+				{ "name" : "gezginler.net", "country" : "Turkey", "size": "7324" },
+				{ "name" : "teknosa.com", "country" : "Turkey", "size": "6388" },
+				{ "name" : "haber3.com", "country" : "Turkey", "size": "6883" },
+				{ "name" : "bigpara.com", "country" : "Turkey", "size": "6461" },
+				{ "name" : "turkiye.gov.tr", "country" : "Turkey", "size": "7073" },
+				{ "name" : "minikoyuncu.com", "country" : "Turkey", "size": "7659" },
+				{ "name" : "dha.com.tr", "country" : "Turkey", "size": "7581" },
+				{ "name" : "iyinet.com", "country" : "Turkey", "size": "8691" },
+				{ "name" : "webrazzi.com", "country" : "Turkey", "size": "8412" },
+				{ "name" : "f5haber.com", "country" : "Turkey", "size": "7177" },
+				{
+					"name" : "turkiyegazetesi.com.tr",
+					"country" : "Turkey",
+					"size": "7957"
+				},
+				{ "name" : "kraloyun.com", "country" : "Turkey", "size": "7667" },
+				{ "name" : "ddizi.org", "country" : "Turkey", "size": "6378" },
+				{ "name" : "elemanonline.net", "country" : "Turkey", "size": "7971" },
+				{ "name" : "nesine.com", "country" : "Turkey", "size": "7776" },
+				{ "name" : "takvim.com.tr", "country" : "Turkey", "size": "7840" },
+				{ "name" : "ajansspor.com", "country" : "Turkey", "size": "7897" },
+				{ "name" : "travian.com.tr", "country" : "Turkey", "size": "7569" },
+				{ "name" : "doviz.com", "country" : "Turkey", "size": "7488" },
+				{ "name" : "natro.com", "country" : "Turkey", "size": "9492" },
+				{ "name" : "vidivodo.com", "country" : "Turkey", "size": "8381" },
+				{ "name" : "fuub.net", "country" : "Turkey", "size": "9826" },
+				{ "name" : "tureng.com", "country" : "Turkey", "size": "8526" },
+				{ "name" : "bilyoner.com", "country" : "Turkey", "size": "8837" },
+				{ "name" : "yemeksepeti.com", "country" : "Turkey", "size": "9590" },
+				{ "name" : "atv.com.tr", "country" : "Turkey", "size": "8336" },
+				{ "name" : "trthaber.com", "country" : "Turkey", "size": "8588" },
+				{ "name" : "turkcealtyazi.org", "country" : "Turkey", "size": "9456" },
+				{ "name" : "beyazperde.com", "country" : "Turkey", "size": "9318" },
+				{ "name" : "nediyor.com", "country" : "Turkey", "size": "9982" },
+				{ "name" : "vodafone.com.tr", "country" : "Turkey", "size": "9453" },
+				{ "name" : "yokboylebirsey.com.tr", "country" : "Turkey", "size": "8353" },
+				{ "name" : "sacitaslan.com", "country" : "Turkey", "size": "8530" },
+				{ "name" : "morhipo.com", "country" : "Turkey", "size": "9420" },
+				{ "name" : "finansbank.com.tr", "country" : "Turkey", "size": "9433" },
+				{ "name" : "sgk.gov.tr", "country" : "Turkey", "size": "10386" },
+				{ "name" : "uzmantv.com", "country" : "Turkey", "size": "9652" },
+				{ "name" : "yenibiris.com", "country" : "Turkey", "size": "9676" },
+				{ "name" : "tvyo.com", "country" : "Turkey", "size": "10929" },
+				{ "name" : "bicaps.net", "country" : "Turkey", "size": "14827" },
+				{ "name" : "showhaber.com", "country" : "Turkey", "size": "9490" },
+				{ "name" : "canlidizihdtv.com", "country" : "Turkey", "size": "13852" },
+				{ "name" : "komikcaps.net", "country" : "Turkey", "size": "22760" },
+				{ "name" : "hizlial.com", "country" : "Turkey", "size": "9188" },
+				{ "name" : "ulusalpost.com", "country" : "Turkey", "size": "10518" },
+				{ "name" : "ucuzu.com", "country" : "Turkey", "size": "9739" },
+				{ "name" : "starsue.net", "country" : "Turkey", "size": "9940" },
+				{ "name" : "ziraatbank.com.tr", "country" : "Turkey", "size": "10977" },
+				{ "name" : "gold.com.tr", "country" : "Turkey", "size": "9204" },
+				{ "name" : "digiturkplay.com.tr", "country" : "Turkey", "size": "13401" },
+				{ "name" : "filmizlesene.com.tr", "country" : "Turkey", "size": "13544" },
+				{ "name" : "gercekgundem.com", "country" : "Turkey", "size": "10840" },
+				{ "name" : "osym.gov.tr", "country" : "Turkey", "size": "10516" },
+				{ "name" : "6bets10.com", "country" : "Turkey", "size": "10657" },
+				{ "name" : "sikayetvar.com", "country" : "Turkey", "size": "10792" },
+				{ "name" : "tff.org", "country" : "Turkey", "size": "12087" },
+				{ "name" : "mansettv.com", "country" : "Turkey", "size": "14297" },
+				{ "name" : "gemius.com.tr", "country" : "Turkey", "size": "6273" },
+				{
+					"name" : "binaryoptionsbrands.com",
+					"country" : "Turkey",
+					"size": "20454"
+				},
+				{ "name" : "yurticikargo.com", "country" : "Turkey", "size": "10748" },
+				{ "name" : "ninjacloak.com", "country" : "Turkey", "size": "12241" },
+				{ "name" : "hdfilmsitesi.org", "country" : "Turkey", "size": "10415" },
+				{ "name" : "mgm.gov.tr", "country" : "Turkey", "size": "9744" },
+				{ "name" : "avea.com.tr", "country" : "Turkey", "size": "11453" },
+				{ "name" : "limango.com.tr", "country" : "Turkey", "size": "11023" },
+				{ "name" : "vakifbank.com.tr", "country" : "Turkey", "size": "11711" },
+				{ "name" : "kakade.net", "country" : "Turkey", "size": "15508" },
+				{ "name" : "superonline.net", "country" : "Turkey", "size": "13301" },
+				{ "name" : "gazeteoku.com", "country" : "Turkey", "size": "12079" },
+				{ "name" : "bimeks.com.tr", "country" : "Turkey", "size": "11250" },
+				{ "name" : "seohocasi.com", "country" : "Turkey", "size": "14079" },
+				{ "name" : "halkbank.com.tr", "country" : "Turkey", "size": "11934" },
+				{ "name" : "ptt.gov.tr", "country" : "Turkey", "size": "11416" },
+				{ "name" : "kitapyurdu.com", "country" : "Turkey", "size": "11211" },
+				{ "name" : "onlinewebstats.com", "country" : "Turkey", "size": "13811" },
+				{ "name" : "tubiba.com", "country" : "Turkey", "size": "13099" },
+				{ "name" : "dizist.com", "country" : "Turkey", "size": "17382" },
+				{ "name" : "dr.com.tr", "country" : "Turkey", "size": "12413" },
+				{ "name" : "kizlarsoruyor.com", "country" : "Turkey", "size": "11795" },
+				{ "name" : "harika-dizi.net", "country" : "Turkey", "size": "14394" },
+				{ "name" : "ibb.gov.tr", "country" : "Turkey", "size": "13319" },
+				{
+					"name" : "istanbulbilisim.com.tr",
+					"country" : "Turkey",
+					"size": "12788"
+				},
+				{ "name" : "yemle.com", "country" : "Turkey", "size": "12129" },
+				{ "name" : "trt.net.tr", "country" : "Turkey", "size": "14348" },
+				{ "name" : "ahaber.com.tr", "country" : "Turkey", "size": "13433" },
+				{ "name" : "idefix.com", "country" : "Turkey", "size": "13191" },
+				{ "name" : "canliskor.com", "country" : "Turkey", "size": "14207" },
+				{ "name" : "kure.tv", "country" : "Turkey", "size": "13050" },
+				{ "name" : "mediamarkt.com.tr", "country" : "Turkey", "size": "11596" },
+				{ "name" : "geliyoo.com", "country" : "Turkey", "size": "14386" },
+				{ "name" : "rokettube.info", "country" : "Turkey", "size": "36999" },
+				{ "name" : "netgazete.com", "country" : "Turkey", "size": "14578" },
+				{ "name" : "unutulmazfilmler.com", "country" : "Turkey", "size": "13334" },
+				{ "name" : "publicgfvideos.com", "country" : "Turkey", "size": "15226" },
+				{ "name" : "haberzamani.com", "country" : "Turkey", "size": "14731" },
+				{ "name" : "imgim.com", "country" : "Turkey", "size": "16572" },
+				{ "name" : "araskargo.com.tr", "country" : "Turkey", "size": "15146" },
+				{ "name" : "vtunnel.com", "country" : "Turkey", "size": "14868" },
+				{ "name" : "e-destek.com", "country" : "Turkey", "size": "14805" },
+				{ "name" : "goalsarena.org", "country" : "Turkey", "size": "15728" },
+				{ "name" : "denizbank.com", "country" : "Turkey", "size": "14674" },
+				{ "name" : "zargan.com", "country" : "Turkey", "size": "15336" },
+				{ "name" : "zaytung.com", "country" : "Turkey", "size": "12508" },
+				{ "name" : "piramithaber.com", "country" : "Turkey", "size": "15110" },
+				{ "name" : "haberfx.net", "country" : "Turkey", "size": "15203" },
+				{ "name" : "timeturk.com", "country" : "Turkey", "size": "13083" },
+				{ "name" : "whois.com.tr", "country" : "Turkey", "size": "15166" },
+				{ "name" : "arabam.com", "country" : "Turkey", "size": "14296" },
+				{ "name" : "turktelekom.com.tr", "country" : "Turkey", "size": "15147" },
+				{ "name" : "biletix.com", "country" : "Turkey", "size": "17089" },
+				{ "name" : "oyunkolu.com", "country" : "Turkey", "size": "13758" },
+				{ "name" : "taraf.com.tr", "country" : "Turkey", "size": "12866" },
+				{ "name" : "thy.com", "country" : "Turkey", "size": "15248" },
+				{ "name" : "galatasaray.org", "country" : "Turkey", "size": "13625" },
+				{ "name" : "teb.com.tr", "country" : "Turkey", "size": "15676" },
+				{ "name" : "firmasec.com", "country" : "Turkey", "size": "16366" },
+				{ "name" : "diziizlesem.net", "country" : "Turkey", "size": "12774" },
+				{ "name" : "oyunlar1.com", "country" : "Turkey", "size": "16454" },
+				{ "name" : "sol.org.tr", "country" : "Turkey", "size": "14299" },
+				{ "name" : "bestsportgo.tv", "country" : "Turkey", "size": "18079" },
+				{ "name" : "haber1903.com", "country" : "Turkey", "size": "15150" },
+				{ "name" : "59saniye.com", "country" : "Turkey", "size": "17827" },
+				{ "name" : "bursadabugun.com", "country" : "Turkey", "size": "13253" },
+				{ "name" : "ihs.com.tr", "country" : "Turkey", "size": "16757" },
+				{ "name" : "medyanetads.com", "country" : "Turkey", "size": "12468" },
+				{ "name" : "millipiyango.gov.tr", "country" : "Turkey", "size": "12482" },
+				{ "name" : "gib.gov.tr", "country" : "Turkey", "size": "12686" },
+				{ "name" : "tahribat.com", "country" : "Turkey", "size": "16551" },
+				{ "name" : "showtvnet.com", "country" : "Turkey", "size": "18662" },
+				{
+					"name" : "hastanerandevu.gov.tr",
+					"country" : "Turkey",
+					"size": "16725"
+				},
+				{ "name" : "canliskor.com.tr", "country" : "Turkey", "size": "19959" },
+				{ "name" : "oyunmoyun.com", "country" : "Turkey", "size": "13807" },
+				{ "name" : "ytpara.com", "country" : "Turkey", "size": "16649" },
+				{ "name" : "ceviz.net", "country" : "Turkey", "size": "17732" },
+				{ "name" : "inciswf.com", "country" : "Turkey", "size": "14987" },
+				{
+					"name" : "fullprogramlarindir.com",
+					"country" : "Turkey",
+					"size": "18299"
+				},
+				{
+					"name" : "ingilizceturkce.gen.tr",
+					"country" : "Turkey",
+					"size": "16338"
+				},
+				{ "name" : "milliyetemlak.com", "country" : "Turkey", "size": "16734" },
+				{ "name" : "haberand.com", "country" : "Turkey", "size": "15369" },
+				{ "name" : "ulkehaber.com", "country" : "Turkey", "size": "20465" },
+				{
+					"name" : "nefisyemektarifleri.com",
+					"country" : "Turkey",
+					"size": "15576"
+				},
+				{ "name" : "nedir.com", "country" : "Turkey", "size": "16763" },
+				{ "name" : "turkweb.tv", "country" : "Turkey", "size": "17784" },
+				{ "name" : "ziraat.com.tr", "country" : "Turkey", "size": "17951" },
+				{ "name" : "emlakkulisi.com", "country" : "Turkey", "size": "18131" },
+				{ "name" : "forumdas.net", "country" : "Turkey", "size": "15053" },
+				{ "name" : "onlinenic.com", "country" : "Turkey", "size": "18473" },
+				{ "name" : "znoo.net", "country" : "Turkey", "size": "16791" },
+				{ "name" : "oyungoo.com", "country" : "Turkey", "size": "29456" },
+				{ "name" : "cihan.com.tr", "country" : "Turkey", "size": "16895" },
+				{ "name" : "stopstream.tv", "country" : "Turkey", "size": "19977" },
+				{ "name" : "fenerbahce.org", "country" : "Turkey", "size": "22309" },
+				{ "name" : "haber365.com", "country" : "Turkey", "size": "16168" },
+				{ "name" : "railnation.com.tr", "country" : "Turkey", "size": "18081" },
+				{ "name" : "sehirfirsati.com", "country" : "Turkey", "size": "16425" },
+				{ "name" : "ellerimesaglik.com", "country" : "Turkey", "size": "17731" },
+				{ "name" : "sporbahis.com", "country" : "Turkey", "size": "20962" },
+				{ "name" : "nedirnedemek.com", "country" : "Turkey", "size": "16959" },
+				{ "name" : "ulusalkanal.com.tr", "country" : "Turkey", "size": "18234" },
+				{ "name" : "kliksa.com", "country" : "Turkey", "size": "16816" },
+				{ "name" : "iddaa.com", "country" : "Turkey", "size": "19944" },
+				{ "name" : "teknolojioku.com", "country" : "Turkey", "size": "16383" },
+				{ "name" : "maxicep.com", "country" : "Turkey", "size": "18397" },
+				{ "name" : "sozlukspot.com", "country" : "Turkey", "size": "17308" },
+				{ "name" : "misli.com", "country" : "Turkey", "size": "16904" },
+				{ "name" : "bankasya.com.tr", "country" : "Turkey", "size": "17661" },
+				{ "name" : "dizihdtv.net", "country" : "Turkey", "size": "20071" },
+				{ "name" : "torrent-oyun.com", "country" : "Turkey", "size": "16291" },
+				{ "name" : "turkhackteam.net", "country" : "Turkey", "size": "18857" },
+				{ "name" : "jetfilmizle.com", "country" : "Turkey", "size": "17127" },
+				{ "name" : "kuveytturk.com.tr", "country" : "Turkey", "size": "19651" },
+				{ "name" : "oyuncini.com", "country" : "Turkey", "size": "21336" },
+				{ "name" : "diziwu.com", "country" : "Turkey", "size": "19400" },
+				{ "name" : "tuttur.com", "country" : "Turkey", "size": "19608" },
+				{ "name" : "web.tv", "country" : "Turkey", "size": "18015" },
+				{ "name" : "ciceksepeti.com", "country" : "Turkey", "size": "22432" },
+				{ "name" : "reklamstore.com", "country" : "Turkey", "size": "19318" },
+				{ "name" : "alternatifim.com", "country" : "Turkey", "size": "16513" },
+				{ "name" : "buldumbuldum.com", "country" : "Turkey", "size": "18643" },
+				{ "name" : "beyazgazete.com", "country" : "Turkey", "size": "16390" },
+				{ "name" : "dmi.gov.tr", "country" : "Turkey", "size": "19114" },
+				{ "name" : "bkm.com.tr", "country" : "Turkey", "size": "19517" },
+				{ "name" : "tjk.org", "country" : "Turkey", "size": "21617" },
+				{ "name" : "antoloji.com", "country" : "Turkey", "size": "18125" },
+				{ "name" : "hsbc.com.tr", "country" : "Turkey", "size": "19108" },
+				{ "name" : "bloomberght.com", "country" : "Turkey", "size": "18698" },
+				{ "name" : "technopat.net", "country" : "Turkey", "size": "22023" },
+				{ "name" : "medya365.com", "country" : "Turkey", "size": "25945" },
+				{ "name" : "mahmure.com", "country" : "Turkey", "size": "19559" },
+				{ "name" : "fizy.com", "country" : "Turkey", "size": "17582" },
+				{ "name" : "ecanlitvizle.com", "country" : "Turkey", "size": "18715" },
+				{ "name" : "zone-h.org", "country" : "Turkey", "size": "18464" },
+				{ "name" : "hurriyetaile.com", "country" : "Turkey", "size": "20483" },
+				{ "name" : "oyunlari.net", "country" : "Turkey", "size": "19106" },
+				{ "name" : "egitimnerede.com", "country" : "Turkey", "size": "19122" },
+				{ "name" : "tdk.gov.tr", "country" : "Turkey", "size": "20015" },
+				{ "name" : "teknokulis.com", "country" : "Turkey", "size": "20783" },
+				{ "name" : "gazeteler.com", "country" : "Turkey", "size": "19386" },
+				{ "name" : "vine.tc", "country" : "Turkey", "size": "46974" },
+				{ "name" : "fullhdfilmsaati.net", "country" : "Turkey", "size": "23341" },
+				{ "name" : "fox.com.tr", "country" : "Turkey", "size": "19759" },
+				{ "name" : "dosya.tc", "country" : "Turkey", "size": "21067" },
+				{ "name" : "yeppudaa.com", "country" : "Turkey", "size": "17084" },
+				{ "name" : "oyunuoyna.com", "country" : "Turkey", "size": "19384" },
+				{ "name" : "connected2.me", "country" : "Turkey", "size": "18603" },
+				{ "name" : "secretcv.com", "country" : "Turkey", "size": "11503" },
+				{ "name" : "enguzeloyunlar.net", "country" : "Turkey", "size": "18606" },
+				{ "name" : "haberartibir.com.tr", "country" : "Turkey", "size": "32747" },
+				{ "name" : "enpara.com", "country" : "Turkey", "size": "20091" },
+				{ "name" : "itu.edu.tr", "country" : "Turkey", "size": "19747" },
+				{ "name" : "niaporn.com", "country" : "Turkey", "size": "30190" },
+				{ "name" : "e-bebek.com", "country" : "Turkey", "size": "23717" },
+				{ "name" : "listelist.com", "country" : "Turkey", "size": "18013" },
+				{ "name" : "dizideizle.org", "country" : "Turkey", "size": "22997" },
+				{ "name" : "trendwp.com", "country" : "Turkey", "size": "21691" },
+				{ "name" : "wowturkey.com", "country" : "Turkey", "size": "22345" },
+				{ "name" : "bobiler.org", "country" : "Turkey", "size": "20351" },
+				{ "name" : "karakartal.com", "country" : "Turkey", "size": "19261" },
+				{ "name" : "onedate.com", "country" : "Turkey", "size": "20596" },
+				{ "name" : "adhood.com", "country" : "Turkey", "size": "22494" },
+				{ "name" : "reklamaction.com", "country" : "Turkey", "size": "25076" },
+				{ "name" : "cyber-warrior.org", "country" : "Turkey", "size": "23041" },
+				{ "name" : "sosyalmedya.co", "country" : "Turkey", "size": "23008" },
+				{ "name" : "canlitv.com", "country" : "Turkey", "size": "19067" },
+				{ "name" : "turkeyforum.com", "country" : "Turkey", "size": "21825" },
+				{ "name" : "diyanet.gov.tr", "country" : "Turkey", "size": "22076" },
+				{ "name" : "homepage.com.tr", "country" : "Turkey", "size": "19422" },
+				{ "name" : "enuygun.com", "country" : "Turkey", "size": "23779" },
+				{ "name" : "joygame.com", "country" : "Turkey", "size": "20692" },
+				{ "name" : "warezturkey.net", "country" : "Turkey", "size": "20921" },
+				{ "name" : "hizliizlefilm.com", "country" : "Turkey", "size": "17124" },
+				{ "name" : "afiyetle.com", "country" : "Turkey", "size": "23244" },
+				{ "name" : "turkanime.tv", "country" : "Turkey", "size": "22460" },
+				{ "name" : "peniwoldturkiye.com", "country" : "Turkey", "size": "18810" },
+				{ "name" : "720pizle.com", "country" : "Turkey", "size": "24038" },
+				{ "name" : "redstation.co.uk", "country" : "Turkey", "size": "22822" },
+				{ "name" : "oyungemisi.com", "country" : "Turkey", "size": "22256" },
+				{ "name" : "iddaalihaber.com", "country" : "Turkey", "size": "23591" },
+				{ "name" : "turhost.com", "country" : "Turkey", "size": "23513" },
+				{ "name" : "ysk.gov.tr", "country" : "Turkey", "size": "23927" },
+				{ "name" : "siterobot.com", "country" : "Turkey", "size": "26489" },
+				{
+					"name" : "fulldiziizleyelim.net",
+					"country" : "Turkey",
+					"size": "18040"
+				},
+				{ "name" : "evidea.com", "country" : "Turkey", "size": "24155" },
+				{ "name" : "cozumpark.com", "country" : "Turkey", "size": "27217" },
+				{ "name" : "pencere.com", "country" : "Turkey", "size": "24914" },
+				{ "name" : "canlidiziizleyin.com", "country" : "Turkey", "size": "28894" },
+				{ "name" : "habergazete.com", "country" : "Turkey", "size": "25031" },
+				{ "name" : "tracklab101.com", "country" : "Turkey", "size": "10256" },
+				{ "name" : "lidyana.com", "country" : "Turkey", "size": "22184" },
+				{ "name" : "tubitak.gov.tr", "country" : "Turkey", "size": "27126" },
+				{ "name" : "medyatava.com", "country" : "Turkey", "size": "21650" },
+				{ "name" : "gazetea24.com", "country" : "Turkey", "size": "20242" },
+				{ "name" : "egitimhane.com", "country" : "Turkey", "size": "22689" },
+				{ "name" : "pcnet.com.tr", "country" : "Turkey", "size": "22511" },
+				{ "name" : "medyaradar.com", "country" : "Turkey", "size": "24166" },
+				{ "name" : "mybilet.com", "country" : "Turkey", "size": "27457" },
+				{ "name" : "araba.com", "country" : "Turkey", "size": "23129" },
+				{ "name" : "tcmb.gov.tr", "country" : "Turkey", "size": "22878" },
+				{ "name" : "akormerkezi.com", "country" : "Turkey", "size": "24439" },
+				{ "name" : "metu.edu.tr", "country" : "Turkey", "size": "22967" },
+				{ "name" : "hdizlefilmi.net", "country" : "Turkey", "size": "24970" },
+				{ "name" : "evmanya.com", "country" : "Turkey", "size": "24316" },
+				{ "name" : "yellowpages.com.tr", "country" : "Turkey", "size": "24857" },
+				{ "name" : "anathemes.com", "country" : "Turkey", "size": "25442" },
+				{ "name" : "etstur.com", "country" : "Turkey", "size": "25960" },
+				{ "name" : "doktorsitesi.com", "country" : "Turkey", "size": "25506" },
+				{ "name" : "secimanketi.tv", "country" : "Turkey", "size": "30882" },
+				{ "name" : "analizmerkezi.com", "country" : "Turkey", "size": "26284" },
+				{ "name" : "ni.net.tr", "country" : "Turkey", "size": "28719" },
+				{ "name" : "merlininkazani.com", "country" : "Turkey", "size": "24871" },
+				{ "name" : "orjinalmarket.net", "country" : "Turkey", "size": "22753" },
+				{ "name" : "dictionarist.com", "country" : "Turkey", "size": "22680" },
+				{ "name" : "webmaster.tc", "country" : "Turkey", "size": "32474" },
+				{ "name" : "ecift.com", "country" : "Turkey", "size": "24300" },
+				{ "name" : "1v1y.com", "country" : "Turkey", "size": "25142" },
+				{ "name" : "direkizle.com", "country" : "Turkey", "size": "23318" },
+				{ "name" : "diyadinnet.com", "country" : "Turkey", "size": "24453" },
+				{ "name" : "modanisa.com", "country" : "Turkey", "size": "27007" },
+				{ "name" : "zizigo.com", "country" : "Turkey", "size": "23084" },
+				{ "name" : "suratkargo.com.tr", "country" : "Turkey", "size": "25573" },
+				{ "name" : "vizyonfilmizle.net", "country" : "Turkey", "size": "27417" },
+				{ "name" : "transfermarkt.com.tr", "country" : "Turkey", "size": "18974" },
+				{ "name" : "haberdar.com", "country" : "Turkey", "size": "22050" },
+				{ "name" : "funpic.de", "country" : "Turkey", "size": "23791" },
+				{ "name" : "gecce.com", "country" : "Turkey", "size": "23461" },
+				{ "name" : "cezmikalorifer.com", "country" : "Turkey", "size": "26264" },
+				{ "name" : "stilgiyin.com", "country" : "Turkey", "size": "24341" },
+				{ "name" : "sadecehosting.com", "country" : "Turkey", "size": "26161" },
+				{ "name" : "lcwaikiki.com", "country" : "Turkey", "size": "24028" },
+				{ "name" : "istanbul.edu.tr", "country" : "Turkey", "size": "23595" },
+				{ "name" : "tempobet22.com", "country" : "Turkey", "size": "26916" },
+				{ "name" : "fbs.com.tr", "country" : "Turkey", "size": "27366" },
+				{
+					"name" : "fulldiziizleyelim.org",
+					"country" : "Turkey",
+					"size": "55258"
+				},
+				{ "name" : "cimri.com", "country" : "Turkey", "size": "23907" },
+				{ "name" : "modagram.com", "country" : "Turkey", "size": "26530" },
+				{ "name" : "wardom.org", "country" : "Turkey", "size": "28053" },
+				{
+					"name" : "mybacksurveyonlinezs.com",
+					"country" : "Turkey",
+					"size": "33073"
+				},
+				{ "name" : "alanadlari.com", "country" : "Turkey", "size": "26102" },
+				{ "name" : "iett.gov.tr", "country" : "Turkey", "size": "25400" },
+				{ "name" : "mayonez.net", "country" : "Turkey", "size": "26888" },
+				{ "name" : "medyafaresi.com", "country" : "Turkey", "size": "24784" },
+				{ "name" : "zapkolik.com", "country" : "Turkey", "size": "20185" },
+				{ "name" : "say.ac", "country" : "Turkey", "size": "25214" },
+				{ "name" : "pornoizleturk.biz", "country" : "Turkey", "size": "71810" },
+				{ "name" : "likelo.com", "country" : "Turkey", "size": "22836" },
+				{
+					"name" : "canliradyodinle.gen.tr",
+					"country" : "Turkey",
+					"size": "30038"
+				},
+				{ "name" : "resmigazete.gov.tr", "country" : "Turkey", "size": "27011" },
+				{ "name" : "superfb.com", "country" : "Turkey", "size": "28844" },
+				{ "name" : "defacto.com.tr", "country" : "Turkey", "size": "26506" },
+				{ "name" : "risaleajans.com", "country" : "Turkey", "size": "21781" },
+				{ "name" : "gazeteciler.com", "country" : "Turkey", "size": "24328" },
+				{ "name" : "haberyurdum.com", "country" : "Turkey", "size": "29512" },
+				{ "name" : "aljazeera.com.tr", "country" : "Turkey", "size": "41652" },
+				{ "name" : "www.nic.tr", "country" : "Turkey", "size": "29343" },
+				{ "name" : "pirsushaber.com", "country" : "Turkey", "size": "27945" },
+				{ "name" : "forumexe.com", "country" : "Turkey", "size": "27083" },
+				{ "name" : "hdfilmsaati.org", "country" : "Turkey", "size": "24497" },
+				{ "name" : "hotelspro.com", "country" : "Turkey", "size": "31143" },
+				{ "name" : "ttnetmuzik.com.tr", "country" : "Turkey", "size": "28479" },
+				{ "name" : "ultrafilmizle.com", "country" : "Turkey", "size": "18881" },
+				{ "name" : "tahminkolik.com", "country" : "Turkey", "size": "27053" },
+				{ "name" : "haberfedai.com", "country" : "Turkey", "size": "28730" },
+				{ "name" : "rdrtr.com", "country" : "Turkey", "size": "39816" },
+				{ "name" : "yeniakit.com.tr", "country" : "Turkey", "size": "28759" },
+				{ "name" : "payu.com.tr", "country" : "Turkey", "size": "28186" },
+				{ "name" : "0eb.net", "country" : "Turkey", "size": "33517" },
+				{ "name" : "msxlabs.org", "country" : "Turkey", "size": "24533" },
+				{ "name" : "evrenselfilm.net", "country" : "Turkey", "size": "29583" },
+				{ "name" : "zzsearch.net", "country" : "Turkey", "size": "22388" },
+				{ "name" : "ikea.com.tr", "country" : "Turkey", "size": "27486" },
+				{ "name" : "sozluk.net", "country" : "Turkey", "size": "26136" },
+				{ "name" : "haberself.com", "country" : "Turkey", "size": "25498" },
+				{ "name" : "mngkargo.com.tr", "country" : "Turkey", "size": "25856" },
+				{ "name" : "yakala.co", "country" : "Turkey", "size": "28012" },
+				{ "name" : "wordego.com", "country" : "Turkey", "size": "29609" },
+				{ "name" : "diziler.com", "country" : "Turkey", "size": "26375" },
+				{ "name" : "iskur.gov.tr", "country" : "Turkey", "size": "29995" },
+				{ "name" : "grafikerler.net", "country" : "Turkey", "size": "29989" },
+				{ "name" : "minioyun.org", "country" : "Turkey", "size": "27342" },
+				{ "name" : "rivalo1.com", "country" : "Turkey", "size": "39855" },
+				{ "name" : "turkticaret.net", "country" : "Turkey", "size": "27299" },
+				{ "name" : "diziizlehdfull.net", "country" : "Turkey", "size": "25194" },
+				{ "name" : "leechturk.com", "country" : "Turkey", "size": "30454" },
+				{ "name" : "haber61.net", "country" : "Turkey", "size": "11017" },
+				{ "name" : "turktorrent.eu", "country" : "Turkey", "size": "22573" },
+				{ "name" : "issizadam.net", "country" : "Turkey", "size": "19634" },
+				{ "name" : "22sexy.com", "country" : "Turkey", "size": "74124" },
+				{ "name" : "ref5.net", "country" : "Turkey", "size": "30094" },
+				{ "name" : "turkcebilgi.com", "country" : "Turkey", "size": "29733" },
+				{ "name" : "emlakguncel.com", "country" : "Turkey", "size": "28126" },
+				{ "name" : "sporxtv.com", "country" : "Turkey", "size": "31740" },
+				{
+					"name" : "bilgisayarbilisim.net",
+					"country" : "Turkey",
+					"size": "30243"
+				},
+				{ "name" : "bitturk.net", "country" : "Turkey", "size": "29489" },
+				{ "name" : "aydinlikgazete.com", "country" : "Turkey", "size": "28680" },
+				{ "name" : "grupanya.com", "country" : "Turkey", "size": "30780" },
+				{ "name" : "boun.edu.tr", "country" : "Turkey", "size": "29408" },
+				{ "name" : "eticaretmag.com", "country" : "Turkey", "size": "31709" },
+				{ "name" : "hurriyettv.com", "country" : "Turkey", "size": "75083" },
+				{ "name" : "gsgazete.com", "country" : "Turkey", "size": "29830" },
+				{ "name" : "dunya.com", "country" : "Turkey", "size": "31732" },
+				{ "name" : "61saat.com", "country" : "Turkey", "size": "29552" },
+				{ "name" : "emu.edu.tr", "country" : "Turkey", "size": "29899" },
+				{ "name" : "trtspor.com.tr", "country" : "Turkey", "size": "35135" },
+				{ "name" : "dizi-mag.com", "country" : "Turkey", "size": "26800" },
+				{ "name" : "gelirortaklari.com", "country" : "Turkey", "size": "31092" },
+				{ "name" : "haber10.com", "country" : "Turkey", "size": "25269" },
+				{ "name" : "hocy.net", "country" : "Turkey", "size": "29213" },
+				{ "name" : "eksiduyuru.com", "country" : "Turkey", "size": "29846" },
+				{ "name" : "forvetbet800.com", "country" : "Turkey", "size": "34172" },
+				{ "name" : "webtentvizle.com", "country" : "Turkey", "size": "31968" },
+				{ "name" : "vbulletin-turko.com", "country" : "Turkey", "size": "26300" },
+				{ "name" : "sadecehosting.net", "country" : "Turkey", "size": "27249" },
+				{ "name" : "cinemaximum.com.tr", "country" : "Turkey", "size": "33136" },
+				{ "name" : "uzmancevap.org", "country" : "Turkey", "size": "34534" },
+				{ "name" : "sakarya.edu.tr", "country" : "Turkey", "size": "29307" },
+				{ "name" : "emlakjet.com", "country" : "Turkey", "size": "31765" },
+				{ "name" : "digiturk.com.tr", "country" : "Turkey", "size": "32615" },
+				{
+					"name" : "bolumsonucanavari.com",
+					"country" : "Turkey",
+					"size": "31198"
+				},
+				{ "name" : "akparti.org.tr", "country" : "Turkey", "size": "31302" },
+				{ "name" : "saglik.gov.tr", "country" : "Turkey", "size": "31390" },
+				{ "name" : "son.tv", "country" : "Turkey", "size": "28463" },
+				{ "name" : "haberts.com", "country" : "Turkey", "size": "34562" },
+				{ "name" : "kijiji.com.tr", "country" : "Turkey", "size": "32073" },
+				{ "name" : "hisse.net", "country" : "Turkey", "size": "30364" },
+				{ "name" : "broadagesports.com", "country" : "Turkey", "size": "49215" },
+				{ "name" : "sanalkurs.net", "country" : "Turkey", "size": "31436" },
+				{ "name" : "taleworlds.com", "country" : "Turkey", "size": "27911" },
+				{ "name" : "gazeteport.com.tr", "country" : "Turkey", "size": "32584" },
+				{ "name" : "alastyr.com", "country" : "Turkey", "size": "36315" },
+				{ "name" : "yurtgazetesi.com.tr", "country" : "Turkey", "size": "31225" },
+				{ "name" : "birgun.net", "country" : "Turkey", "size": "30265" },
+				{ "name" : "okulistik.com", "country" : "Turkey", "size": "32146" },
+				{ "name" : "gscimbom.com", "country" : "Turkey", "size": "29866" },
+				{ "name" : "haberaktuel.com", "country" : "Turkey", "size": "38199" },
+				{ "name" : "akilli.tv", "country" : "Turkey", "size": "32836" },
+				{ "name" : "sanalbasin.com", "country" : "Turkey", "size": "34130" },
+				{ "name" : "incicaps.com", "country" : "Turkey", "size": "33540" },
+				{ "name" : "bebekoyunu.com.tr", "country" : "Turkey", "size": "31144" },
+				{ "name" : "opencart-tr.com", "country" : "Turkey", "size": "35234" },
+				{ "name" : "mhrs.gov.tr", "country" : "Turkey", "size": "35250" },
+				{ "name" : "tvarsivi.com", "country" : "Turkey", "size": "24665" },
+				{ "name" : "tribundergi.com", "country" : "Turkey", "size": "37260" },
+				{ "name" : "tozlugiyim.com.tr", "country" : "Turkey", "size": "28102" },
+				{ "name" : "elookat.com", "country" : "Turkey", "size": "30974" },
+				{ "name" : "youexif.com", "country" : "Turkey", "size": "47966" },
+				{ "name" : "ilkelihaber.com", "country" : "Turkey", "size": "33526" },
+				{ "name" : "evim.net", "country" : "Turkey", "size": "28369" },
+				{ "name" : "haberciniz.biz", "country" : "Turkey", "size": "33116" },
+				{ "name" : "hacettepe.edu.tr", "country" : "Turkey", "size": "34999" },
+				{ "name" : "webteizle.org", "country" : "Turkey", "size": "27806" },
+				{ "name" : "tripadvisor.com.tr", "country" : "Turkey", "size": "34540" },
+				{ "name" : "techno-labs.com", "country" : "Turkey", "size": "44113" },
+				{ "name" : "searchandseek.com", "country" : "Turkey", "size": "36705" },
+				{ "name" : "skyscanner.com.tr", "country" : "Turkey", "size": "38250" },
+				{ "name" : "kadinvekadin.net", "country" : "Turkey", "size": "31608" },
+				{ "name" : "muhalifgazete.com", "country" : "Turkey", "size": "31563" },
+				{ "name" : "filmiizle.tv", "country" : "Turkey", "size": "29945" },
+				{ "name" : "muhalifbaski.com", "country" : "Turkey", "size": "49858" },
+				{ "name" : "adtriplex.com", "country" : "Turkey", "size": "33268" },
+				{ "name" : "haxball.com", "country" : "Turkey", "size": "28994" },
+				{ "name" : "canlitvx.com", "country" : "Turkey", "size": "35613" },
+				{ "name" : "3doyunlar.net", "country" : "Turkey", "size": "28607" },
+				{ "name" : "koctas.com.tr", "country" : "Turkey", "size": "33758" },
+				{ "name" : "koreanturk.com", "country" : "Turkey", "size": "34503" },
+				{ "name" : "hdarsivi.com", "country" : "Turkey", "size": "30685" },
+				{ "name" : "filminndir.org", "country" : "Turkey", "size": "41126" },
+				{ "name" : "boyner.com.tr", "country" : "Turkey", "size": "34016" },
+				{ "name" : "numberone.com.tr", "country" : "Turkey", "size": "32108" },
+				{ "name" : "haberform.com", "country" : "Turkey", "size": "36355" },
+				{ "name" : "stargundem.com", "country" : "Turkey", "size": "34259" },
+				{ "name" : "tpe.gov.tr", "country" : "Turkey", "size": "34783" },
+				{ "name" : "hostinger.web.tr", "country" : "Turkey", "size": "34900" },
+				{ "name" : "zinko.net", "country" : "Turkey", "size": "33244" },
+				{
+					"name" : "sorularlaislamiyet.com",
+					"country" : "Turkey",
+					"size": "32643"
+				},
+				{ "name" : "temafabrika.com", "country" : "Turkey", "size": "57343" },
+				{ "name" : "fullhd720pizle.com", "country" : "Turkey", "size": "43253" },
+				{ "name" : "macyayinlari.com", "country" : "Turkey", "size": "70499" },
+				{ "name" : "idemama.com", "country" : "Turkey", "size": "58741" },
+				{ "name" : "komedi.com", "country" : "Turkey", "size": "165438" },
+				{ "name" : "anadolujet.com", "country" : "Turkey", "size": "65964" },
+				{ "name" : "com.nu", "country" : "Turkey", "size": "62360" },
+				{ "name" : "niobeweb.net", "country" : "Turkey", "size": "87823" },
+				{ "name" : "zamundatorrent.com", "country" : "Turkey", "size": "65891" },
+				{ "name" : "whmdestek.com", "country" : "Turkey", "size": "79567" },
+				{ "name" : "sinetif.com", "country" : "Turkey", "size": "73139" },
+				{
+					"name" : "bedavacanlitvizle.org",
+					"country" : "Turkey",
+					"size": "69473"
+				},
+				{ "name" : "gormenlazim.net", "country" : "Turkey", "size": "196713" },
+				{ "name" : "sarki-sozleri.net", "country" : "Turkey", "size": "55413" },
+				{ "name" : "woops.com.tr", "country" : "Turkey", "size": "94778" },
+				{ "name" : "frmartuklu.net", "country" : "Turkey", "size": "64494" },
+				{ "name" : "anasayfa.co", "country" : "Turkey", "size": "68468" },
+				{ "name" : "klanlar.org", "country" : "Turkey", "size": "60164" },
+				{ "name" : "malatyagercek.com", "country" : "Turkey", "size": "65242" },
+				{ "name" : "inciseks.com", "country" : "Turkey", "size": "87504" },
+				{ "name" : "e-tesettur.com.tr", "country" : "Turkey", "size": "68557" },
+				{ "name" : "filmtvizle.org", "country" : "Turkey", "size": "98779" },
+				{ "name" : "turktorrent.cc", "country" : "Turkey", "size": "118946" },
+				{ "name" : "vipmerkezi.net", "country" : "Turkey", "size": "67284" },
+				{ "name" : "9cameras.com", "country" : "Turkey", "size": "63114" },
+				{ "name" : "egehaber.com", "country" : "Turkey", "size": "55376" },
+				{ "name" : "superkarga.com", "country" : "Turkey", "size": "78908" },
+				{ "name" : "tenceretv.com", "country" : "Turkey", "size": "68664" },
+				{ "name" : "skorer.com", "country" : "Turkey", "size": "42484" },
+				{ "name" : "dvixcenter.com", "country" : "Turkey", "size": "90845" },
+				{ "name" : "gunaz.tv", "country" : "Turkey", "size": "88007" },
+				{ "name" : "turkcebilgi.org", "country" : "Turkey", "size": "69607" },
+				{ "name" : "altinpiyasa.com", "country" : "Turkey", "size": "69757" },
+				{ "name" : "oyyla.com", "country" : "Turkey", "size": "78437" },
+				{ "name" : "pornelits.com", "country" : "Turkey", "size": "77802" },
+				{ "name" : "etohum.com", "country" : "Turkey", "size": "53466" },
+				{ "name" : "haberinbizden.com", "country" : "Turkey", "size": "63342" },
+				{ "name" : "vicepra.us", "country" : "Turkey", "size": "63928" },
+				{ "name" : "renault.com.tr", "country" : "Turkey", "size": "59428" },
+				{ "name" : "mutfaksirlari.com", "country" : "Turkey", "size": "65260" },
+				{ "name" : "proticaret.org", "country" : "Turkey", "size": "70796" },
+				{ "name" : "ubuntu-tr.net", "country" : "Turkey", "size": "68246" },
+				{ "name" : "sendika.org", "country" : "Turkey", "size": "57564" },
+				{ "name" : "724tikla.com", "country" : "Turkey", "size": "72111" },
+				{ "name" : "reali.st", "country" : "Turkey", "size": "64164" },
+				{ "name" : "wptemalari.net", "country" : "Turkey", "size": "69401" },
+				{ "name" : "gonuldensevenler.com", "country" : "Turkey", "size": "74817" },
+				{ "name" : "roketoyun.com", "country" : "Turkey", "size": "74366" },
+				{ "name" : "birliktealalim.com", "country" : "Turkey", "size": "80086" },
+				{ "name" : "haberartiturk.com", "country" : "Turkey", "size": "59946" },
+				{ "name" : "webadam.com", "country" : "Turkey", "size": "65976" },
+				{ "name" : "medimagazin.com.tr", "country" : "Turkey", "size": "67406" },
+				{ "name" : "tuik.gov.tr", "country" : "Turkey", "size": "77271" },
+				{ "name" : "agaclar.net", "country" : "Turkey", "size": "77079" },
+				{ "name" : "sendloop.com", "country" : "Turkey", "size": "85660" },
+				{ "name" : "altincicadde.com", "country" : "Turkey", "size": "65170" },
+				{ "name" : "webservis.gen.tr", "country" : "Turkey", "size": "73499" },
+				{ "name" : "sabanciuniv.edu", "country" : "Turkey", "size": "77270" },
+				{
+					"name" : "onlinefilmizlevk.com",
+					"country" : "Turkey",
+					"size": "106251"
+				},
+				{ "name" : "microoyun.com", "country" : "Turkey", "size": "74353" },
+				{ "name" : "ratingkurdu.com", "country" : "Turkey", "size": "90899" },
+				{ "name" : "oyunoyna.az", "country" : "Turkey", "size": "73936" },
+				{ "name" : "dijimecmua.com", "country" : "Turkey", "size": "76339" },
+				{ "name" : "haber8.com", "country" : "Turkey", "size": "57467" },
+				{ "name" : "altin.in", "country" : "Turkey", "size": "72180" },
+				{ "name" : "habertempo.com", "country" : "Turkey", "size": "69271" },
+				{ "name" : "barcin.com", "country" : "Turkey", "size": "72325" },
+				{ "name" : "scroll.com.tr", "country" : "Turkey", "size": "72226" },
+				{ "name" : "radore.com", "country" : "Turkey", "size": "81700" },
+				{ "name" : "elazighaberi.com", "country" : "Turkey", "size": "68219" },
+				{ "name" : "rerererarara.net", "country" : "Turkey", "size": "78572" },
+				{ "name" : "aydin.edu.tr", "country" : "Turkey", "size": "81619" },
+				{ "name" : "reklam9.com", "country" : "Turkey", "size": "111516" },
+				{ "name" : "demokrathaber.net", "country" : "Turkey", "size": "91797" },
+				{ "name" : "videoizle.co", "country" : "Turkey", "size": "69745" },
+				{ "name" : "fgulen.com", "country" : "Turkey", "size": "53992" },
+				{ "name" : "diyanettakvimi.com", "country" : "Turkey", "size": "77081" },
+				{ "name" : "avantajix.com", "country" : "Turkey", "size": "75686" },
+				{ "name" : "revolution-news.com", "country" : "Turkey", "size": "113150" },
+				{ "name" : "ogunhaber.com", "country" : "Turkey", "size": "78387" },
+				{ "name" : "paracebe.com", "country" : "Turkey", "size": "75447" },
+				{ "name" : "bjk.com.tr", "country" : "Turkey", "size": "64041" },
+				{ "name" : "teknomobil.org", "country" : "Turkey", "size": "62637" },
+				{ "name" : "hangikredi.com", "country" : "Turkey", "size": "68906" },
+				{ "name" : "fiat.com.tr", "country" : "Turkey", "size": "62158" },
+				{ "name" : "iamistanbul.tv", "country" : "Turkey", "size": "79360" },
+				{ "name" : "radyofenomen.com", "country" : "Turkey", "size": "76292" },
+				{ "name" : "weblozi.com", "country" : "Turkey", "size": "82541" },
+				{ "name" : "haberpi.com", "country" : "Turkey", "size": "77501" },
+				{ "name" : "turk.net", "country" : "Turkey", "size": "74886" },
+				{
+					"name" : "fullhdfilmseyret.com",
+					"country" : "Turkey",
+					"size": "121505"
+				},
+				{ "name" : "belediye.tv", "country" : "Turkey", "size": "75008" },
+				{ "name" : "guvenrehberi.com", "country" : "Turkey", "size": "112200" },
+				{ "name" : "sunexpress.com.tr", "country" : "Turkey", "size": "76637" },
+				{ "name" : "olay.com.tr", "country" : "Turkey", "size": "69932" },
+				{
+					"name" : "sondakikahaberleri.info.tr",
+					"country" : "Turkey",
+					"size": "72903"
+				},
+				{ "name" : "alobilethatti.com", "country" : "Turkey", "size": "73160" },
+				{ "name" : "haksozhaber.net", "country" : "Turkey", "size": "64761" },
+				{ "name" : "incisozluk.cc", "country" : "Turkey", "size": "58185" },
+				{ "name" : "bonus.com.tr", "country" : "Turkey", "size": "68341" },
+				{ "name" : "netmoda.com", "country" : "Turkey", "size": "105277" },
+				{ "name" : "beymen.com", "country" : "Turkey", "size": "78695" },
+				{ "name" : "cahidejibek.com", "country" : "Turkey", "size": "77199" },
+				{ "name" : "jtnpanel.com", "country" : "Turkey", "size": "70771" },
+				{ "name" : "momizat.net", "country" : "Turkey", "size": "48484" },
+				{ "name" : "360adshost.com", "country" : "Turkey", "size": "109726" },
+				{ "name" : "penimax.us", "country" : "Turkey", "size": "116924" },
+				{ "name" : "netkayit.com", "country" : "Turkey", "size": "76209" },
+				{ "name" : "egm.gov.tr", "country" : "Turkey", "size": "75633" },
+				{ "name" : "heithalat.com", "country" : "Turkey", "size": "84280" },
+				{ "name" : "onename.org", "country" : "Turkey", "size": "129872" },
+				{ "name" : "trabzonspor.org.tr", "country" : "Turkey", "size": "73650" },
+				{ "name" : "toptanciniz.com", "country" : "Turkey", "size": "73372" },
+				{ "name" : "objektifhaber.com", "country" : "Turkey", "size": "77034" },
+				{ "name" : "mobrog.com", "country" : "Turkey", "size": "71984" },
+				{ "name" : "usluer.net", "country" : "Turkey", "size": "75020" },
+				{ "name" : "cizgifilm.in", "country" : "Turkey", "size": "73477" },
+				{ "name" : "cilginturkporno.com", "country" : "Turkey", "size": "73790" },
+				{ "name" : "vidobu.com", "country" : "Turkey", "size": "91332" },
+				{ "name" : "anarschi.com", "country" : "Turkey", "size": "82047" },
+				{ "name" : "sosyalmedyahaber.com", "country" : "Turkey", "size": "97648" },
+				{ "name" : "ihya.org", "country" : "Turkey", "size": "61264" },
+				{ "name" : "kosgeb.gov.tr", "country" : "Turkey", "size": "78525" },
+				{ "name" : "samanyolu.tv", "country" : "Turkey", "size": "79497" },
+				{ "name" : "yasambu.com", "country" : "Turkey", "size": "76336" },
+				{ "name" : "as42926.net", "country" : "Turkey", "size": "81650" },
+				{ "name" : "yakuter.com", "country" : "Turkey", "size": "78865" },
+				{ "name" : "cmbilisim.com", "country" : "Turkey", "size": "72433" },
+				{ "name" : "palstation106.com", "country" : "Turkey", "size": "87426" },
+				{ "name" : "peugeot.com.tr", "country" : "Turkey", "size": "101265" },
+				{ "name" : "basbakanlik.gov.tr", "country" : "Turkey", "size": "95431" },
+				{ "name" : "altinkaynak.com.tr", "country" : "Turkey", "size": "71674" },
+				{ "name" : "hayatnotu.com", "country" : "Turkey", "size": "64258" },
+				{ "name" : "demokratgebze.com.tr", "country" : "Turkey", "size": "77623" },
+				{ "name" : "turkiyef1.com", "country" : "Turkey", "size": "89524" },
+				{ "name" : "bahisanaliz.com", "country" : "Turkey", "size": "85681" },
+				{ "name" : "ingilizce.tk", "country" : "Turkey", "size": "79341" },
+				{ "name" : "elele.com.tr", "country" : "Turkey", "size": "51789" },
+				{ "name" : "matchandtalk.com", "country" : "Turkey", "size": "58829" },
+				{ "name" : "mp3indirdur.com", "country" : "Turkey", "size": "155364" },
+				{ "name" : "ulusoy.com.tr", "country" : "Turkey", "size": "72703" },
+				{ "name" : "safirtema.com", "country" : "Turkey", "size": "75271" },
+				{ "name" : "ozelarkadas.co", "country" : "Turkey", "size": "119155" },
+				{ "name" : "startupturkey.com", "country" : "Turkey", "size": "115796" },
+				{ "name" : "novacep.net", "country" : "Turkey", "size": "363506" },
+				{ "name" : "lastikcim.com.tr", "country" : "Turkey", "size": "306749" },
+				{ "name" : "positionfinder.net", "country" : "Turkey", "size": "309006" },
+				{ "name" : "onlinezekaoyunu.com", "country" : "Turkey", "size": "737958" },
+				{ "name" : "pornomoon.com", "country" : "Turkey", "size": "433095" },
+				{ "name" : "multi-ping.com", "country" : "Turkey", "size": "349155" },
+				{ "name" : "kalemhediye.com", "country" : "Turkey", "size": "391776" },
+				{ "name" : "limitsizamca.net", "country" : "Turkey", "size": "549023" },
+				{ "name" : "watsons.com.tr", "country" : "Turkey", "size": "441625" },
+				{ "name" : "dizimag.in", "country" : "Turkey", "size": "400548" },
+				{ "name" : "omergin.com", "country" : "Turkey", "size": "418178" },
+				{ "name" : "sekomedia.com", "country" : "Turkey", "size": "394935" },
+				{ "name" : "adamspor.com", "country" : "Turkey", "size": "305597" },
+				{ "name" : "arabulyeri.com", "country" : "Turkey", "size": "434462" },
+				{ "name" : "yasaracar.com", "country" : "Turkey", "size": "497037" },
+				{ "name" : "onlinegamer.cc", "country" : "Turkey", "size": "311054" },
+				{ "name" : "habersitesikur.com", "country" : "Turkey", "size": "359148" },
+				{ "name" : "cescesor.com", "country" : "Turkey", "size": "408550" },
+				{ "name" : "erasmusum.com", "country" : "Turkey", "size": "499646" },
+				{ "name" : "opencart.gen.tr", "country" : "Turkey", "size": "376853" },
+				{ "name" : "wolflitepro.com", "country" : "Turkey", "size": "385543" },
+				{ "name" : "lokuf.com", "country" : "Turkey", "size": "430287" },
+				{ "name" : "netbosanma.com", "country" : "Turkey", "size": "518909" },
+				{ "name" : "biribon.com", "country" : "Turkey", "size": "763361" },
+				{ "name" : "atticthemes.com", "country" : "Turkey", "size": "369378" },
+				{ "name" : "imza.la", "country" : "Turkey", "size": "422640" },
+				{ "name" : "uni-trend.com", "country" : "Turkey", "size": "665528" },
+				{ "name" : "pornsexbak.com", "country" : "Turkey", "size": "272094" },
+				{ "name" : "isimlerinanlami.net", "country" : "Turkey", "size": "415367" },
+				{
+					"name" : "pastaoyunlari.gen.tr",
+					"country" : "Turkey",
+					"size": "480629"
+				},
+				{ "name" : "news6global.com", "country" : "Turkey", "size": "185513" },
+				{ "name" : "dizilerfull.com", "country" : "Turkey", "size": "679159" },
+				{ "name" : "aykutokyay.com", "country" : "Turkey", "size": "665859" },
+				{ "name" : "jonturk.com", "country" : "Turkey", "size": "257898" },
+				{ "name" : "delidolusex.me", "country" : "Turkey", "size": "543836" },
+				{ "name" : "tatilgo.com", "country" : "Turkey", "size": "392093" },
+				{ "name" : "oyak.com.tr", "country" : "Turkey", "size": "434436" },
+				{ "name" : "salom.com.tr", "country" : "Turkey", "size": "314929" },
+				{ "name" : "istdizayn.com", "country" : "Turkey", "size": "409647" },
+				{ "name" : "365alisveris.com", "country" : "Turkey", "size": "425037" },
+				{ "name" : "bilgit.com", "country" : "Turkey", "size": "373942" },
+				{ "name" : "cicibebeler.com", "country" : "Turkey", "size": "464781" },
+				{ "name" : "inhores.com", "country" : "Turkey", "size": "625273" },
+				{ "name" : "mangavadisi.net", "country" : "Turkey", "size": "498170" },
+				{ "name" : "betashoes.com", "country" : "Turkey", "size": "411860" },
+				{ "name" : "dekosor.com", "country" : "Turkey", "size": "578215" },
+				{ "name" : "sarepirlanta.com", "country" : "Turkey", "size": "436783" },
+				{ "name" : "putur.com", "country" : "Turkey", "size": "392927" },
+				{ "name" : "demirdokum.com.tr", "country" : "Turkey", "size": "379569" },
+				{ "name" : "reklamfon.com", "country" : "Turkey", "size": "230088" },
+				{
+					"name" : "themeforest.net/user/designingmedia",
+					"country" : "Turkey",
+					"size": "417765"
+				},
+				{ "name" : "matbaaloji.com", "country" : "Turkey", "size": "535120" },
+				{
+					"name" : "izmirisrehberi.com.tr",
+					"country" : "Turkey",
+					"size": "343915"
+				},
+				{ "name" : "fatih.bel.tr", "country" : "Turkey", "size": "417305" },
+				{ "name" : "serhattv.com.tr", "country" : "Turkey", "size": "396632" },
+				{ "name" : "noktadetectors.com", "country" : "Turkey", "size": "485927" },
+				{ "name" : "yarisdergisi.com", "country" : "Turkey", "size": "372668" },
+				{ "name" : "radyotvonline.com", "country" : "Turkey", "size": "392261" },
+				{ "name" : "yemekhatti.com", "country" : "Turkey", "size": "431044" },
+				{ "name" : "derinmor.com", "country" : "Turkey", "size": "361038" },
+				{ "name" : "yeniklasor.com", "country" : "Turkey", "size": "303823" },
+				{ "name" : "bozok.edu.tr", "country" : "Turkey", "size": "291578" },
+				{ "name" : "oyunturk.com", "country" : "Turkey", "size": "453682" },
+				{ "name" : "eodepo.com", "country" : "Turkey", "size": "388730" },
+				{ "name" : "avrupatr.com", "country" : "Turkey", "size": "391267" },
+				{ "name" : "kitapsepeti.com", "country" : "Turkey", "size": "415191" },
+				{ "name" : "ekadinca.com", "country" : "Turkey", "size": "334948" },
+				{ "name" : "yemek-tarifleri.com", "country" : "Turkey", "size": "423208" },
+				{ "name" : "falezhaber.com", "country" : "Turkey", "size": "304093" },
+				{ "name" : "sonduzluk.com", "country" : "Turkey", "size": "456879" },
+				{ "name" : "bitkirehberi.net", "country" : "Turkey", "size": "496017" },
+				{ "name" : "rizenabiz.com", "country" : "Turkey", "size": "401252" },
+				{ "name" : "fem.com.tr", "country" : "Turkey", "size": "328127" },
+				{ "name" : "birebirfikir.com", "country" : "Turkey", "size": "509693" },
+				{ "name" : "onurtemiz.com", "country" : "Turkey", "size": "428975" },
+				{ "name" : "surat.com.tr", "country" : "Turkey", "size": "527752" },
+				{ "name" : "umittopcan.net", "country" : "Turkey", "size": "569488" },
+				{
+					"name" : "kastamonupostasi.com",
+					"country" : "Turkey",
+					"size": "480309"
+				},
+				{ "name" : "lafsozluk.com", "country" : "Turkey", "size": "478218" },
+				{ "name" : "firsatsevdasi.com", "country" : "Turkey", "size": "331652" },
+				{ "name" : "sesliremix.com", "country" : "Turkey", "size": "454016" },
+				{ "name" : "yalova.edu.tr", "country" : "Turkey", "size": "416515" },
+				{ "name" : "graficopy.com.tr", "country" : "Turkey", "size": "410822" },
+				{ "name" : "soulmy.net", "country" : "Turkey", "size": "321538" },
+				{ "name" : "pirebi.com", "country" : "Turkey", "size": "660055" },
+				{ "name" : "edizilerim.com", "country" : "Turkey", "size": "321115" },
+				{ "name" : "meshursozler.com", "country" : "Turkey", "size": "366309" },
+				{ "name" : "transfermerkez.com", "country" : "Turkey", "size": "317144" },
+				{ "name" : "calismadunyasi.com", "country" : "Turkey", "size": "371517" },
+				{ "name" : "sefageldiniz.com", "country" : "Turkey", "size": "393149" },
+				{ "name" : "yerelsecim.com", "country" : "Turkey", "size": "468752" },
+				{ "name" : "ilimdunyasi.com", "country" : "Turkey", "size": "253768" },
+				{ "name" : "onlinepeople.com", "country" : "Turkey", "size": "424510" },
+				{ "name" : "guraysuerdem.com", "country" : "Turkey", "size": "472821" },
+				{ "name" : "turkishcargo.com.tr", "country" : "Turkey", "size": "373408" },
+				{ "name" : "yazihaneden.com", "country" : "Turkey", "size": "436411" },
+				{
+					"name" : "alanyaticaretrehberi.com",
+					"country" : "Turkey",
+					"size": "367905"
+				},
+				{ "name" : "armastil.com", "country" : "Turkey", "size": "405730" },
+				{ "name" : "androidciyiz.net", "country" : "Turkey", "size": "385399" },
+				{ "name" : "comtr.com.tr", "country" : "Turkey", "size": "336326" },
+				{ "name" : "sprymedia.co.uk", "country" : "Turkey", "size": "430991" },
+				{ "name" : "balerin.com", "country" : "Turkey", "size": "327820" },
+				{ "name" : "ellidokuz.com", "country" : "Turkey", "size": "362486" },
+				{ "name" : "tkd.org.tr", "country" : "Turkey", "size": "358626" },
+				{ "name" : "1ow.net", "country" : "Turkey", "size": "990130" },
+				{ "name" : "serhatatik.com.tr", "country" : "Turkey", "size": "404325" },
+				{ "name" : "sonvesayet.com", "country" : "Turkey", "size": "606146" },
+				{ "name" : "ufkumuz.com", "country" : "Turkey", "size": "470090" },
+				{ "name" : "mbirgin.com", "country" : "Turkey", "size": "438772" },
+				{ "name" : "icgiyimtoptan.com", "country" : "Turkey", "size": "816947" },
+				{ "name" : "lebriz.com", "country" : "Turkey", "size": "388104" },
+				{ "name" : "istihza.com", "country" : "Turkey", "size": "463509" },
+				{ "name" : "kobitek.com", "country" : "Turkey", "size": "434919" },
+				{ "name" : "oyunokyanusu.com", "country" : "Turkey", "size": "423455" },
+				{ "name" : "idata.com.tr", "country" : "Turkey", "size": "463131" },
+				{ "name" : "sekeryatirim.com", "country" : "Turkey", "size": "439764" },
+				{ "name" : "lojmi.com", "country" : "Turkey", "size": "1047632" },
+				{ "name" : "birincioyun.com", "country" : "Turkey", "size": "435704" },
+				{
+					"name" : "html-java-kod-bul.tr.gg",
+					"country" : "Turkey",
+					"size": "352403"
+				},
+				{
+					"name" : "twitter-takipcim.net",
+					"country" : "Turkey",
+					"size": "451717"
+				},
+				{ "name" : "thewhitetree.org", "country" : "Turkey", "size": "373461" },
+				{ "name" : "erzurummedya.com", "country" : "Turkey", "size": "364599" },
+				{ "name" : "zoosexclips.net", "country" : "Turkey", "size": "154802" },
+				{ "name" : "xprogaming.com", "country" : "Turkey", "size": "380662" },
+				{ "name" : "turkiyeturizm.com", "country" : "Turkey", "size": "324879" },
+				{ "name" : "uzmandil.com", "country" : "Turkey", "size": "346402" },
+				{ "name" : "pinar.com.tr", "country" : "Turkey", "size": "461897" },
+				{ "name" : "eskidji.com", "country" : "Turkey", "size": "467022" },
+				{ "name" : "moviesgaybears.com", "country" : "Turkey", "size": "396718" },
+				{ "name" : "ajansrize.net", "country" : "Turkey", "size": "366013" },
+				{ "name" : "nettaktik.biz", "country" : "Turkey", "size": "365679" },
+				{ "name" : "womendergisi.com", "country" : "Turkey", "size": "385568" },
+				{ "name" : "aljazeeratalk.net", "country" : "Turkey", "size": "545345" },
+				{ "name" : "tolgak.org", "country" : "Turkey", "size": "292611" },
+				{ "name" : "sonses.tv", "country" : "Turkey", "size": "391372" },
+				{ "name" : "filoturk.com", "country" : "Turkey", "size": "363839" },
+				{ "name" : "egzotiktatil.com", "country" : "Turkey", "size": "402473" },
+				{ "name" : "yargici.com.tr", "country" : "Turkey", "size": "411342" },
+				{ "name" : "marksist.org", "country" : "Turkey", "size": "331554" },
+				{ "name" : "josefislam.com", "country" : "Turkey", "size": "568639" },
+				{ "name" : "bilgibirikimi.net", "country" : "Turkey", "size": "481138" },
+				{ "name" : "aselsan.com.tr", "country" : "Turkey", "size": "384689" },
+				{ "name" : "tr-wp.com", "country" : "Turkey", "size": "337365" },
+				{ "name" : "kusadasinews.org", "country" : "Turkey", "size": "1032228" },
+				{ "name" : "oyunbul1.com", "country" : "Turkey", "size": "440992" },
+				{ "name" : "tarimsaati.com", "country" : "Turkey", "size": "545322" },
+				{ "name" : "kodhatasi.com", "country" : "Turkey", "size": "346275" },
+				{ "name" : "frivoyunlar.com", "country" : "Turkey", "size": "926503" },
+				{ "name" : "asports.com.tr", "country" : "Turkey", "size": "371015" },
+				{ "name" : "premiumtemplate.org", "country" : "Turkey", "size": "378781" },
+				{ "name" : "bilgidostum.com", "country" : "Turkey", "size": "699190" },
+				{ "name" : "neopazar.com", "country" : "Turkey", "size": "319841" },
+				{ "name" : "bursahaber.com", "country" : "Turkey", "size": "271878" },
+				{ "name" : "yazilimdevi.com", "country" : "Turkey", "size": "388842" },
+				{ "name" : "ahaport.com", "country" : "Turkey", "size": "453410" },
+				{
+					"name" : "telefondabekleme.com",
+					"country" : "Turkey",
+					"size": "370346"
+				},
+				{ "name" : "gamesliga.com", "country" : "Turkey", "size": "352079" },
+				{ "name" : "erisale.com", "country" : "Turkey", "size": "527787" },
+				{ "name" : "kayra.com.tr", "country" : "Turkey", "size": "289806" },
+				{ "name" : "maxidosya.com", "country" : "Turkey", "size": "418115" },
+				{ "name" : "divaoutlet.com", "country" : "Turkey", "size": "349845" },
+				{ "name" : "avkolik.net", "country" : "Turkey", "size": "454659" },
+				{ "name" : "birdunyabilgi.org", "country" : "Turkey", "size": "303079" },
+				{
+					"name" : "dnsdegistirme.gen.tr",
+					"country" : "Turkey",
+					"size": "555325"
+				},
+				{ "name" : "habercorlu.com", "country" : "Turkey", "size": "459685" },
+				{ "name" : "technotoday.com.tr", "country" : "Turkey", "size": "403518" },
+				{ "name" : "sag-lik.net", "country" : "Turkey", "size": "397736" },
+				{ "name" : "aksiyonkitap.com", "country" : "Turkey", "size": "260866" },
+				{
+					"name" : "abiyemodelleri2014.net",
+					"country" : "Turkey",
+					"size": "429777"
+				},
+				{ "name" : "ilgazetesi.com.tr", "country" : "Turkey", "size": "387744" },
+				{ "name" : "yakuphoca.com", "country" : "Turkey", "size": "381949" },
+				{ "name" : "boyabatgazetesi.com", "country" : "Turkey", "size": "456733" },
+				{ "name" : "toplumail.com", "country" : "Turkey", "size": "439953" },
+				{ "name" : "sinematur.com", "country" : "Turkey", "size": "422582" },
+				{ "name" : "buzzgency.com", "country" : "Turkey", "size": "279908" },
+				{ "name" : "bilgievi.gen.tr", "country" : "Turkey", "size": "349173" },
+				{ "name" : "otel.org", "country" : "Turkey", "size": "498587" },
+				{ "name" : "dumanhost.com", "country" : "Turkey", "size": "398391" },
+				{ "name" : "ugurkizmaz.com", "country" : "Turkey", "size": "465144" },
+				{ "name" : "femyayinlari.com.tr", "country" : "Turkey", "size": "451356" },
+				{ "name" : "net-haberler.com", "country" : "Turkey", "size": "338025" },
+				{ "name" : "myro.net", "country" : "Turkey", "size": "371606" },
+				{ "name" : "iizle.co", "country" : "Turkey", "size": "206179" },
+				{ "name" : "artservers.com.tr", "country" : "Turkey", "size": "439038" },
+				{ "name" : "pembeyastik.com", "country" : "Turkey", "size": "394025" },
+				{
+					"name" : "beypazarihaber24.com",
+					"country" : "Turkey",
+					"size": "559789"
+				},
+				{ "name" : "akillibinam.com", "country" : "Turkey", "size": "420339" },
+				{ "name" : "filmizleyo.com", "country" : "Turkey", "size": "259274" },
+				{ "name" : "verisay.com", "country" : "Turkey", "size": "442269" },
+				{ "name" : "aeproject.net", "country" : "Turkey", "size": "474604" },
+				{ "name" : "erayonline.com", "country" : "Turkey", "size": "459602" }
+
+				] 
+
+				  } 
+ 
+
+     
